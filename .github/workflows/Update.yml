@@ -1,7 +1,7 @@
 name: Update profile
 on:
   schedule:
-    - cron: '0 0 0 1 *'
+    - cron: '0 0 1 * *'
 
 jobs:
   update_profile_data:
