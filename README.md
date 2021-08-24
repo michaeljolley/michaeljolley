@@ -2,11 +2,11 @@
 
 ### Recent Blog Posts
 
+[Building a Discord Bot to Improve Inclusive Language](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;building-a-discord-bot-to-improve-inclusive-language)
+
 [Using Polywork to Break My Unconscious Biases](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;using-polywork-to-break-unconscious-biases)
 
 [10 VS Code Extensions You Need Today](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;10-visual-studio-code-extensions-you-need-today)
-
-[Adiós 2020. Setting Goals for 2021.](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;goals-for-2021)
 
 ### Recent Videos
 
