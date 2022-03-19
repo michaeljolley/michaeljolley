@@ -1,12 +1,12 @@
 <template>
-  <section v-if="data && !pending">
+  <section v-if="data && data.length > 0 && !pending">
     <div class="latest-videos">
       <h2>
         Latest
         <span>Videos</span>
       </h2>
       <ul>
-        <li v-for="video in data.data.allVideo" :key="video.slug.current">
+        <li v-for="video in data" :key="video.slug.current">
           <VideoCard :video="video" />
         </li>
       </ul>
@@ -19,6 +19,13 @@
   </section>
 </template>
 <script setup>
+const latestVideos = groq`*[_type == "video" && dateTime(publishedAt) <= dateTime(now())] | order(publishedAt desc){
+  url,
+  title,
+  publishedAt,
+  "coverImageUrl": coverImage.asset -> url
+}[0...3]`
+const { data, pending } = useSanityQuery(latestVideos)
 </script>
 <style lang="scss" scoped>
 section {
@@ -30,7 +37,7 @@ section {
     @apply lg:max-w-4xl xl:max-w-6xl;
     @apply text-base;
 
-    @apply text-darkPurple;
+    @apply text-darkPurple dark:text-white;
 
     h2 {
       @apply flex items-center;
@@ -40,8 +47,8 @@ section {
         @apply flex;
         @apply ml-1;
         @apply py-0 px-2;
-        @apply text-white;
-        @apply bg-blue-500;
+        @apply text-white dark:text-darkPurple;
+        @apply bg-blue-500 dark:bg-bbbblue;
       }
     }
 
@@ -70,39 +77,15 @@ section {
     }
 
     .all {
-      @apply font-bold uppercase;
-      @apply bg-darkPurple;
-      @apply text-white;
+      @apply font-bold font-fira uppercase;
+      @apply bg-darkPurple dark:bg-gray-200;
+      @apply text-white dark:text-darkPurple;
       @apply py-3 px-5;
       @apply mt-12;
       @apply rounded-md;
 
       &:hover {
-        @apply bg-blue-500;
-      }
-    }
-  }
-}
-
-body.dark {
-  section {
-    .latest-videos {
-      @apply text-white;
-
-      h2 {
-        span {
-          @apply text-darkPurple;
-          @apply bg-bbbblue;
-        }
-      }
-      .all {
-        @apply font-bold uppercase;
-        @apply bg-gray-200;
-        @apply text-darkPurple;
-
-        &:hover {
-          @apply bg-bbbpink;
-        }
+        @apply bg-blue-500 dark:bg-bbbpink;
       }
     }
   }

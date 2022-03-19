@@ -1,24 +1,28 @@
 <template>
-  <NuxtLink :to="`/blog/${post.slug.current}/`" :title="post.title">
-    <img
-      :alt="post.title"
-      :src="post.coverImageUrl"
-    />
+  <a :href="video.url" :title="videoTitle" target="_blank" class="videoCard">
+    <img :src="video.coverImageUrl" :title="videoTitle" />
     <main>
-      <h3>{{ post.title }}</h3>
-      <p>{{ post.excerpt }}</p>
+      <h3>{{ videoTitle }}</h3>
     </main>
-    <footer>READ MORE <IconArrow /></footer>
-  </NuxtLink>
+    <footer>
+      Watch Now
+      <IconVideoCamera />
+    </footer>
+  </a>
 </template>
 <script>
 export default {
   props: {
-    post: {
+    video: {
       type: Object,
       required: true,
-    },
+    }
   },
+  computed: {
+    videoTitle() {
+      return this.video.title.replace(' | Extension Highlight', '');
+    }
+  }
 }
 </script>
 <style lang="scss" scoped>
@@ -49,6 +53,7 @@ a {
     @apply text-bbbpink font-bold;
     @apply p-5 mt-auto;
     @apply flex align-middle gap-1;
+    @apply text-xs;
   }
   &:hover {
     border-image-slice: 1;
@@ -71,9 +76,12 @@ a {
     }
   }
 }
-.dark {
-  a:hover {
-    box-shadow: 0 25px 50px -12px rgba(255, 255, 255, 0.09);
+body.dark {
+  a {
+    @apply bg-darkPurple;
+    &:hover {
+      box-shadow: 0 25px 50px -12px rgba(255, 255, 255, 0.09);
+    }
   }
 }
 </style>

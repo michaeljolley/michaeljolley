@@ -1,18 +1,17 @@
 <template>
-  <section v-if="data && data.length > 0 && !pending">
+  <article>
     <div class="latest-posts">
-      <h2>
-        Latest
+      <h1>
+        Give me moar
         <span>Posts</span>
-      </h2>
-      <ul>
-        <li v-for="post in data" :key="post.slug.current">
+      </h1>
+      <ul v-if="data && !pending">
+        <li v-for="post in data" :key="post.slug">
           <BlogCard :post="post" />
         </li>
       </ul>
-      <NuxtLink class="all" to="/blog/" title="See all posts">See all posts</NuxtLink>
     </div>
-  </section>
+  </article>
 </template>
 <script setup>
 const latestPosts = groq`*[_type == "post" && dateTime(publishedAt) <= dateTime(now())] | order(publishedAt desc){
@@ -21,11 +20,11 @@ const latestPosts = groq`*[_type == "post" && dateTime(publishedAt) <= dateTime(
   publishedAt,
   excerpt,
   "coverImageUrl": coverImage.asset -> url
-}[0...6]`
+}`
 const { data, pending } = useSanityQuery(latestPosts)
 </script>
 <style lang="scss" scoped>
-section {
+article {
   .latest-posts {
     @apply flex flex-col justify-center items-center;
     @apply mx-auto;
@@ -36,7 +35,7 @@ section {
 
     @apply text-darkPurple dark:text-white;
 
-    h2 {
+    h1 {
       @apply flex items-center;
       @apply font-cairo font-bold uppercase;
       @apply text-3xl md:text-4xl;
@@ -50,39 +49,26 @@ section {
     }
 
     ul {
-      @apply mt-12;
+      @apply mt-16;
       @apply grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-8;
       @apply list-none;
 
       li {
         @apply h-full;
-
-        &:not(:nth-child(-n + 2)) {
-          @apply hidden;
-        }
-
-        @screen sm {
-          &:not(:nth-child(-n + 2)) {
-            @apply block;
-          }
-          &:not(:nth-child(-n + 4)) {
-            @apply hidden;
-            @apply xl:block;
-          }
-        }
       }
     }
+  }
+}
 
-    .all {
-      @apply font-bold font-fira uppercase;
-      @apply bg-darkPurple dark:bg-gray-200;
-      @apply text-white dark:text-darkPurple;
-      @apply py-3 px-5;
-      @apply mt-12;
-      @apply rounded-md;
-
-      &:hover {
-        @apply bg-blue-500 dark:bg-bbbpink;
+body.dark {
+  article {
+    .latest-posts {
+      @apply text-white;
+      h1 {
+        span {
+          @apply text-darkPurple;
+          @apply bg-bbbblue;
+        }
       }
     }
   }

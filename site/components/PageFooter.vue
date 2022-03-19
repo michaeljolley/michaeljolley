@@ -1,5 +1,5 @@
 <template>
-  <footer>
+  <footer class="stripe">
     <section>
       <div class="logo">
         <LogoHoriz />
