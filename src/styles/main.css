@@ -13,18 +13,45 @@ body,
 }
 
 body {
-	@apply bg-white;
+	@apply bg-white dark:bg-darkPurple;
 	@apply bg-no-repeat bg-cover;
 	background-position: center 3rem;
 	background-image: url('/images/bg-light.svg');
+}
 
-	&.dark {
-		@apply bg-darkPurple;
+.dark {
+	body {
 		background-image: url('/images/bg-dark.svg');
 	}
 }
 
+.svg-icon {
+	@apply inline-flex;
+	@apply self-center;
+	@apply relative;
 
+
+}
+
+.svg-icon>svg {
+	height: 1em;
+	width: 1em;
+	stroke: none;
+	fill: none;
+}
+
+.svg-icon svg.fill {
+	@apply fill-current;
+}
+
+.svg-icon svg.stroke {
+	@apply stroke-current;
+	@apply stroke-2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+}
+
+/* 
 
 // body {
 
@@ -202,4 +229,4 @@ body {
 // 			}
 // 		}
 // 	}
-// }
+// } */

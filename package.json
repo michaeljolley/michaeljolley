@@ -14,11 +14,10 @@
     "@astrojs/vue": "^0.0.2",
     "astro": "^0.25.2",
     "autoprefixer": "^10.4.4",
-    "sass": "^1.49.9",
+    "postcss": "^8.4.12",
     "vue": "^3.2.31"
   },
   "dependencies": {
-    "postcss": "^8.4.12",
     "preact": "^10.6.6"
   }
 }

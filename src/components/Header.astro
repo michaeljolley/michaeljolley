@@ -1,16 +1,15 @@
 ---
 import Logo from '../components/pageHeader/Logo.astro';
 import Navigation from '../components/pageHeader/Navigation.astro';
+import Toggle from '../components/pageHeader/Toggle.tsx';
 
 ---
-<header>
-  <Logo/>
-  <Navigation/>
-</header>
+  
 <style lang="scss">
 header {
   @apply w-full;
-  @apply flex flex-col;
+  @apply grid;
+  grid-template-columns: 40px auto;
 
   section {
     @apply flex justify-between;
@@ -28,3 +27,10 @@ header {
   }
 }
 </style>
+
+
+<header>
+  <Logo/>
+  <Navigation/>
+  <Toggle client:visible/>
+</header>

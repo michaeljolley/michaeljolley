@@ -1,27 +1,3 @@
 <span class="svg-icon">
   <slot/>
 </span>
-<style lang="scss">
-.svg-icon {
-  @apply inline-flex;
-  @apply self-center;
-  @apply relative;
-
-  svg {
-    height: 1em;
-    width: 1em;
-    stroke: none;
-    fill: none;
-
-    &.fill {
-      @apply fill-current;
-    }
-    &.stroke {
-      @apply stroke-current;
-      @apply stroke-2;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-    }
-  }
-}
-</style>
