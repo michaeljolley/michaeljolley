@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import BackToTop from '../components/BackToTop';
 
 let title = 'Example Blog';
 let description = 'The perfect starter for your perfect blog.';
@@ -16,9 +17,10 @@ let permalink = 'https://example.com/';
 
 	<body>
 		<Header />
-		<div class="wrapper">
+		<main>
 			<slot/>
-		</div>
+		</main>
 		<Footer/>
+    <BackToTop />
 	</body>
 </html>

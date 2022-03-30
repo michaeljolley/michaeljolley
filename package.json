@@ -11,11 +11,9 @@
   "devDependencies": {
     "@astrojs/preact": "^0.0.2",
     "@astrojs/tailwind": "^0.0.2",
-    "@astrojs/vue": "^0.0.2",
     "astro": "^0.25.2",
     "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12",
-    "vue": "^3.2.31"
+    "postcss": "^8.4.12"
   },
   "dependencies": {
     "preact": "^10.6.6"

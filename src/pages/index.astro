@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Default.astro'
-import BlogPostPreview from '../components/BlogPostPreview.astro';
+
+import Topper from '../components/Topper';
 
 interface MarkdownFrontmatter {
 	publishDate: number;
@@ -19,11 +20,5 @@ interface MarkdownFrontmatter {
 ---
 
 <Layout>
-	<div class="wrapper">
-		<main class="content">
-			<section aria-label="Blog post list">
-				<!-- {allPosts.map((p) => <BlogPostPreview post={p} />)} -->
-			</section>
-		</main>
-	</div>
+	<Topper client:only="preact" />
 </Layout>

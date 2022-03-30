@@ -41,6 +41,14 @@ body {
 	@apply bg-no-repeat bg-cover;
 	background-position: center 3rem;
 	background-image: url('/images/bg-light.svg');
+
+	@apply flex flex-col;
+
+	> main {
+		@apply mb-auto;
+		@apply flex flex-col gap-4;
+	}
+
 }
 
 .stripe {

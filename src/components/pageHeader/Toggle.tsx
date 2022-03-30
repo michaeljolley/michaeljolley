@@ -64,7 +64,3 @@ function ThemeToggle() {
 }
 
 export default ThemeToggle;
-
-<style lang="scss">
-
-</style>
