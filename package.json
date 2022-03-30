@@ -1,5 +1,5 @@
 {
-  "name": "@example/blog",
+  "name": "@michaeljolley/site",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -13,7 +13,8 @@
     "@astrojs/tailwind": "^0.0.2",
     "astro": "^0.25.2",
     "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12"
+    "postcss": "^8.4.12",
+    "sass": "^1.49.9"
   },
   "dependencies": {
     "preact": "^10.6.6"
