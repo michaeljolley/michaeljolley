@@ -17,7 +17,6 @@
     "sass": "^1.49.9"
   },
   "dependencies": {
-    "astro-imagetools": "^0.4.1",
     "preact": "^10.6.6"
   }
 }

@@ -350,6 +350,11 @@ body {
 			@apply text-darkPurple dark:text-white;
 		}
 
+		summary {
+			@apply text-sm;
+			@apply text-darkPurple dark:text-white;
+		}
+
 		p {
 			@apply text-sm font-raleway;
 			@apply text-gray-500;

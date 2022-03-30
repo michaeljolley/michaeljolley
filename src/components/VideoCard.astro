@@ -1,0 +1,13 @@
+---
+import IconVideoCamera from './icons/VideoCamera.astro';
+
+const {video} = Astro.props;
+---
+
+<a class="blogCard" href={video.link} title={video.title}>
+    <img src={video.cover} alt={video.title} />
+    <main>
+      <h3>{ video.title.replace(' | Extension Highlight', '') }</h3>
+    </main>
+    <footer>Watch Now <IconVideoCamera /></footer>
+  </a>

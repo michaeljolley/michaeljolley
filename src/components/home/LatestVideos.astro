@@ -1,0 +1,24 @@
+---
+import VideoCard from '../BlogCard.astro';
+
+  const allVideos = Astro.fetchContent('../../content/videos/**/*.md');
+  const sortedVideos = allVideos.sort((a, b) => new Date(b.date) - new Date(a.date))
+															.slice(0, 3);
+---
+
+<section class="latestPosts">
+	<div class="latest-posts">
+		<h2>Latest <span>Posts</span></h2>
+		<ul>
+		{
+			sortedVideos.map((video) => 
+				<li>
+					<VideoCard video={video} />
+				</li>
+			)
+		}
+		</ul>
+		<a class="all" href="/blog/" title="See all posts">See all posts</a
+		>
+	</div>
+</section>

@@ -1,13 +1,19 @@
 ---
 import IconArrow from './icons/Arrow.astro';
 
+const options = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}
+
 const {post} = Astro.props;
 ---
 
-<a class="blogCard" href={ post.slug } title={ post.title }>
-  <img alt={ post.title } src={ post.cover }/>
+<a class="blogCard" href={ `/blog/${post.slug}` } title={ post.title }>
   <main>
     <h3>{ post.title }</h3>
+		<summary>{ Intl.DateTimeFormat('us-EN', options).format(new Date(post.date)) }</summary>
     <p>{ post.summary }</p>
   </main>
   <footer>READ MORE <IconArrow /></footer>
