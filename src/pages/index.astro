@@ -1,24 +1,24 @@
 ---
 import Layout from '../layouts/Default.astro'
 
-import Topper from '../components/Topper';
+import Topper from '../components/home/Topper';
+import About from '../components/home/About';
+import SocialBar from '../components/home/SocialBar.astro';
+import LatestPosts from '../components/home/LatestPosts.astro';
 
 interface MarkdownFrontmatter {
-	publishDate: number;
+	date: number;
 }
 
-// Component Script:
-// You can write any JavaScript/TypeScript that you'd like here.
-// It will run during the build, but never in the browser.
-// All variables are available to use in the HTML template below.
-
-// Data Fetching: List all Markdown posts in the repo.
-
 // let allPosts = await Astro.fetchContent('./posts/*.md');
-// allPosts = allPosts.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(a.publishDate).valueOf());
+// allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
 
 ---
 
 <Layout>
 	<Topper client:only="preact" />
+	<About client:only="preact" />
+	<LatestPosts />
+	
+	<SocialBar />
 </Layout>

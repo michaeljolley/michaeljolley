@@ -1,0 +1,24 @@
+---
+import BlogCard from '../BlogCard.astro';
+
+  const allPosts = Astro.fetchContent('../../content/blog/**/*.md');
+  const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date))
+															.slice(0, 6);
+---
+
+<section class="latestPosts">
+	<div class="latest-posts">
+		<h2>Latest <span>Posts</span></h2>
+		<ul>
+		{
+			sortedPosts.map((post) => 
+				<li>
+					<BlogCard post={post} />
+				</li>
+			)
+		}
+		</ul>
+		<a class="all" href="/blog/" title="See all posts">See all posts</a
+		>
+	</div>
+</section>

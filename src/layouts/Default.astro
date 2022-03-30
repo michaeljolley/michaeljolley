@@ -4,15 +4,16 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BackToTop from '../components/BackToTop';
 
-let title = 'Example Blog';
-let description = 'The perfect starter for your perfect blog.';
-let permalink = 'https://example.com/';
+let title = 'Michael Jolley is the Bald Bearded Builder';
+let description = 'Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.';
+let permalink = 'https://baldbeardedbuilder.com/';
+let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
+
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead {title} {description} {permalink} />
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1.9.0/themes/prism-lucario.css"/>
+		<BaseHead {title} {description} {permalink} {tags} />
 	</head>
 
 	<body>

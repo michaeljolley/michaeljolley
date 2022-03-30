@@ -5,8 +5,10 @@ export interface Props {
 	title: string;
 	description: string;
 	permalink: string;
+	tags: string[];
 }
-const { title, description, permalink } = Astro.props;
+const { title, description, permalink, tags } = Astro.props;
+const keywords = tags.join(',');
 ---
 
 <!-- Global Metadata -->
@@ -18,6 +20,7 @@ const { title, description, permalink } = Astro.props;
 <title>{title}</title>
 <meta name="title" content={title} />
 <meta name="description" content={description} />
+<meta name="keywords" content={keywords} />
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
@@ -37,3 +40,4 @@ const { title, description, permalink } = Astro.props;
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Fira+Code&family=Raleway:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1.9.0/themes/prism-lucario.css"/>

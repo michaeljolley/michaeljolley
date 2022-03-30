@@ -1,4 +1,4 @@
-section {
+.topper {
 	@apply flex justify-center;
 	@apply mx-auto;
 	@apply w-full;
@@ -33,7 +33,7 @@ section {
 }
 
 .dark {
-	section {
+	.topper {
 		.intro {
 			background-image: url('/images/intro-dark.svg');
 
