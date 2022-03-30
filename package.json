@@ -11,13 +11,13 @@
   "devDependencies": {
     "@astrojs/preact": "^0.0.2",
     "@astrojs/tailwind": "^0.0.2",
-    "astro": "^0.25.2",
+    "astro": "^0.25.4",
     "autoprefixer": "^10.4.4",
     "postcss": "^8.4.12",
     "sass": "^1.49.9"
   },
   "dependencies": {
-    "preact": "^10.6.6",
-    "astro-imagetools": "^0.4.1"
+    "astro-imagetools": "^0.4.1",
+    "preact": "^10.6.6"
   }
 }
