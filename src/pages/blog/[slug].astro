@@ -1,0 +1,29 @@
+---
+export async function getStaticPaths() {
+  
+  const allPosts = Astro.fetchContent('../../content/blog/**/*.md');
+  const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+  return sortedPosts.map((post) => {
+    const pathParts = post.file.pathname.replace('/index.md', '').split('/');
+    const slug = pathParts[pathParts.length - 1]
+    return {
+      params: {
+        slug,
+      },
+      props: {
+        post
+      }
+    }
+  })
+}
+
+import { Markdown } from 'astro/components';
+import Layout from '../../layouts/Default.astro';
+const { post } = Astro.props;
+---
+
+<Layout>
+  <h1>{post.title}</h1>
+  <Markdown content={post.content.source}/>
+</Layout>

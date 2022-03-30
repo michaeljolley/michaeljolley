@@ -1,0 +1,29 @@
+---
+import Layout from '../../layouts/Default.astro'
+import BlogCard from '../../components/BlogCard.astro';
+
+interface MarkdownFrontmatter {
+	date: number;
+}
+
+// Component Script:
+// You can write any JavaScript/TypeScript that you'd like here.
+// It will run during the build, but never in the browser.
+// All variables are available to use in the HTML template below.
+
+// Data Fetching: List all Markdown posts in the repo.
+
+// let allPosts = await Astro.fetchContent('../../content/blog/*.md');
+// allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+
+---
+
+<Layout>
+	<div class="wrapper">
+		<main class="content">
+			<section aria-label="Blog post list">
+				<!-- {allPosts.map((p) => <BlogCard post={p} />)} -->
+			</section>
+		</main>
+	</div>
+</Layout>

@@ -1,0 +1,116 @@
+---
+import LogoHoriz from './pageFooter/LogoHoriz.astro';
+import IconVideoCamera from './icons/VideoCamera.astro';
+import IconBrandPatreon from './icons/brands/Patreon.astro';
+import IconHeart from './icons/Heart.astro';
+import IconBrandTwitter from './icons/brands/Twitter.astro';
+import IconBrandTwitch from './icons/brands/Twitch.astro';
+import IconBrandYouTube from './icons/brands/YouTube.astro';
+import IconBrandInstagram from './icons/brands/Instagram.astro';
+import IconBrandLinkedIn from './icons/brands/LinkedIn.astro';
+import IconBrandDiscord from './icons/brands/Discord.astro';
+---
+
+<footer class="pageFooter stripe">
+  <section>
+    <div class="logo">
+      <LogoHoriz />
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a href="/code-of-conduct/" title="Code of Conduct">Code of Conduct</a>
+        </li>
+        <li>
+          <a class="uses" href="/uses/" title="My gear & setup">What I'm Using <IconVideoCamera/></a>
+        </li>
+        <li>
+          <a
+            class="patreon"
+            href="https://bbb.dev/patreon"
+            title="Support BBB via Patreon"
+            >Become a Patron <IconBrandPatreon
+          /></a>
+        </li>
+        <li>
+          <a
+            class="github"
+            href="https://github.com/michaeljolley/baldbeardedbuilder.com"
+            title="Crafted with love on GitHub"
+            >Crafted with <IconHeart
+          /></a>
+        </li>
+        <li class="socials">
+          <ul>
+            <li>
+              <a
+                href="https://twitter.com/baldbeardbuild"
+                rel="noreferrer"
+                target="_blank"
+                class="twitter"
+                title="Follow the musings on Twitter"
+              >
+                <IconBrandTwitter
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://twitch.tv/baldbeardedbuilder"
+                rel="noreferrer"
+                target="_blank"
+                class="twitch"
+                title="Check out the live streams on Twitch"
+              >
+                <IconBrandTwitch
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://youtube.com/baldbeardedbuilder"
+                rel="noreferrer"
+                target="_blank"
+                class="youtube"
+                title="Subscribe, like & comment on YouTube videos"
+              >
+                <IconBrandYouTube
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://www.instagram.com/baldbeardedbuilder/"
+                rel="noreferrer"
+                target="_blank"
+                class="instagram"
+                title="Follow the fun on Instagram"
+              >
+                <IconBrandInstagram />
+              </a>
+            </li>
+            <li>
+              <a
+                href="https://www.linkedin.com/in/michaelwjolley/"
+                rel="noreferrer"
+                target="_blank"
+                class="linkedin"
+                title="Get professional on LinkedIn"
+              >
+                <IconBrandLinkedIn
+              /></a>
+            </li>
+            <li>
+              <a
+                href="https://discord.gg/XSG7HJm"
+                rel="noreferrer"
+                target="_blank"
+                class="discord"
+                title="Join the Discord community"
+              >
+                <IconBrandDiscord
+              /></a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </section>
+</footer>
