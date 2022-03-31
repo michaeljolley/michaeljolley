@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'preact/hooks';
-import './BackToTop.scss';
 
 function BackToTop() {
 

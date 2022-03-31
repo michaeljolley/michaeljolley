@@ -20,10 +20,33 @@ export async function getStaticPaths() {
 
 import { Markdown } from 'astro/components';
 import Layout from '../../layouts/Default.astro';
+import TableOfContents from '../../components/TableOfContents';
+import BlogTopper from '../../components/BlogTopper.astro';
+
 const { post } = Astro.props;
+const slug = post.slug || 
+             post.file.pathname.split('/')[post.file.pathname.split('/').length - 2];
+
+let title = post.title;
+let description = post.description;
+let permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
+let tags = post.tags;
+let headers = post.content.headers;
 ---
 
-<Layout>
-  <h1>{post.title}</h1>
-  <Markdown content={post.content.source}/>
+<Layout {title} {description} {permalink} {tags}>
+  <article class="post">
+    <main>
+      <aside>
+        <TableOfContents {headers} />
+      </aside>
+      <section class="content">
+        <BlogTopper post={post} />
+        <Markdown content={post.content.source}/>
+      </section>
+    </main>
+    <footer>
+      <!-- <RelatedPosts :tags="post.tags" :slug="post.slug" /> -->
+    </footer>
+  </article>
 </Layout>

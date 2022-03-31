@@ -4,10 +4,13 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import BackToTop from '../components/BackToTop';
 
-let title = 'Michael Jolley is the Bald Bearded Builder';
-let description = 'Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.';
-let permalink = 'https://baldbeardedbuilder.com/';
-let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
+export interface Props {
+	title: string;
+	description: string;
+	permalink: string;
+	tags: string[];
+}
+const { title, description, permalink, tags } = Astro.props;
 
 ---
 

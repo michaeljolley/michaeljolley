@@ -1,14 +1,14 @@
 ---
 import VideoCard from '../BlogCard.astro';
 
-  const allVideos = Astro.fetchContent('../../content/videos/**/*.md');
+  const allVideos = [] //Astro.fetchContent('../../content/videos/**/*.md');
   const sortedVideos = allVideos.sort((a, b) => new Date(b.date) - new Date(a.date))
 															.slice(0, 3);
 ---
 
 <section class="latestPosts">
-	<div class="latest-posts">
-		<h2>Latest <span>Posts</span></h2>
+	<div class="cardList">
+		<h2>Latest <span>Videos</span></h2>
 		<ul>
 		{
 			sortedVideos.map((video) => 
@@ -18,7 +18,10 @@ import VideoCard from '../BlogCard.astro';
 			)
 		}
 		</ul>
-		<a class="all" href="/blog/" title="See all posts">See all posts</a
-		>
+		<a 
+			class="all" 
+			rel="nofollow" 
+			href="https://youtube.com/baldbeardedbuilder" 
+			title="See all videos">See all videos</a>
 	</div>
 </section>

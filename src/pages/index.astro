@@ -5,20 +5,19 @@ import Topper from '../components/home/Topper';
 import About from '../components/home/About';
 import SocialBar from '../components/home/SocialBar.astro';
 import LatestPosts from '../components/home/LatestPosts.astro';
+import LatestVideos from '../components/home/LatestVideos.astro';
 
-interface MarkdownFrontmatter {
-	date: number;
-}
-
-// let allPosts = await Astro.fetchContent('./posts/*.md');
-// allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
+let title = 'Michael Jolley is the Bald Bearded Builder';
+let description = 'Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.';
+let permalink = 'https://baldbeardedbuilder.com/';
+let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
 
 ---
 
-<Layout>
+<Layout {title} {description} {permalink} {tags}>
 	<Topper client:only="preact" />
 	<About client:only="preact" />
 	<LatestPosts />
-	
 	<SocialBar />
+	<LatestVideos />
 </Layout>

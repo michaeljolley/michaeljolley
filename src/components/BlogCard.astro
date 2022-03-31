@@ -8,9 +8,12 @@ const options = {
 }
 
 const {post} = Astro.props;
+const slug = post.slug || 
+             post.file.pathname.split('/')[post.file.pathname.split('/').length - 2];
+
 ---
 
-<a class="blogCard" href={ `/blog/${post.slug}` } title={ post.title }>
+<a class="blogCard" href={ `/blog/${slug}/` } title={ post.title }>
   <main>
     <h3>{ post.title }</h3>
 		<summary>{ Intl.DateTimeFormat('us-EN', options).format(new Date(post.date)) }</summary>

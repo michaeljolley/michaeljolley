@@ -6,24 +6,28 @@ interface MarkdownFrontmatter {
 	date: number;
 }
 
-// Component Script:
-// You can write any JavaScript/TypeScript that you'd like here.
-// It will run during the build, but never in the browser.
-// All variables are available to use in the HTML template below.
+let title = 'Blog Posts | Michael Jolley is the Bald Bearded Builder';
+let description = 'All blog posts written by Michael Jolley';
+let permalink = 'https://baldbeardedbuilder.com/blog/';
+let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
 
-// Data Fetching: List all Markdown posts in the repo.
-
-// let allPosts = await Astro.fetchContent('../../content/blog/*.md');
-// allPosts = allPosts.sort((a, b) => new Date(b.date).valueOf() - new Date(a.date).valueOf());
-
+const allPosts = Astro.fetchContent('../../content/blog/**/*.md');
+const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
 ---
 
-<Layout>
-	<div class="wrapper">
-		<main class="content">
-			<section aria-label="Blog post list">
-				<!-- {allPosts.map((p) => <BlogCard post={p} />)} -->
-			</section>
-		</main>
-	</div>
+<Layout {title} {description} {permalink} {tags}>
+  <article>
+    <div class="cardList full">
+      <h1>Give me moar <span>Posts</span></h1>
+      <ul>
+				{
+					sortedPosts.map((post) => 
+						<li>
+							<BlogCard post={post} />
+						</li>
+					)
+				}
+      </ul>
+    </div>
+  </article>
 </Layout>

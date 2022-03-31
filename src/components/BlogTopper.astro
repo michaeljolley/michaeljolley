@@ -1,0 +1,42 @@
+---
+import IconCalendar from '../components/icons/Calendar.astro';
+import IconClock from '../components/icons/Clock.astro';
+import readingTime from 'reading-time';
+
+const {post} = Astro.props;
+
+const stats = readingTime(post.content.source);
+
+const options = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}
+const dt = Intl.DateTimeFormat('us-EN', options).format(new Date(post.date));
+---
+
+<div class="blog-topper">
+	<h1>{ post.title }</h1>
+	<summary>
+		<div>
+			<ul>
+				<li>
+					<IconCalendar />
+				</li>
+				<li>
+					Published On<br />
+					<time>{dt}</time>
+				</li>
+			</ul>
+			<ul>
+				<li>
+					<IconClock />
+				</li>
+				<li>{ stats.text }</li>
+			</ul>
+		</div>
+		<div>
+			<!-- <SocialSharing :post="post" /> -->
+		</div>
+	</summary>
+</div>
