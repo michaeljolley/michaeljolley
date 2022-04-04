@@ -1,11 +1,11 @@
 ---
 export async function getStaticPaths() {
   
-  const allPosts = Astro.fetchContent('../../content/blog/**/*.md');
-  const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
+  const allPosts = await Astro.glob('../../content/blog/**/*.md');
+  const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
   return sortedPosts.map((post) => {
-    const pathParts = post.file.pathname.replace('/index.md', '').split('/');
+    const pathParts = post.file.replace('/index.md', '').split('/');
     const slug = pathParts[pathParts.length - 1]
     return {
       params: {
@@ -24,14 +24,12 @@ import TableOfContents from '../../components/TableOfContents';
 import BlogTopper from '../../components/BlogTopper.astro';
 
 const { post } = Astro.props;
-const slug = post.slug || 
-             post.file.pathname.split('/')[post.file.pathname.split('/').length - 2];
+const { slug } = Astro.params;
 
-let title = post.title;
-let description = post.description;
-let permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
-let tags = post.tags;
-let headers = post.content.headers;
+const { title, description, tags, date } = post.frontmatter;
+const permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
+const source = post.Content;
+let headers = await post.getHeaders();
 ---
 
 <Layout {title} {description} {permalink} {tags}>
@@ -41,8 +39,8 @@ let headers = post.content.headers;
         <TableOfContents {headers} />
       </aside>
       <section class="content">
-        <BlogTopper post={post} />
-        <Markdown content={post.content.source}/>
+        <BlogTopper {title} {date} {source} />
+        <Markdown content={post.content}/>
       </section>
     </main>
     <footer>

@@ -56,6 +56,28 @@ async function _generateYTData() {
     `https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FoDbv_veJB_UbrF93_jw`
   )
 
+  try {
+    await fs.opendir('src/content/videos');
+  }
+  catch (err) {
+    await fs.mkdir('src/content/videos');
+  }
+
+  // Save md files for site build
+  for (i = 0; i < feed.items.length; i++) {
+    const video = feed.items[i];
+    await fs.writeFile(`src/content/videos/${video.id.replace('yt:video:', '')}.md`,
+`---
+title: ${video.title}
+link: ${video.link}
+thumbnail: ${video['media:group']['media:thumbnail'][0].$.url}
+date: ${video.pubDate ? new Date(video.pubDate) : new Date() }
+---
+
+${video['media:group']['media:description'][0]}
+`);
+  }
+
   return feed.items.slice(0, 3).map((m) => {
     return {
       title: m.title,
@@ -87,8 +109,7 @@ async function getTemplate() {
 }
 
 async function saveReadMe(newReadMe) {
-
-  await fs.writeFile('../../README.md', newReadMe);
+  await fs.writeFile('README.md', newReadMe);
 }
 
 main();

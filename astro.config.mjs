@@ -5,8 +5,9 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-	integrations: [preact(), tailwind()],
-	buildOptions: {
-		site: 'https://example.com/'
-	},
+	integrations: [preact(), tailwind({
+		config: { applyAstroPreset: false },
+	})],
+	site: 'https://baldbeardedbuilder.com/',
+	trailingSlash: 'always',
 });

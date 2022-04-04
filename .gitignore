@@ -1,5 +1,6 @@
 # build output
 dist
+src/content/videos
 
 # dependencies
 node_modules/

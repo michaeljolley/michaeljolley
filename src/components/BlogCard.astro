@@ -8,16 +8,17 @@ const options = {
 }
 
 const {post} = Astro.props;
-const slug = post.slug || 
-             post.file.pathname.split('/')[post.file.pathname.split('/').length - 2];
+const slug = post.frontmatter.slug || 
+             post.file.split('/')[post.file.split('/').length - 2];
 
+const {title, summary, date} = post.frontmatter;
 ---
 
-<a class="blogCard" href={ `/blog/${slug}/` } title={ post.title }>
+<a class="blogCard" href={ `/blog/${slug}/` } title={ title }>
   <main>
-    <h3>{ post.title }</h3>
-		<summary>{ Intl.DateTimeFormat('us-EN', options).format(new Date(post.date)) }</summary>
-    <p>{ post.summary }</p>
+    <h3>{ title }</h3>
+		<summary>{ Intl.DateTimeFormat('us-EN', options).format(new Date(date)) }</summary>
+    <p>{ summary }</p>
   </main>
   <footer>READ MORE <IconArrow /></footer>
 </a>

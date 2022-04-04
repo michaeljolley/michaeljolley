@@ -1,8 +1,8 @@
 ---
-import VideoCard from '../BlogCard.astro';
+import VideoCard from '../VideoCard.astro';
 
-  const allVideos = [] //Astro.fetchContent('../../content/videos/**/*.md');
-  const sortedVideos = allVideos.sort((a, b) => new Date(b.date) - new Date(a.date))
+  const allVideos = await Astro.glob('../../content/videos/*.md');
+  const sortedVideos = allVideos.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
 															.slice(0, 3);
 ---
 

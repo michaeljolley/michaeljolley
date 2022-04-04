@@ -6,15 +6,18 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "readme": "node index.js"
   },
   "devDependencies": {
     "@astrojs/preact": "^0.0.2",
-    "@astrojs/tailwind": "^0.0.2",
-    "astro": "^0.25.4",
+    "@astrojs/tailwind": "^0.1.0",
+    "astro": "^0.26.0",
     "autoprefixer": "^10.4.4",
+    "mustache": "^4.2.0",
     "postcss": "^8.4.12",
     "reading-time": "^1.5.0",
+    "rss-parser": "^3.12.0",
     "sass": "^1.49.9"
   },
   "dependencies": {

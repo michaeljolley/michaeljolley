@@ -11,7 +11,7 @@ let description = 'All blog posts written by Michael Jolley';
 let permalink = 'https://baldbeardedbuilder.com/blog/';
 let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
 
-const allPosts = Astro.fetchContent('../../content/blog/**/*.md');
+const allPosts = await Astro.glob('../../content/blog/**/*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
 ---
 

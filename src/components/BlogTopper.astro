@@ -3,20 +3,25 @@ import IconCalendar from '../components/icons/Calendar.astro';
 import IconClock from '../components/icons/Clock.astro';
 import readingTime from 'reading-time';
 
-const {post} = Astro.props;
-
-const stats = readingTime(post.content.source);
+export interface Props {
+	title: string;
+	date: string;
+	source: string;
+}
+const { title, date, source } = Astro.props;
 
 const options = {
   year: 'numeric',
   month: 'long',
   day: 'numeric',
 }
-const dt = Intl.DateTimeFormat('us-EN', options).format(new Date(post.date));
+
+const stats = readingTime(source);
+
 ---
 
 <div class="blog-topper">
-	<h1>{ post.title }</h1>
+	<h1>{ title }</h1>
 	<summary>
 		<div>
 			<ul>
@@ -25,7 +30,7 @@ const dt = Intl.DateTimeFormat('us-EN', options).format(new Date(post.date));
 				</li>
 				<li>
 					Published On<br />
-					<time>{dt}</time>
+					<time>{Intl.DateTimeFormat('us-EN', options).format(new Date(date))}</time>
 				</li>
 			</ul>
 			<ul>
