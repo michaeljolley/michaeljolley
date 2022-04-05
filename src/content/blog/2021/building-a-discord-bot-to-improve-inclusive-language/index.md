@@ -119,9 +119,9 @@ for personal projects. They make it easy to get up and running quickly and I
 know I've got the power of scale ready at a moment's notice. So I set up a
 database in Fauna called "guybot".
 
-<v-image
+<Image
   alt="UI for creating a database within Fauna"
- src="./fauna-create-db.png"></v-image>
+ src="./fauna-create-db.png"></Image>
 
 With the database ready, I thought through what my data should look like. I
 settled on the structure below:
@@ -138,18 +138,18 @@ Because these records reflect every time the bot has notified a user of the
 potential to use more inclusive language, I decided to call these objects
 `Notices`. So I created a collection in my new database and named it `notices`.
 
-<v-image
+<Image
   alt="UI for creating a collection within Fauna"
- src="./fauna-create-collection.png"></v-image>
+ src="./fauna-create-collection.png"></Image>
 
 I'll need to look up the history for each user when they send an offending
 message. In Fauna, indexes are perfect for data reads that include filters
 and need to be fast. I created one called `notices_by_user_guild` and
 specified that it should be based on the `user` and `guild` properties.
 
-<v-image
+<Image
   alt="UI for creating an index within Fauna"
- src="./fauna-create-index.png"></v-image>
+ src="./fauna-create-index.png"></Image>
 
 Now that my database is ready &amp; waiting, it's time to write some code
 to utilize it. In my `src` directory, I created a new file called `fauna.ts`.

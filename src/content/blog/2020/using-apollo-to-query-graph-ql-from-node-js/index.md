@@ -164,9 +164,9 @@ First, you'll need a TokBox Account. If you don't have one already, <a target="_
 
 In your TokBox Account, click the 'Projects' menu and 'Create New Project'. Then click the 'Create Custom Project' button. Give your new project a name and press the 'Create' button. You can leave the preferred codec as 'VP8'.
 
-<v-image
+<Image
   alt="Screenshot of the 'project created' dialog within a TokBox account."
- src="./tb-project-created.png"></v-image>
+ src="./tb-project-created.png"></Image>
 
 Copy the API Key and Secret on this screen. We'll use it later to configure our authentication.
 

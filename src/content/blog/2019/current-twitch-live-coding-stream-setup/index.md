@@ -33,9 +33,9 @@ I'm still learning a lot about lighting and audio. There is a lot of experimenta
 
 Above my monitors I have two [Elgato Key Light](https://amzn.to/2Te5LOd) panels. Both are set to provide more yellow light than blue to offset the blue light coming from my 3 24" monitors.
 
-<v-image
+<Image
   alt="Two Elgato key lights"
- src="./53291179-d9b89f00-3774-11e9-8aca-ade57af31e10_ef90ia.png"></v-image>
+ src="./53291179-d9b89f00-3774-11e9-8aca-ade57af31e10_ef90ia.png"></Image>
 
 Behind me is a [Fovitec StudioPRO](https://amzn.to/2BPi7m2) 5' x 6.5' blue/green screen held up with a [Fovitec clip stand](https://amzn.to/2U52qy4).
 
@@ -49,9 +49,9 @@ For the audio I'm using an [Audio-Technica AT2020](https://amzn.to/2E6Z9HS) cond
 
 My streams have really been focused on IoT development and I've found it difficult to display what's going on with my [Raspberry Pi](https://amzn.to/2EhMOkr)'s video onto the stream. So far I've been limited to only displaying an SSH window to the Pi. So a new addition to the family is the [Elgato HD60 Pro](https://amzn.to/2XhXwQl) game capture card. This receives an HDMI input and shows in OBS as a video source that I can share on the stream. This will get its first use in a few days on the stream.
 
-<v-image
+<Image
   alt="iPazzPort Handheld keyboard"
- src="./53291452-36b65400-3779-11e9-946d-5afe7562919c_ybbzr0.jpg"></v-image>
+ src="./53291452-36b65400-3779-11e9-946d-5afe7562919c_ybbzr0.jpg"></Image>
 
 Speaking of working on IoT devices, I've often had the problem of connecting keyboards & mice to them and then having to rewire everything as I switched devices or put it away. Then [Scott Hanselman](https://www.hanselman.com/) turned me on to the [iPazzPort Wireless Mini Handheld Keyboard/Touchpad](https://amzn.to/2Npx0jt).
 

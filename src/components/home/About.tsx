@@ -32,12 +32,12 @@ function About() {
       <div>
         <h2>About <span>Michael</span></h2>
         <p>
-          At work, he leads the Developer Relations team at
+          At work, he leads the Developer Relations team at&nbsp;
           <a href="https://deepgram.com">Deepgram</a> where he gets to play with
           awesome APIs. You can also catch him giving talks at various events,
-          sharing videos on
+          sharing videos on&nbsp;
           <a href="https://youtube.com/baldbeardedbuilder">YouTube</a>, or
-          streaming on
+          streaming on&nbsp;
           <a href="https://twitch.tv/baldbeardedbuilder">Twitch</a>.
         </p>
         <p>

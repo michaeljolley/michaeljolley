@@ -39,7 +39,7 @@ let headers = await post.getHeaders();
         <TableOfContents {headers} client:load />
       </aside>
       <section class="content">
-        <BlogTopper {title} {date} />
+        <BlogTopper {title} {date} {description} {tags} {permalink} />
         <post.Content/>
       </section>
     </main>

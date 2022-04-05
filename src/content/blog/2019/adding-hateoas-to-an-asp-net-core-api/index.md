@@ -19,9 +19,9 @@ realizing it.
 
 Let's look at two responses from RESTful APIs:
 
-<v-image
+<Image
   alt="Example code of a JSON result from a RESTful and RESTful + HATEOAS API"
- src="./header-templatssse_uzfqri.jpg"></v-image>
+ src="./header-templatssse_uzfqri.jpg"></Image>
 
 In the example responses, you can see that by adding the `links` property to your object, you can greatly increase the discover-ability of your RESTful APIs.
 

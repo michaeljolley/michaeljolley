@@ -64,9 +64,9 @@ I had gained.
 
 #### Level up the wood working
 
-<v-image
+<Image
   alt="Our new dining room table."
- src="./53030755_2228476424037910_6307370620143831616_n_igcxrg.jpg"></v-image>
+ src="./53030755_2228476424037910_6307370620143831616_n_igcxrg.jpg"></Image>
 
 I really enjoyed wood working in 2018 and wanted to level-up my skills in 2019 with a goal of being proficient enough
 to build a new dining room table for the family by the end of the year. Fast forward, we actually had a family

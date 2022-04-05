@@ -18,9 +18,9 @@ But what happens when you move to the cloud? Specifically, let's talk about Azur
 
 ### Azure File Storage
 
-<v-image
+<Image
   alt="Azure Add File Share window"
- src="./69987799-ef2dd700-1505-11ea-92bf-d93f604bfa8a_gvi1ya_ufkv0d.jpg"></v-image>
+ src="./69987799-ef2dd700-1505-11ea-92bf-d93f604bfa8a_gvi1ya_ufkv0d.jpg"></Image>
 
 First, let's setup Azure File Storage. If you already have File Storage you'd like to use, then skip to the next section.
 
@@ -28,9 +28,9 @@ From your Azure Portal, add a new Storage Account. In your Storage Account, clic
 
 ### Configuring Your Azure App Service
 
-<v-image
+<Image
   alt="Azure App Service path mappings interface"
- src="./69988604-919a8a00-1507-11ea-802a-b9a7f0c03d53_vqnrgy_rr3l92.jpg"></v-image>
+ src="./69988604-919a8a00-1507-11ea-802a-b9a7f0c03d53_vqnrgy_rr3l92.jpg"></Image>
 
 We'll assume you already have an Azure App Service you're ready to configure.
 
@@ -38,9 +38,9 @@ In your App Service, click on the "Configuration" blade. Then click the "Path ma
 
 Let's review the "New Azure Storage Mount" interface.
 
-<v-image
+<Image
   alt="Azure New Storage Mount interface"
- src="./69988677-b8f15700-1507-11ea-8a4d-8f57a0e7dee3_q6v30k_neodqw.jpg"></v-image>
+ src="./69988677-b8f15700-1507-11ea-8a4d-8f57a0e7dee3_q6v30k_neodqw.jpg"></Image>
 
 **Name** is important. This is the name you'll use to reference this mount later in your docker-compose.yml
 

@@ -184,26 +184,26 @@ We'll get the `OPENTOK_API_KEY`, `OPENTOK_SESSION_ID` and `OPENTOK_TOKEN` variab
 
 In your TokBox Account, click the 'Projects' menu and 'Create New Project.' Then click the 'Create Custom Project' button. Give your new project a name and press the 'Create' button. You can leave the preferred codec as 'VP8'.
 
-<v-image
+<Image
   alt="Screenshot of the 'project created' dialog within a TokBox account."
- src="./tb-project-created.png"></v-image>
+ src="./tb-project-created.png"></Image>
 
 You can then copy your API Key and paste it as the value for the `OPENTOK_API_KEY` setting.
 Next, click on "View Project". At the bottom of the project detail page, you'll find the Project Tools where you can create a Session ID and Token. Choose "Routed" for your session's media mode and press the "Create Session ID" button. Then, copy the generated Session ID and paste it as the value of the `OPENTOK_SESSION_ID` setting.
 
 Finally, paste the generated session ID into the Session ID field of the Generate Token form and press the "Generate Token" button. Copy the generated Token as the value of the `OPENTOK_TOKEN` setting.
 
-<v-image
+<Image
   alt="Project Tools area of a specific project in a TokBox account."
- src="./tb-project-tools.png"></v-image>
+ src="./tb-project-tools.png"></Image>
 
 ### Azure Face API Settings
 
 Log into your Azure account and create a new Face API Cognitive Service. Once created, click on the service and go to the "Quick start" blade. There you'll find your `Key` and `Endpoint`. Copy these two values to the `AZURE_FACE_API_SUBSCRIPTION_KEY` and `AZURE_FACE_API_ENDPOINT` settings, respectively.
 
-<v-image
+<Image
   alt="Screenshot of the Quick start blade within Azure for the Face API service."
- src="./azure-face-quickstart.png"></v-image>
+ src="./azure-face-quickstart.png"></Image>
 
 ## I Feel Seen
 
@@ -480,9 +480,9 @@ Now when we open the `index.html` page in our browsers we can press the "Analyze
 
 Also, I'm not certain, but it may not work for teenagers. I made my teenage daughter test it dozens of times but it only returned "disgust" and "contempt" as the emotions. Maybe this wasn't such a good idea. Maybe it's better to not know what they really think. 😂
 
-<v-image
+<Image
   alt="Four video frames of Michael showing different sentiments returned from Azure's Face API"
- src="./sentiment.png"></v-image>
+ src="./sentiment.png"></Image>
 
 ## Further Reading
 

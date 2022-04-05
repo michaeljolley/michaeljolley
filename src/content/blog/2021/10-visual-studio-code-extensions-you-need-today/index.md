@@ -19,9 +19,9 @@ or platform, can benefit from using today.
 
 ## Rest Client
 
-[<v-image
+[<Image
   alt="Rest Client in the VS Code Marketplace"
- src="./rest-client.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+ src="./rest-client.png"></Image>](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 It's not hyperbole to say the Rest Client extension is a game-changer. If you
 regularly use REST APIs, you've undoubtedly used tools like Postman, Insomnia, or
@@ -33,9 +33,9 @@ released on [YouTube](https://youtu.be/CLfz_CDnSV4) to see it in action.
 
 ## Remote - Containers
 
-[<v-image
+[<Image
   alt="Remote - Containers in the VS Code Marketplace"
- src="./remote-containers.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+ src="./remote-containers.png"></Image>](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 Even though it's been around for over a year, Remote - Containers is another
 extension that seems stuck in that "Preview" state. It allows you to use a
@@ -48,9 +48,9 @@ check out to learn more.
 
 ## GitLens
 
-[<v-image
+[<Image
   alt="GitLens in the VS Code Marketplace"
- src="./gitlens.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+ src="./gitlens.png"></Image>](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 GitLens is a perfect name for our next extension. It provides a "lens" into data
 you'd typically find in the Git CLI or GitHub website. Information like git
@@ -61,9 +61,9 @@ to leave the code editor to check out.
 
 ## GitHub Pull Requests & Issues
 
-[<v-image
+[<Image
   alt="GitHub Pull Requests and Issues in the VS Code Marketplace"
- src="./github-pr.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+ src="./github-pr.png"></Image>](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 
 Speaking of GitHub-related extensions, GitHub Pull Requests & Issues makes
 managing pull requests and issues much easier. Anything you can do with pull
@@ -76,9 +76,9 @@ iceberg as far as this extensions' features. Check out the
 
 ## Docker
 
-[<v-image
+[<Image
   alt="Docker in the VS Code Marketplace"
- src="./docker.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+ src="./docker.png"></Image>](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
 If you're using Docker containers, even if it's just with the Remote -
 Containers extension above, this extension is a must. It provides a great
@@ -89,9 +89,9 @@ right-clicking to enter a containers' shell.
 
 ## YAML
 
-[<v-image
+[<Image
   alt="YAML in the VS Code Marketplace"
- src="./yaml.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+ src="./yaml.png"></Image>](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 I wasn't at the meeting where everyone decided we would use YAML for DevOps,
 but if you're looking to build continuous integration or deployment processes
@@ -103,9 +103,9 @@ Actions aren't ruined by simple spacing issues.
 
 ## ESLint
 
-[<v-image
+[<Image
   alt="ESLint in the VS Code Marketplace"
- src="./eslint.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+ src="./eslint.png"></Image>](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 If you've ever built a project with a team, you know the experience of trying
 to manage style rules across team members. Many projects use ESLint to set
@@ -116,9 +116,9 @@ commits or pull requests.
 
 ## Live Share
 
-[<v-image
+[<Image
   alt="Live Share in the VS Code Marketplace"
- src="./live-share.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+ src="./live-share.png"></Image>](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
 With more teams working remotely, it's becoming increasingly important to
 communicate well. Live Share helps you quickly share your code, debug
@@ -130,9 +130,9 @@ you solve problems faster. Check out the
 
 ## Code Spell Checker
 
-[<v-image
+[<Image
   alt="Code Spell Checker in the VS Code Marketplace"
- src="./code-spell-checker.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+ src="./code-spell-checker.png"></Image>](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 There's no secret to the problem Code Spell Checker solves. Whether it's
 variable names or comments, this extension looks over your shoulder to make
@@ -144,9 +144,9 @@ point I'm conveying with spelling mistakes.
 
 ## Bracket Pair Colorizer 2
 
-[<v-image
+[<Image
   alt="Bracket Pair Colorizer 2 in the VS Code Marketplace"
- src="./bracket-pair-colorizer-2.png"></v-image>](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+ src="./bracket-pair-colorizer-2.png"></Image>](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
 Bracket Pair Colorizer 2 is the most straightforward extension of the
 pack. Still, it solves an inconvenience that I've lived with for 20 years of

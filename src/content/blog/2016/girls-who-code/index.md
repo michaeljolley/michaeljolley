@@ -16,9 +16,9 @@ As a dad of two daughters, I often think about what their futures hold. Like mos
 
 Of course, we'll support them in whatever they choose to be when they grow up, but I still feel an urge to expose them to other ideas and skills and professions while they're young. Even if it's nothing more than me letting them know "hey, it's okay to be a girl and like math or science or robots." _Heck, who doesn't like robots?_
 
-<v-image
+<Image
   alt="Box of Snap Circuits"
- src="./439e9ce2-544e-11e6-9497-8f6883536914_f8rjzk.jpg"></v-image>
+ src="./439e9ce2-544e-11e6-9497-8f6883536914_f8rjzk.jpg"></Image>
 
 One of the ways I've started exposing them to these ideas is with a kit I found online that helps teach kids about electronics. It teaches them how circuits and resistors and sensors work. If you'd like to check it out it's called <a href="http://www.snapcircuits.net/" target="_blank">Snap Circuits</a>. No, I have no incentive to push their product and there are many on the market like it, but this one really seems to get the attention of my kids. They have several packages you can pick up but we got the <a href="https://www.amazon.com/gp/product/B000IXMP6Q/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1" target="_blank">Extreme SC-750R Student Electronics Training Program</a>. It comes with several books to help teach how electronics work and includes over 750 experiments for us to build.
 

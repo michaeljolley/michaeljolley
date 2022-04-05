@@ -48,9 +48,9 @@ Around July I started meal prepping each week to improve my diet. I'm definitely
 
 #### Hi-ho, hi-ho, it's off to wood working we go
 
-<v-image
+<Image
   alt="Collage of pictures with Michael & Lauryn building a table."
- src="./50576549-b1966a80-0dd9-11e9-9cdc-e75f4542dfab_xjeqta.jpg"></v-image>
+ src="./50576549-b1966a80-0dd9-11e9-9cdc-e75f4542dfab_xjeqta.jpg"></Image>
 
 In the last few weeks of the year I really started investing in tools and learning to do wood working. It's been so much fun to learn and I've gotten to spend a lot of time with Lauryn teaching her as we go. Our first project was a peg board over some cabinets in the garage and we finished the Christmas break with a work table.
 

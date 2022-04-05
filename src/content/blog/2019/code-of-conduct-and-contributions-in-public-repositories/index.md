@@ -75,9 +75,9 @@ on our README.md.
 
 An example from our VS Code extension is:
 
-<v-image
+<Image
   alt="Example of the bottom of our README's with contributors."
- src="./58047645-3cb89880-7b0e-11e9-8270-7fd116460102_ve78fr.jpg"></v-image>
+ src="./58047645-3cb89880-7b0e-11e9-8270-7fd116460102_ve78fr.jpg"></Image>
 
 Not all contributions are code. Using All Contributors, I can recognize contributors for everything from ideas, questions, documentation, tests, examples and more. A full listing of options is available on their [emoji key](https://allcontributors.org/docs/en/emoji-key).
 

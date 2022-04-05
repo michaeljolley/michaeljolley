@@ -7,6 +7,9 @@ banner_image_alt: Partially visible view of the newly built desk
 description: Since I started woodworking, I've had the goal of building my own desk, complete with a wireless charger and built-in USB hub.
 tags: [diy, desk, setup, woodworking]
 summary: Since I've started doing woodworking, I've always wanted to build a desk that fits me. So welcome to my journey to build my ultimate developer desk.
+
+setup: |
+  import Image from '../../../../components/Image'
 ---
 
 In 20 years of being a developer, I've used lots of various desk types: sitting; stand only; sit/stand; metal; wood. Each had its' pros & cons. But since I've started doing woodworking, I've always wanted to build a desk that fits me. So welcome to my journey to build my ultimate developer desk. This is the first time I've written a post over a period of days & weeks so hopefully it's all coherent at the end.
@@ -64,9 +67,9 @@ There weren't a lot of materials required. I already had all the screws needed s
 
 ## Measuring & Measuring & Cutting
 
-<v-image
+<Image
   alt="Two inch blocks sitting beside a miter saw that have been cut from the ends of two by sixes"
- src="./1_gn0y3y.png"></v-image>
+ src="./1_gn0y3y.png"></Image>
 
 First up was cutting the boards to length. Because the ends of store-bought boards aren't always straight, I cut 2" (50mm) off one end of each. Then I measured, marked, and cut one of the boards 7' (1.82m) from the straight end.
 
@@ -76,9 +79,9 @@ If you want a perfectly flat top with no cracks between boards, you need to use 
 
 ## Stuck On You
 
-<v-image
+<Image
   alt="Boards laid on a table with clamps, wood glue and a drill sitting on them."
- src="./3_ztos4f.png"></v-image>
+ src="./3_ztos4f.png"></Image>
 
 Before I started the glue-up, I clamped a scrap board to my table that I knew was straight. Then I lined each board against it and reviewed how each board fit with those around it and compared their uniqueness to decide which boards should be in the front versus the back. Once I got each laid out where I liked them, I made some markings to add some pocket screws for stability.
 
@@ -94,9 +97,9 @@ I was really messy in my glue-up. I didn't bother to clean the joints between th
 
 ## Let's Be Extra
 
-<v-image
+<Image
   alt="Collage of routed channels for a wireless charger and USB hub."
- src="./5_ucdvfo.png"></v-image>
+ src="./5_ucdvfo.png"></Image>
 
 Hi. My name is Michael and I'm extra. I'm the guy who was being interviewed for a job and suggested they hire me because I have an animatronic puppet that would be great to control with their product. But hey, I hear the best way to overcome your issues is to first admit you have the problem.
 
@@ -112,9 +115,9 @@ Needless to say, I was really worried about the routing. One wrong cut and the e
 
 ## Make It Pretty
 
-<v-image
+<Image
   alt="Stained desk with fresh coat of polycrylic applied and still drying."
- src="./7_snotgj.png"></v-image>
+ src="./7_snotgj.png"></Image>
 
 I spent some time at my local hardware store and picked a stain that I thought would match the rest of my office well. After a quick tutorial from the staff at the store, I set off to stain and poly the desk. First, I created two samples using some scrap wood and the stain with one and two coats. It really seemed like one coat provided the color I wanted and that was perfect because I'm lazy.
 
@@ -128,9 +131,9 @@ I searched online for programmable motorized legs to use as the base. The key me
 
 Once the polycrylic was dry, I mounted it to the desktop and stood it up for the first time. Then it was just a matter of adding the wireless charger, USB hub, and then setting everything up in my office.
 
-<v-image
+<Image
   alt="Finished desk assembled in my office."
- src="./9_qmwjvi.png"></v-image>
+ src="./9_qmwjvi.png"></Image>
 
 ## What Did I Miss?
 

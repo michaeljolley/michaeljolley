@@ -24,25 +24,25 @@ The Azure Key Vault supplies a way to store keys and secrets outside of the cont
 
 To access Key Vault secrets as environment variables in your Azure App Service, you will need to setup an Access Policy.
 
-<v-image
+<Image
   alt="Identity blade of Azure app service in portal"
- src="./69500724-393e0980-0ec3-11ea-8ac5-c859956c3a12_tylwgx.jpg"></v-image>
+ src="./69500724-393e0980-0ec3-11ea-8ac5-c859956c3a12_tylwgx.jpg"></Image>
 
 To do this, go to the Identity menu option in your App Service and access the "System assigned" tab.
 
 Set the "Status" control to "On" and press Save. This will register your app service with the Azure Active Directory. Now you can create an access policy for your App Service in the Key Vault.
 
-<v-image
+<Image
   alt="Azure Key Vault's Access Policies blade"
- src="./69500821-2ed03f80-0ec4-11ea-959c-94e540cfa40f_qlsmbm.jpg"></v-image>
+ src="./69500821-2ed03f80-0ec4-11ea-959c-94e540cfa40f_qlsmbm.jpg"></Image>
 
 Open your Key Vault and go to the "Access policies" setting. Once there, click "+ Add Access Policy."
 
 On the add access policy page, set any permissions for keys, secrets and/or certificates. If you only want secrets added as environment variables, you can simply supply the "Get" permission for "Secret permissions."
 
-<v-image
+<Image
   alt="Add access policy window within Azure portal"
- src="./69501029-82438d00-0ec6-11ea-825d-c346edc624d4_lynncg.jpg"></v-image>
+ src="./69501029-82438d00-0ec6-11ea-825d-c346edc624d4_lynncg.jpg"></Image>
 
 In the "Select principal" option, search for your App Service's name and select it. Next, press the "Add" button to add the policy and then "Save" on the Access Policies page to commit the changes.
 
