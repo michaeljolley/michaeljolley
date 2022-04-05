@@ -2,17 +2,13 @@
 import Layout from '../../layouts/Default.astro'
 import BlogCard from '../../components/BlogCard.astro';
 
-interface MarkdownFrontmatter {
-	date: number;
-}
-
 let title = 'Blog Posts | Michael Jolley is the Bald Bearded Builder';
 let description = 'All blog posts written by Michael Jolley';
 let permalink = 'https://baldbeardedbuilder.com/blog/';
 let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
 
 const allPosts = await Astro.glob('../../content/blog/**/*.md');
-const sortedPosts = allPosts.sort((a, b) => new Date(b.date) - new Date(a.date));
+const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 ---
 
 <Layout {title} {description} {permalink} {tags}>

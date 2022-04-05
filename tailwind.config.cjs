@@ -13,6 +13,7 @@ module.exports = {
 			},
 			colors: {
 				darkPurple: '#14051C',
+				darkerPurple: '#15001F',
 				bbbblue: '#00FFFF',
 				bbbpink: '#FF00FF',
 				stripeLight: 'rgba(3, 40, 249, 0.07)',

@@ -8,9 +8,11 @@ function TableOfContents(props) {
 
   const scrollToHeading = (e) => {
     e.preventDefault();
-    document.querySelector(`#${e.getAttribute('data-attr-id')}`).scrollIntoView({
-      behavior: "smooth"
-    });
+    if (e.target.href) {
+      document.querySelector(`#${e.target.getAttribute('data-attr-id')}`).scrollIntoView({
+        behavior: "smooth"
+      });
+    }
   }; 
 
   return (

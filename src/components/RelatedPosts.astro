@@ -1,0 +1,34 @@
+---
+import BlogCard from './BlogCard.astro';
+
+const { post } = Astro.props;
+
+const allPosts = await Astro.glob('../content/blog/**/*.md');
+const relatedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date))
+                            .filter((f) => 
+                              f.file !== post.file &&
+                              f.frontmatter.tags.find(t => post.frontmatter.tags.find(p => p === t))
+                            )
+                            .slice(0, 3);
+
+---
+
+{ relatedPosts.length > 0 && (
+
+<section class="relatedPosts">
+  <div class="cardList">
+    <h2>Related <span>Posts</span></h2>
+    <ul>
+      {
+        relatedPosts.map((post) => 
+          <li>
+            <BlogCard post={post} />
+          </li>
+        )
+      }
+    </ul>
+  </div>
+</section>
+
+  )
+}
