@@ -1,0 +1,60 @@
+---
+import cloudinary from 'cloudinary';
+import fs from 'fs/promises';
+//import {__dirname} from 'path';
+
+  const allPosts = await Astro.glob('../content/blog/**/*.md');
+	const slug = Astro.params.slug;
+
+	const postDir = (allPosts.find((post) => {
+		const pathParts = post.file.replace('/index.md', '').split('/');
+    return slug === pathParts[pathParts.length - 1];
+	})).file.replace('index.md', '');
+
+	const { alt, src, style } = Astro.props;
+
+	const image = 
+	
+	const cloudinarySrc = 'f_auto,w_auto';
+
+const findAsset = async (publicId, folder) => {
+  try {
+    return await cloudinary.explicit(`${folder}/${publicId}`.substring(1), {
+      type: 'upload',
+    })
+  } catch (err) {
+    console.log(
+			// eslint-disable-line no-console
+      `$cloudinary.findAsset error.\nfolder: ${folder}\npublicId: ${publicId}\n`,
+      err
+    )
+    return null
+  }
+}
+
+const uploadAsset = async (imagePath, publicId, folder) => {
+  return await cloudinary.upload(imagePath, {
+    public_id: publicId,
+    folder,
+  })
+}
+
+const getAsset = async (imagePath, publicId, folder) => {
+  let asset = await findAsset(publicId, folder)
+  if (!asset) {
+    asset = await uploadAsset(imagePath, publicId, folder)
+  }
+
+  if (asset) {
+    return {
+      public_id: asset.public_id,
+      secure_url: asset.secure_url,
+    }
+  }
+
+  return null
+}
+---
+
+<img alt={alt} style={style} src={cloudinarySrc} />
+

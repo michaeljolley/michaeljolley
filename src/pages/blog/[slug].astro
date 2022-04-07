@@ -9,7 +9,7 @@ export async function getStaticPaths() {
     const slug = pathParts[pathParts.length - 1]
     return {
       params: {
-        slug,
+        slug
       },
       props: {
         post

@@ -9,7 +9,7 @@ tags: [diy, desk, setup, woodworking]
 summary: Since I've started doing woodworking, I've always wanted to build a desk that fits me. So welcome to my journey to build my ultimate developer desk.
 
 setup: |
-  import Image from '../../../../components/Image'
+  import Image from '../../../../components/Image.astro'
 ---
 
 In 20 years of being a developer, I've used lots of various desk types: sitting; stand only; sit/stand; metal; wood. Each had its' pros & cons. But since I've started doing woodworking, I've always wanted to build a desk that fits me. So welcome to my journey to build my ultimate developer desk. This is the first time I've written a post over a period of days & weeks so hopefully it's all coherent at the end.
