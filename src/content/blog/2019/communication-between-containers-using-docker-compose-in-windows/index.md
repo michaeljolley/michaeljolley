@@ -6,6 +6,8 @@ banner_image_alt: Octopus holding containers and a Windows logo over a code edit
 description: Using docker compose to start containers that can communicate with one another in Windows
 tags: [docker, vscode, windows, compose]
 summary: In production, our application on a Pi communicates with a Restful API that lives at our clients main office.  However, while debugging we need to run them side-by-side. So, docker-compose to the rescue (I think.)
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 This definitely has to be filed under "remember this in the future."

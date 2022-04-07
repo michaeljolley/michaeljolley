@@ -6,6 +6,8 @@ banner_image_alt: Fireworks with Michael's avatar wearing a new years hat.
 description: Reviewing the goals I had for 2019 and how many I accomplished. Then start setting goals for 2020.
 tags: [review]
 summary: Thanks for the memories 2019. You were a good one. 2019 wasn't without some struggles, but there were several huge wins that I'll never forget.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 Thanks for the memories 2019. You were a good one.

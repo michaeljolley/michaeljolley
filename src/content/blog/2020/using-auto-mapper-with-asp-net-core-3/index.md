@@ -7,6 +7,8 @@ description: How to map objects to one another in ASP.NET Core 3 applications wi
 tags: [csharp, automapper, dotnet, aspnetcore]
 canonical_url: 'https://baldbeardedbuilder.com/posts/using-automapper-with-dotnetcore-3/'
 summary: AutoMapper is well known, but the way it's used via dependency injection has changed in ASP.NET Core 3. Let's figure it out.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 [AutoMapper] is well known in the .NET community. It bills itself as "a simple little library built

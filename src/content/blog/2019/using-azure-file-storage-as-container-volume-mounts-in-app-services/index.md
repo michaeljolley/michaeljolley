@@ -6,6 +6,8 @@ banner_image_alt: Azure App Service, Docker and Azure Storage logos on an Azure 
 description: How to mount Azure File Storage as a persistent volume in your multi-container App Services.
 tags: [azure, app-service, docker, volume, storage, container]
 summary: Need to scale your app? Put it in a container. Need more resiliency? Put it in a container. Code starting to smell? Put it in a container. Want some lunch? Put it in a container.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 Need to scale your app? Put it in a container. Need more resiliency? Put it in a container. Code starting to smell? Put it in a container. Want some lunch? Put it in a container.

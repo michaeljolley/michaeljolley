@@ -6,6 +6,8 @@ banner_image_alt: Docker, Linux and SQL Server logos on a Powershell background
 description: Don't want to install SQL instances on your personal or work machine?  No problem, because you no longer need to.  Let's learn how to spin up a Docker container and access it with SQL Management Studio.
 tags: [docker, sql, linux, devops]
 summary: If you’ve ever used a Windows machine you’ve probably experienced a Winpocalypse.  You know… that moment when you need to completely re-install Windows down to reformatting the drive.  Everything is gone. (Hopefully you did a backup beforehand.)
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 If you’ve ever used a Windows machine you’ve probably experienced a Winpocalypse. You know… that moment when you need to completely re-install Windows down to reformatting the drive. Everything is gone. (Hopefully you did a backup beforehand.)

@@ -7,6 +7,8 @@ banner_image_alt:
 description: What are the differences between Blazor Server and WebAssembly (WASM)? When should you use each and why?
 tags: [blazor, csharp, wasm, server, dotnet, aspnet]
 summary: Building for the web using a language you're already comfortable with? Sounds like a great idea as long as it's easy to use and performs well for clients.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 Building for the web using a language you're already comfortable with? Sounds

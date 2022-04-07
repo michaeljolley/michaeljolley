@@ -8,6 +8,8 @@ banner_image_alt: Visual Studio Code with an overlay of the VS Code logo and the
 description: Building in Visual Studio Code is amazing and it's made even better by extensions. In this post, we talk about the top 10 VS Code extensions you should be using in 2021.
 tags: [vscode, extensions, productivity]
 summary: It's no secret that I love using Visual Studio Code, but what makes it amazing is the massive ecosystem of extensions. Let's talk about ten Visual Studio Code extensions that every developer, regardless of language or platform, can benefit from using today.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 It's no secret that I love using Visual Studio Code, but what makes it amazing

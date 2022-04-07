@@ -6,6 +6,8 @@ banner_image_alt: Powershell code
 description: How to make your life easier by adding aliases for commands you run frequently in PowerShell.
 tags: [powershell, alias]
 summary: Between `git checkout`, `docker {whatever}` and navigating to frequent paths with `cd`, I've been wondering how much time I could save by shortening these commands and parameters using PowerShell aliases.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 If you're like me, there are certain commands that get run repeatedly throughout your day. Between `git checkout`, `docker {whatever}` and navigating to frequent paths with `cd`, I've been wondering how much time I could save by shortening these commands and parameters.

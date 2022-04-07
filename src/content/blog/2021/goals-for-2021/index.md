@@ -7,6 +7,8 @@ banner_image_alt: Background of Michael's office with social network logos and a
 description: 2020 was a rough year for everyone. Let's look back at my start of the year goals and see how I did and then set goals for 2021.
 tags: [review, goals, planning]
 summary: I think most people would agree that 2020 was a challenge, but it wasn't without its highs. This is the third year that I review my previous end of year post and compare it to how I did.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 > "Thanks for the memories 2019. You were a good one." - [Year end blog post](https://baldbeardedbuilder.com/blog/2019-year-in-review/) for 2019.

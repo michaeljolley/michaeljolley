@@ -7,7 +7,7 @@
 	@apply text-gray-900 dark:text-white;
 
 	.intro {
-		@apply h-96;
+		@apply h-56 md:h-96;
 		@apply w-5/6;
 		@apply bg-contain bg-no-repeat;
 		@apply bg-center;

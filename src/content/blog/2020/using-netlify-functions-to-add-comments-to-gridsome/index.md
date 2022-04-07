@@ -6,6 +6,8 @@ banner_image_alt: Terminal window with the words Using Netlify functions with Gr
 description: Netlify provides serverless functions to process information, while Gridsome provides a Vue.js based static-site generation. In this post we combine the two allowing visitors to leave comments on our posts.
 tags: [netlify, gridsome, functions, serverless, vuejs]
 summary: When I started writing this blog a few years ago, I was overwhelmed by the number of platforms available to me. JavaScript, .NET, Ruby? We got 'em all! While I settled on Jekyll, it was somewhat by accident.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 When I started writing this blog a few years ago, I was overwhelmed by the number of platforms available to me. JavaScript, .NET, Ruby? We got 'em all! While I settled on Jekyll, it was somewhat by accident. I really liked the idea of writing my posts in Markdown with GitHub Pages and, since they were powered by Jekyll, the choice was made for me.This toml will cause the compiled function to be placed in the lambda folder in the root directory of our application.

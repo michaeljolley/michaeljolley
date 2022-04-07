@@ -6,6 +6,8 @@ banner_image_alt: Header used on Bald Bearded Builder stream
 description: Hardware & software setup for live-coding streams
 tags: [twitch, stream, setup]
 summary: I've started working a lot more at trying to get my setup just right so I could live code some personal projects and hopefully help others learn new technologies.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 I am still extremely new to streaming my coding sessions but I've been hooked watching streams like:

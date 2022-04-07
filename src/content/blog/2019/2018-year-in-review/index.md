@@ -6,6 +6,8 @@ banner_image_alt: Fireworks with Michael's avatar wearing a new years hat.
 description: Looking back at 2018 and setting goals for 2019.
 tags: [review]
 summary: It's hard to believe that 2018 is already gone!  Inspired by so many who are sharing "year in review" or "2019 goal" posts, I decided it would be great to look back on 2018 and think ahead for 2019.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 It's hard to believe that 2018 is already gone! Inspired by so many who are sharing "year in review" or "2019 goal" posts, I decided it would be great to look back on 2018 and think ahead for 2019.

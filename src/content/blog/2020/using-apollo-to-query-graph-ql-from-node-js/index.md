@@ -7,6 +7,8 @@ description: In this tutorial, we will use the apollo-client NPM package within 
 tags: [apollo, nodejs, graphql, opentok, vonage-video-api]
 canonical_url: 'https://www.nexmo.com/blog/2020/03/12/using-apollo-to-query-graphql-from-node-js-dr'
 summary: It's a common scenario—you built a quick prototype, it worked great, and now management wants it live yesterday. GraphQL can help get it out the door.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 It's a common scenario—you built a quick prototype, it worked great, and now management wants it live yesterday. Maybe you were accessing a third-party GraphQL endpoint and now you're in a rush to get something out the door. One of your roadblocks? That endpoint doesn't provide CORS headers. No more calling it directly from your frontend JavaScript app.

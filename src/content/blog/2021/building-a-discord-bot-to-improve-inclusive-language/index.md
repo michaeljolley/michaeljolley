@@ -8,6 +8,8 @@ banner_image_alt: Discord channel where the GuyBot has responded to a non-inclus
 description: Helping Discord members use more inclusive language by building a bot using JavaScript & Fauna and hosted by Azure in a Docker container.
 tags: [discord, inclusion, fauna, azure]
 summary: Building a Discord bot sounds like a fun and I couldn't think of a better first project than trying to make it a safer space for everyone.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 Growing up in the Southeast US, the word "guys" was used to denote everyone.
@@ -86,7 +88,7 @@ The `src` directory will hold all my TypeScript code and it should be compiled
 to the `dist` directory. So I added a `tsconfig.json` file to the root of my
 project with the following:
 
-```javascript
+```json
 {
   "compilerOptions": {
     "target": "es6",
@@ -255,7 +257,7 @@ been notified in the current Discord server, but disregards anything older than
 If the author hasn't had a notice in that time frame, we send them a direct
 message with the following wording:
 
-> Please bear in mind that the makeup of ${discordServer} is very diverse, and
+> Please bear in mind that the makeup of [discordServer] is very diverse, and
 > some people feel excluded by the use of the term “guys”. Maybe you could try
 > using _people_, _team_, _all_, _folks_, _everyone_, or _yall_? Thanks for
 > helping us make sure everyone feels welcome here.
@@ -275,7 +277,7 @@ async function handleViolation(message: Message): Promise<void> {
   const discordServer = message.guild
     ? `the ${message.guild.name} Discord server`
     : 'this Discord'
-  const messageBody = `Please bear in mind that the makeup of ${discordServer} is very diverse, and some people feel excluded by the use of the term “guys”. Maybe you could try using _people_, _team_, _all_, _folks_, _everyone_, or _yall_? Thanks for helping us make sure everyone feels welcome here.`
+  const messageBody = `Please bear in mind that the makeup of` + discordServer ` is very diverse, and some people feel excluded by the use of the term “guys”. Maybe you could try using _people_, _team_, _all_, _folks_, _everyone_, or _yall_? Thanks for helping us make sure everyone feels welcome here.`
 
   let previousNotices = await FaunaClient.getNoticesByUser(
     message.author.id,

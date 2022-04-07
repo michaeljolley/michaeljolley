@@ -8,6 +8,9 @@ banner_image_alt: Preview of Polywork multiverse screen with the Polywork logo o
 description: How I use Polywork to break unconscious biases in the content creators I follow on social platforms.
 tags: [polywork, diversity, inclusion]
 summary: Polywork is an interesting new LinkedIn competitor. After joining, I wanted to ensure that my "bubble" included a diverse set of people. Here's how I did it.
+
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 This past year I've been examining the communities I'm a part of. It didn't take

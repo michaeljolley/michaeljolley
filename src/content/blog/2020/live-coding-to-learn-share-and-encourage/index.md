@@ -6,6 +6,8 @@ banner_image_alt: Collage of things that occurred on the Bald Bearded Builder st
 description: A reflection on one year of coding live on Twitch to learn new technologies, share what I know, and encourage others to grow personally & professionally.
 tags: [live, coding, teach, twitch, learn]
 summary: Who in the world would want to watch someone write code? Good question. But nearly two years ago I found myself watching Jeffrey Fritz wearing a pirate hat, playing sound bytes from "Dude, Where's My Car," and yes, writing C# on Twitch.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 "Start Streaming." Two simple words. They seemed so innocent. How could I know that a small button with those words would bring such a large change to my life?

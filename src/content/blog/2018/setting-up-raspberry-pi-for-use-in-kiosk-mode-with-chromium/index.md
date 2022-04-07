@@ -6,6 +6,8 @@ banner_image_alt: Mash-up of Raspberry Pi & Chromium logos.
 description: Using Chromium on a Raspberry Pi to provide a kiosk experience for users.
 tags: [raspberry-pi, iot]
 summary: Recently one of our clients approached us to develop an application that would run on a Raspberry Pi to use in kiosk's throughout their facilities.  We ended up writing a web app in Angular that they would run via Chromium.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 Recently one of our clients approached us to develop an application that would run on a Raspberry Pi to use in kiosk's throughout their facilities. We ended up writing a web app in Angular that they would run via Chromium.

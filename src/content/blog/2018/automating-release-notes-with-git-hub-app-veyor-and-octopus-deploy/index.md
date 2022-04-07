@@ -6,6 +6,8 @@ banner_image_alt: Burger labeled "DevOps Burger" with layers for PowerShell, App
 description: Utilizing a custom PowerShell script to generate deployment release notes with GitHub, AppVeyor & Octopus Deploy
 tags: [devops, appveyor, octopus-deploy]
 summary: With multiple clients, projects, deadlines, release schedules running at once, it's hard to keep up with what features are being released in a build.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 With multiple clients, projects, deadlines, release schedules running at once, it's hard to keep up with what features are being released in a build. To help manage building release notes our team built a PowerShell script that accesses the GitHub &amp; Octopus Deploy API's to determine what commits have occurred between the latest deployed release and the current build.

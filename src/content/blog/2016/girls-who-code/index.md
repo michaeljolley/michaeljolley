@@ -6,6 +6,8 @@ banner_image_alt: Girls in a classroom watching a robot they've built.
 description: Thinking about our girls interest in STEM related fields.
 tags: [parenting]
 summary: These days, the topic of women in technology is hot. As a dad of two daughters, I often think about what their futures hold. One thing I know, they belong here as much as any man.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 These days, the topic of women in technology is hot. There have been numerous articles lamenting the shortage of women in our field and the lack of girls interested or pursuing education in **STEM** _(Science, Technology, Engineering and Mathematics)_ fields.

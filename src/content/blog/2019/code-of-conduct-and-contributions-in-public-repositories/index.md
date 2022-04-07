@@ -6,6 +6,8 @@ banner_image_alt: Woman working on laptop leaned against a brick wall.
 description: Helping other contribute to public repositories on GitHub by providing contributing and code of conduct guidelines.
 tags: [github, contributions, code-of-conduct]
 summary: Want people to contribute to your repositories? Then you need to make sure they know they're welcome and provide them with a clear path to get started.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 It seems that lately I've been creating a new public repo every other day. A few

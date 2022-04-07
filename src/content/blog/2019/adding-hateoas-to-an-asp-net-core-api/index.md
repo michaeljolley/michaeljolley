@@ -6,6 +6,8 @@ banner_image_alt: Christmas tree decorations with ASP.NET Core logo
 description: Implement simple JSON HATEOAS support to an ASP.NET Core web API
 tags: [aspnetcore, hateoas, api, json, dotnet, c#]
 summary: RESTful APIs provide a great way to make our APIs easier for users to consume. How can we make discovering endpoints and capabilities easier?
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 > I am insanely thankful to be included in <a href="https://crosscuttingconcerns.com/The-Third-Annual-csharp-Advent" target="_blank">C# Advent</a> this year. This is the 3rd year of C# Advent and I always enjoy the dozens of posts by everyone in the community. Be sure to follow the link above and check out the other posts and watch `#csadvent` on Twitter for updates.
@@ -29,7 +31,7 @@ Let's add a rudimentary implementation of HATEOAS in an ASP.NET Core web API.
 
 ## Getting Started
 
-First, download the sample code at <a href="<https://github.com/MichaelJolley/aspnetcore-hateoas>" target="blank">https://github.com/MichaelJolley/aspnetcore-hateoas</a>.
+First, download the sample code at <a href="<<https://github.com/MichaelJolley/aspnetcore-hateoas>>" target="blank">https://github.com/MichaelJolley/aspnetcore-hateoas</a>.
 
 The solution contains two C# projects: BaldBeardedBuilder.HATEOAS.Lib (Lib) and BaldBeardedBuilder.HATEOAS (API).
 

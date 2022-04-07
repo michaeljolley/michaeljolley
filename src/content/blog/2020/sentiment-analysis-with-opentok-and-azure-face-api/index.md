@@ -7,6 +7,8 @@ description: In this tutorial, we will build a multi-party video conference that
 tags: [csharp, automapper, dotnet, aspnetcore]
 canonical_url: 'https://www.nexmo.com/blog/2020/01/27/sentiment-analysis-with-opentok-and-azure-face-api-dr'
 summary: You know that person. It could be your significant other, a child, a co-worker, or a friend. That person that says one thing, but you can tell by their face, they mean something completely different.
+setup: |
+  import Image from '../../../../components/Image.astro'
 ---
 
 You know that person. It could be your significant other, a child, a co-worker, or a friend. That person that says one thing, but you can tell by their face, they mean something completely different. You probably just pictured them in your head. Maybe you remember the exact conversation. Perhaps it went like this:
