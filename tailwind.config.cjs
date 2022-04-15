@@ -1,5 +1,4 @@
 module.exports = {
-	darkMode: 'class',
 	content: [
 		'./public/**/*.html',
 		'./src/**/*.{astro,js,jsx,svelte,ts,tsx,vue}',
@@ -12,6 +11,9 @@ module.exports = {
 				raleway: ['Raleway', 'sans-serif'],
 			},
 			colors: {
+				darkGreen: '#011B2B',
+				meadow: '#18CDB9',
+				stripe: 'rgba(25, 52, 70, .5)',
 				darkPurple: '#14051C',
 				darkerPurple: '#15001F',
 				bbbblue: '#00FFFF',

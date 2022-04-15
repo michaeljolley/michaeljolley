@@ -37,10 +37,10 @@ body,
 }
 
 body {
-	@apply bg-white dark:bg-darkPurple;
+	@apply bg-darkGreen;
 	@apply bg-no-repeat bg-cover;
 	background-position: center 3rem;
-	background-image: url('/images/bg-light.svg');
+	background-image: url('/images/bg-dark.svg');
 
 	@apply flex flex-col;
 
@@ -52,7 +52,7 @@ body {
 }
 
 .stripe {
-	@apply bg-stripeLight dark:bg-stripeDark;
+	@apply bg-stripe;
 }
 
 .pageHeader {
@@ -64,7 +64,7 @@ body {
 	@apply w-full;
 	@apply lg:max-w-4xl xl:max-w-6xl;
 
-	@apply text-gray-900 dark:text-white;
+	@apply text-white;
 
 	.logo {
 		@apply text-5xl;
@@ -80,7 +80,7 @@ body {
 			@apply border-b-4 border-transparent;
 	
 			@apply font-raleway font-bold;
-			@apply text-darkPurple dark:text-gray-100;
+			@apply text-gray-100;
 	
 			&:hover {
 				border-image-slice: 1;
@@ -114,7 +114,7 @@ body {
 			@apply sm:flex;
 			@apply sm:w-64;
 			@apply text-4xl;
-			@apply text-darkPurple dark:text-gray-100;
+			@apply text-gray-100;
 
 			svg {
 				@apply w-full;
@@ -134,11 +134,11 @@ body {
 
 					a {
 						@apply flex items-center;
-						@apply text-blue-500 dark:text-bbbpink;
+						@apply text-bbbpink;
 						@apply font-normal;
 
 						&:hover {
-							@apply text-darkPurple dark:text-gray-100;
+							@apply text-gray-100;
 						}
 
 						&.github:hover {
@@ -211,7 +211,7 @@ body {
 		@apply lg:max-w-4xl xl:max-w-6xl;
 		@apply text-base;
 
-		@apply text-darkPurple dark:text-white;
+		@apply text-white;
 
 		h2 {
 			@apply flex items-center;
@@ -222,8 +222,8 @@ body {
 				@apply flex;
 				@apply ml-1;
 				@apply py-0 px-2;
-				@apply text-white dark:text-darkPurple;
-				@apply bg-blue-500 dark:bg-bbbblue;
+				@apply text-darkPurple;
+				@apply bg-bbbblue;
 			}
 		}
 
@@ -272,7 +272,7 @@ body {
 	@apply lg:max-w-4xl xl:max-w-6xl;
 	@apply text-base;
 
-	@apply text-darkPurple dark:text-white;
+	@apply text-white;
 
 	h1, h2 {
 		@apply flex items-center;
@@ -283,8 +283,8 @@ body {
 			@apply flex;
 			@apply ml-1;
 			@apply py-0 px-2;
-			@apply text-white dark:text-darkPurple;
-			@apply bg-blue-500 dark:bg-bbbblue;
+			@apply text-darkPurple;
+			@apply bg-bbbblue;
 		}
 	}
 
@@ -321,14 +321,14 @@ body {
 
 	.all {
 		@apply font-bold font-fira uppercase;
-		@apply bg-darkPurple dark:bg-gray-200;
-		@apply text-white dark:text-darkPurple;
+		@apply bg-gray-200;
+		@apply text-darkPurple;
 		@apply py-3 px-5;
 		@apply mt-12;
 		@apply rounded-md;
 
 		&:hover {
-			@apply bg-blue-500 dark:bg-bbbpink;
+			@apply bg-bbbpink;
 		}
 	}
 }
@@ -350,14 +350,14 @@ body {
 			top: 105px;
 			@apply lg:w-1/5;
 
-			@apply text-darkPurple dark:text-gray-100;
+			@apply text-gray-100;
 		}
 
 		.content {
 			@apply mx-auto lg:mx-0;
 			@apply w-full;
 			@apply max-w-xl;
-			@apply text-darkPurple dark:text-gray-100;
+			@apply text-gray-100;
 
 			h2,
 			h3,
@@ -367,8 +367,8 @@ body {
 				@apply inline-block;
 				@apply font-raleway font-bold;
 				@apply py-1 px-3;
-				@apply text-white dark:text-darkPurple;
-				@apply bg-blue-500 dark:bg-bbbblue;
+				@apply text-darkPurple;
+				@apply bg-bbbblue;
 				@apply my-8;
 			}
 			h1 {
@@ -400,8 +400,8 @@ body {
 			}
 
 			blockquote {
-				@apply bg-stripeLight dark:bg-stripeDark;
-				@apply text-darkPurple dark:text-gray-200;
+				@apply bg-stripeDark;
+				@apply text-gray-200;
 				@apply py-6 px-10 italic;
 				@apply font-raleway;
 				@apply text-sm;
@@ -413,7 +413,7 @@ body {
 			}
 
 			a {
-				@apply text-blue-500 dark:text-bbbpink;
+				@apply text-bbbpink;
 			}
 
 			ul {
@@ -446,7 +446,7 @@ body {
 				@apply px-1 mx-1 rounded-sm;
 				@apply text-sm italic;
 				@apply border-none;
-				@apply bg-blue-400 dark:bg-gray-700 text-white font-fira;
+				@apply bg-gray-700 text-white font-fira;
 			}
 
 			pre {
@@ -474,7 +474,7 @@ body {
 				summary {
 					@apply list-none;
 					@apply flex flex-row items-center justify-between;
-					@apply text-blue-500 dark:text-bbbblue;
+					@apply text-bbbblue;
 
 					ul {
 						@apply flex flex-row;
@@ -498,7 +498,7 @@ body {
 							}
 
 							a {
-								@apply text-blue-500 dark:text-bbbblue;
+								@apply text-bbbblue;
 								@apply text-lg;
 
 								&:hover {
@@ -550,11 +550,11 @@ h2, h3 {
 			@apply py-2 truncate;
 
 			a {
-				@apply text-darkPurple dark:text-gray-100;
+				@apply text-gray-100;
 				@apply pl-2;
 
 				&:hover {
-					@apply text-blue-500 dark:text-bbbpink;
+					@apply text-bbbpink;
 				}
 
 				&.link--level3 {
@@ -563,11 +563,11 @@ h2, h3 {
 			}
 
 			&.link--active {
-				@apply border-l-4 border-blue-500 dark:border-bbbpink;
+				@apply border-l-4 border-bbbpink;
 			
 				a {
 					@apply font-bold;
-					@apply text-blue-500 dark:text-bbbpink;
+					@apply text-bbbpink;
 				}
 			}
 		}
@@ -590,10 +590,10 @@ h2, h3 {
 	@apply duration-500;
 	@apply ease-in-out;
 	@apply cursor-pointer;
-	@apply text-darkPurple dark:text-gray-100;
+	@apply text-gray-100;
 
 	a:hover {
-		@apply text-blue-500 dark:text-bbbpink;
+		@apply text-bbbpink;
 	}
 }
 
@@ -602,8 +602,8 @@ h2, h3 {
 	@apply h-full;
 	@apply rounded-md;
 	@apply border border-b-4 ;
-	@apply bg-white dark:bg-darkerPurple;
-	@apply border-gray-300 dark:border-gray-500;
+	@apply bg-darkerPurple;
+	@apply border-gray-500;
 	
 	img {
 		@apply rounded-t-md;
@@ -616,17 +616,17 @@ h2, h3 {
 
 		h3 {
 			@apply text-xl font-bold;
-			@apply text-darkPurple dark:text-white;
+			@apply text-white;
 		}
 
 		summary {
 			@apply text-sm;
-			@apply text-darkPurple dark:text-white;
+			@apply text-white;
 		}
 
 		p {
 			@apply text-sm font-raleway;
-			@apply text-gray-500 dark:text-gray-300;
+			@apply text-gray-300;
 		}
 	}
 
@@ -672,27 +672,23 @@ h2, h3 {
 			@apply flex items-center;
 			@apply font-cairo font-bold uppercase;
 			@apply text-3xl md:text-4xl;
-			@apply text-darkPurple dark:text-white;
+			@apply text-white;
 
 			span {
 				@apply flex;
 				@apply ml-1;
 				@apply py-0 px-2;
-				@apply text-white dark:text-darkPurple;
-				@apply bg-blue-500 dark:bg-bbbblue;
+				@apply text-darkPurple;
+				@apply bg-bbbblue;
 			}
 		}
 	}
 }
 
 .dark {
-	body {
-		background-image: url('/images/bg-dark.svg');
-
-		.blogCard {
-			a:hover {
-				box-shadow: 0 25px 50px -12px rgba(77, 67, 82,.9);
-			}
+	.blogCard {
+		a:hover {
+			box-shadow: 0 25px 50px -12px rgba(77, 67, 82,.9);
 		}
 	}
 }
