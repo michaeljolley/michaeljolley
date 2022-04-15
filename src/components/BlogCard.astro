@@ -14,7 +14,7 @@ const slug = post.frontmatter.slug ||
 const {title, summary, date} = post.frontmatter;
 ---
 
-<a class="blogCard" href={ `/blog/${slug}/` } title={ title }>
+<a class="card" href={ `/blog/${slug}/` } title={ title }>
 	<main>
 		<h3>{ title }</h3>
 		<summary>{ Intl.DateTimeFormat('us-EN', options).format(new Date(date)) }</summary>

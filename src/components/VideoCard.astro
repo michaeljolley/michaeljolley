@@ -4,7 +4,7 @@ import IconVideoCamera from './icons/VideoCamera.astro';
 const {video} = Astro.props;
 ---
 
-<a class="blogCard" href={video.frontmatter.link} title={video.frontmatter.title}>
+<a class="card" href={video.frontmatter.link} title={video.frontmatter.title}>
   <img src={video.frontmatter.thumbnail} alt={video.frontmatter.title} />
   <main>
     <h3>{ video.frontmatter.title.replace(' | Extension Highlight', '') }</h3>
