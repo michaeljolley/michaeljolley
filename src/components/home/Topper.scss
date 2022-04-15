@@ -13,7 +13,7 @@
 		@apply bg-center;
 		@apply flex justify-center items-center;
 
-		background-image: url('/images/intro-light.svg');
+		background-image: url('/images/intro-dark.svg');
 
 		&.twitch {
 			@apply w-full;
@@ -35,8 +35,6 @@
 .dark {
 	.topper {
 		.intro {
-			background-image: url('/images/intro-dark.svg');
-
 			&.twitch {
 				background-image: unset;
 			}

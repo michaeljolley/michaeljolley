@@ -1,5 +1,4 @@
 module.exports = {
-	darkMode: 'class',
 	content: [
 		'./public/**/*.html',
 		'./src/**/*.{astro,js,jsx,svelte,ts,tsx,vue}',
@@ -12,12 +11,19 @@ module.exports = {
 				raleway: ['Raleway', 'sans-serif'],
 			},
 			colors: {
+				darkGreen: '#011B2B',
+				meadow: '#18CDB9',
+				stripe: 'rgba(25, 52, 70, .5)',
+				neonYellow: '#E2FD37',
+
+
 				darkPurple: '#14051C',
 				darkerPurple: '#15001F',
+
+
 				bbbblue: '#00FFFF',
 				bbbpink: '#FF00FF',
-				stripeLight: 'rgba(3, 40, 249, 0.07)',
-				stripeDark: 'rgba(255, 255, 255, 0.09)',
+
 				brand: {
 					discord: '#7289da',
 					facebook: '#3B5998',
