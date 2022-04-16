@@ -11,18 +11,11 @@ module.exports = {
 				raleway: ['Raleway', 'sans-serif'],
 			},
 			colors: {
+				darkestGreen: '#02111B',
 				darkGreen: '#011B2B',
 				meadow: '#18CDB9',
 				stripe: 'rgba(25, 52, 70, .5)',
 				neonYellow: '#E2FD37',
-
-
-				darkPurple: '#14051C',
-				darkerPurple: '#15001F',
-
-
-				bbbblue: '#00FFFF',
-				bbbpink: '#FF00FF',
 
 				brand: {
 					discord: '#7289da',

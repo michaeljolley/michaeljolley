@@ -36,19 +36,22 @@ body,
 	}
 }
 
+html {
+	@apply bg-no-repeat bg-cover;
+	background-image: linear-gradient(to bottom, #022840, #02141F);
+	background-attachment: fixed;
+}
+
 body {
-	@apply bg-darkGreen;
+	@apply flex flex-col;
 	@apply bg-no-repeat bg-cover;
 	background-position: center 3rem;
 	background-image: url('/images/bg-dark.svg');
-
-	@apply flex flex-col;
 
 	> main {
 		@apply mb-auto;
 		@apply flex flex-col gap-4;
 	}
-
 }
 
 .stripe {
@@ -227,7 +230,7 @@ body {
 				@apply flex;
 				@apply ml-1;
 				@apply py-0 px-2;
-				@apply text-darkPurple;
+				@apply text-darkGreen;
 				@apply bg-meadow;
 			}
 		}
@@ -329,7 +332,7 @@ body {
 		@apply h-full;
 		@apply rounded-md;
 		@apply border-b-4 border-transparent;
-		@apply bg-darkerPurple;
+		@apply bg-darkestGreen;
 		
 		img {
 			@apply rounded-t-md;
@@ -340,9 +343,16 @@ body {
 			@apply flex flex-col gap-3;
 			@apply p-5;
 
+			.tags {
+				@apply flex flex-row gap-2;
+				@apply text-neonYellow;
+				@apply text-sm;
+				@apply mt-0;
+			}
+
 			h3 {
 				@apply text-xl font-bold;
-				@apply text-white;
+				@apply text-gray-200;
 			}
 
 			summary {
@@ -352,31 +362,26 @@ body {
 
 			p {
 				@apply text-sm font-raleway;
-				@apply text-gray-300;
+				@apply text-gray-500;
 			}
 		}
 
 		footer {
 			@apply opacity-0;
 			@apply uppercase;
-			@apply text-bbbpink font-bold;
+			@apply text-meadow font-bold;
 			@apply p-5 mt-auto;
 			@apply flex align-middle gap-1;
 		}
 
 		&:hover {
-			border-image-slice: 1;
-			border-image-source: linear-gradient(to right, #ff00ff, #00ffff);
+			@apply border-meadow;
 			@apply rounded-md;
 			@apply shadow-2xl;
 
 			main {
 				h3 {
-					background: linear-gradient(90deg,
-							rgba(255, 0, 255, 1) 0%,
-							rgba(0, 255, 255, 1) 100%);
-					-webkit-text-fill-color: transparent;
-					@apply bg-clip-text;
+					@apply text-meadow;
 				}
 			}
 
@@ -435,7 +440,7 @@ body {
 				@apply inline-block;
 				@apply font-raleway font-bold;
 				@apply py-1 px-3;
-				@apply text-darkPurple;
+				@apply text-darkGreen;
 				@apply bg-meadow;
 				@apply my-8;
 			}
@@ -444,11 +449,7 @@ body {
 				@apply font-raleway font-bold;
 				@apply py-1;
 				@apply text-4xl sm:text-5xl;
-				background: linear-gradient(90deg,
-						rgba(255, 0, 255, 1) 0%,
-						rgba(0, 255, 255, 1) 100%);
-				-webkit-text-fill-color: transparent;
-				@apply bg-clip-text;
+				@apply text-meadow;
 			}
 			h2 {
 				@apply text-3xl;
@@ -481,7 +482,12 @@ body {
 			}
 
 			a {
-				@apply text-bbbpink;
+				@apply border-b border-transparent;
+				@apply text-neonYellow;
+
+				&:hover {
+					@apply border-neonYellow;
+				}
 			}
 
 			ul {
@@ -501,7 +507,7 @@ body {
 						@apply h-full w-5;
 						@apply p-2;
 						@apply mr-4;
-						@apply text-darkPurple;
+						@apply text-darkGreen;
 
 						background-position: center;
 						background-image: url('/images/check.svg');
@@ -531,18 +537,12 @@ body {
 				h1 {
 					@apply font-raleway font-bold text-3xl md:text-4xl;
 					@apply mb-4;
-					background: linear-gradient(
-						90deg,
-						rgba(255, 0, 255, 1) 0%,
-						rgba(0, 255, 255, 1) 100%
-					);
-					-webkit-text-fill-color: transparent;
-					@apply bg-clip-text;
+					@apply text-meadow;
 				}
 				summary {
 					@apply list-none;
 					@apply flex flex-row items-center justify-between;
-					@apply text-bbbblue;
+					@apply text-neonYellow;
 
 					ul {
 						@apply flex flex-row;
@@ -566,8 +566,9 @@ body {
 							}
 
 							a {
-								@apply text-bbbblue;
-								@apply text-lg;
+								@apply text-neonYellow;
+								@apply text-xl;
+								@apply border-none;
 
 								&:hover {
 									&.twitter {
@@ -683,8 +684,8 @@ h2, h3 {
 				@apply flex;
 				@apply ml-1;
 				@apply py-0 px-2;
-				@apply text-darkPurple;
-				@apply bg-bbbblue;
+				@apply text-darkGreen;
+				@apply bg-meadow
 			}
 		}
 	}

@@ -1,8 +1,6 @@
 ---
 date: 2021-08-22
 title: 'Building a Discord Bot to Improve Inclusive Language'
-cover: ./cover.png
-ograph: ./ograph.png
 slug: building-a-discord-bot-to-improve-inclusive-language
 banner_image_alt: Discord channel where the GuyBot has responded to a non-inclusive message.
 description: Helping Discord members use more inclusive language by building a bot using JavaScript & Fauna and hosted by Azure in a Docker container.
