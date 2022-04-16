@@ -5,11 +5,10 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "node index.js && npm run build:astro && npm run build:functions",
+    "build": "node index.js && npm run build:astro",
     "build:astro": "astro build",
     "build:functions": "copyfiles netlify/**/* dist",
-    "preview": "astro preview",
-    "readme": "node index.js"
+    "preview": "astro preview"
   },
   "devDependencies": {
     "@astrojs/preact": "^0.0.2",

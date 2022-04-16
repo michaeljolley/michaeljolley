@@ -13,7 +13,7 @@ jobs:
       - name: Update README
         run: |
           npm install
-          node readme.js
+          node index.js
       - name: Commit changes
         id: commit
         env:
