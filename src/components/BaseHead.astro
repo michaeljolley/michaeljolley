@@ -1,0 +1,63 @@
+---
+import '../styles/main.scss';
+import titleCase from 'ap-style-title-case'
+
+export interface Props {
+	title: string;
+	description: string;
+	permalink: string;
+	tags: string[];
+}
+const { title, description, permalink, tags } = Astro.props;
+const keywords = tags.join(',');
+
+const titleString = `/l_text:Cairo_56_bold_line_spacing_-45:${encodeURI(titleCase(title))},g_north_west,x_65,y_255,w_900,c_fit,co_rgb:FFFFFF`;
+const tagString = tags ? `/l_text:Cairo_24_regular_letter_spacing_4:${tags.map((t) => `%23${t.toLowerCase()}`).join('%20')},g_north_west,x_65,y_215,co_rgb:E2FD37` : '';
+
+const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tagString}${titleString}/ograph-base.png`
+---
+
+<!-- Global Metadata -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/mstile-150x150.png">
+<meta name="theme-color" content="#ffffff">
+<meta name="robots" content="index, follow">
+<link rel="manifest" href="/site.webmanifest">
+
+<!-- Primary Meta Tags -->
+<title>{title}</title>
+<meta name="title" content={title} />
+<meta name="description" content={description} />
+<meta name="keywords" content={keywords} />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website" />
+<meta property="og:url" content={permalink} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ograph} />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={permalink} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={ograph} />
+
+<!-- Fonts & Images -->
+<link rel="dns-prefetch" href="//res.cloudinary.com">
+<link rel="preconnect" href="https://res.cloudinary.com">
+<link rel="prerender" href="https://baldbeardedbuilder.com/blog/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Fira+Code&family=Raleway:ital,wght@0,400;0,700;1,400&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prism-themes@1.9.0/themes/prism-night-owl.css"/>
+
+<!-- Feeds -->
+<link rel="alternative" type="application/rss+xml" href="/feed.xml" title="RSS">

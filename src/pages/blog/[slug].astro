@@ -1,0 +1,69 @@
+---
+export async function getStaticPaths({ rss }) {
+  
+  const allPosts = await Astro.glob('../../content/blog/**/*.md');
+  const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+
+	rss({
+		title: 'Michael Jolley is the Bald Bearded Builder',
+		stylesheet: true,
+		description: 'Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.',
+		customData: `<language>en-us</language>`,
+		items: sortedPosts.map(item => {
+			const pathParts = item.file.replace('/index.md', '').split('/');
+			const slug = pathParts[pathParts.length - 1]
+
+			return {
+				title: item.frontmatter.title,
+				description: item.frontmatter.description,
+				link: `https://baldbeardedbuilder.com/blog/${slug}/`,
+				pubDate: item.frontmatter.date,
+			}
+		}),
+		dest: "/feed.xml",
+	});
+
+  return sortedPosts.map((post) => {
+    const pathParts = post.file.replace('/index.md', '').split('/');
+    const slug = pathParts[pathParts.length - 1]
+    return {
+      params: {
+        slug
+      },
+      props: {
+        post
+      }
+    }
+  })
+}
+
+import Layout from '../../layouts/Default.astro';
+import TableOfContents from '../../components/TableOfContents';
+import RelatedPosts from '../../components/RelatedPosts.astro';
+import BlogTopper from '../../components/BlogTopper.astro';
+
+const { post } = Astro.props;
+const { slug } = Astro.params;
+
+const { title, description, tags, date } = post.frontmatter;
+const permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
+
+let headers = await post.getHeaders();
+---
+
+<Layout {title} {description} {permalink} {tags}>
+  <article class="post">
+    <main>
+      <aside>
+        <TableOfContents {headers} client:load />
+      </aside>
+      <section class="content">
+        <BlogTopper {title} {date} {description} {tags} {permalink} />
+        <post.Content/>
+      </section>
+    </main>
+    <footer>
+      <RelatedPosts post={post} />
+    </footer>
+  </article>
+</Layout>

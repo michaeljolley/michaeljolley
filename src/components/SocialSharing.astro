@@ -1,0 +1,35 @@
+---
+import IconBrandFacebook from './icons/brands/Facebook.astro';
+import IconBrandTwitter from './icons/brands/Twitter.astro';
+import IconBrandReddit from './icons/brands/Reddit.astro';
+import IconBrandLinkedIn from './icons/brands/LinkedIn.astro';
+
+export interface Props {
+	title: string;
+	description: string;
+	tags: string[];
+	permalink: string;
+}
+const { title, description, tags, permalink } = Astro.props;
+
+const fbLink = `https://www.facebook.com/sharer/sharer.php?u=${permalink}&title=${title}&description=${description}&quote=${description}&hashtag=%23${tags.join(',%23')}`;
+const twLink = `https://twitter.com/intent/tweet?text=${title}&url=${permalink}&hashtags=${tags.join(',')}&via=baldbeardbuild`;
+const rdLink = `https://www.reddit.com/submit?url=${permalink}&title=${title}`;
+const liLink = `https://www.linkedin.com/sharing/share-offsite/?url=${permalink}`;
+
+---
+
+<ul>
+	<li>
+		<a class="facebook" href={fbLink} target="_blank"><IconBrandFacebook/></a>
+	</li>
+	<li>
+		<a class="twitter" href={twLink} target="_blank"><IconBrandTwitter/></a>
+	</li>
+	<li>
+		<a class="linkedin" href={liLink} target="_blank"><IconBrandLinkedIn/></a>
+	</li>
+	<li>
+		<a class="reddit" href={rdLink} target="_blank"><IconBrandReddit/></a>
+	</li>
+</ul>

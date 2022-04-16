@@ -1,0 +1,43 @@
+.topper {
+	@apply flex justify-center;
+	@apply mx-auto;
+	@apply w-full;
+	@apply lg:max-w-4xl xl:max-w-6xl;
+
+	@apply text-gray-900 dark:text-white;
+
+	.intro {
+		@apply h-56 md:h-96;
+		@apply w-5/6;
+		@apply bg-contain bg-no-repeat;
+		@apply bg-center;
+		@apply flex justify-center items-center;
+
+		background-image: url('/images/intro-dark.svg');
+
+		&.twitch {
+			@apply w-full;
+			background-image: unset;
+
+			iframe {
+				@apply w-full;
+				@apply h-3/4;
+
+				@screen md {
+					width: unset;
+					aspect-ratio: 16/9;
+				}
+			}
+		}
+	}
+}
+
+.dark {
+	.topper {
+		.intro {
+			&.twitch {
+				background-image: unset;
+			}
+		}
+	}
+}

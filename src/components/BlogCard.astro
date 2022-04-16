@@ -1,0 +1,32 @@
+---
+import IconArrow from './icons/Arrow.astro';
+
+const options = {
+  year: 'numeric',
+  month: 'long',
+  day: 'numeric',
+}
+
+const {post} = Astro.props;
+const slug = post.frontmatter.slug || 
+             post.file.split('/')[post.file.split('/').length - 2];
+
+const {title, summary, date} = post.frontmatter;
+let { tags } = post.frontmatter;
+tags = tags.slice(0, 3);
+---
+
+<a class="card" href={ `/blog/${slug}/` } title={ title }>
+	<main>
+		<ul class="tags">
+			{ 
+				tags.map((tag) => 
+					<li>#{tag}</li>
+				)
+			}
+		</ul>
+		<h3>{ title }</h3>
+		<p>{ summary }</p>
+	</main>
+	<footer>READ MORE <IconArrow /></footer>
+</a>
