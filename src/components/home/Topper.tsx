@@ -5,7 +5,7 @@ function Topper() {
 	let isLive = false;
 
 	const response = fetch(
-		`https://baldbeardedbuilder.com/.netlify/functions/twitch`
+		`/.netlify/functions/twitch`
 	).then((response) => {
 		response.json()
 			.then((json) => {
