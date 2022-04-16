@@ -1,5 +1,6 @@
 ---
 import '../styles/main.scss';
+import titleCase from 'ap-style-title-case'
 
 export interface Props {
 	title: string;
@@ -9,6 +10,11 @@ export interface Props {
 }
 const { title, description, permalink, tags } = Astro.props;
 const keywords = tags.join(',');
+
+const titleString = `/l_text:Cairo_56_bold_line_spacing_-45:${encodeURI(titleCase(title))},g_north_west,x_65,y_255,w_900,c_fit,co_rgb:FFFFFF`;
+const tagString = tags ? `/l_text:Cairo_24_regular_letter_spacing_4:${tags.map((t) => `%23${t.toLowerCase()}`).join('%20')},g_north_west,x_65,y_215,co_rgb:E2FD37` : '';
+
+const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tagString}${titleString}/ograph-base.png`
 ---
 
 <!-- Global Metadata -->
@@ -35,14 +41,14 @@ const keywords = tags.join(',');
 <meta property="og:url" content={permalink} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content="https://astro.build/social.jpg?v=1" />
+<meta property="og:image" content={ograph} />
 
 <!-- Twitter -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={permalink} />
 <meta property="twitter:title" content={title} />
 <meta property="twitter:description" content={description} />
-<meta property="twitter:image" content="https://astro.build/social.jpg?v=1" />
+<meta property="twitter:image" content={ograph} />
 
 <!-- Fonts & Images -->
 <link rel="dns-prefetch" href="//res.cloudinary.com">

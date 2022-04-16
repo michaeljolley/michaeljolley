@@ -141,19 +141,19 @@ body {
 					
 						@apply font-normal;
 
-						&.github {
+						&.github:hover {
 							span {
 								@apply text-red-500;
 							}
 						}
 
-						&.uses {
+						&.uses:hover {
 							span {
 								@apply text-purple-500;
 							}
 						}
 
-						&.patreon {
+						&.patreon:hover {
 							span {
 								@apply text-brand-patreon;
 							}
@@ -165,10 +165,6 @@ body {
 						
 						&:hover {
 							@apply text-neonYellow;
-
-							span {
-								@apply text-neonYellow;
-							}
 						}
 					}
 
@@ -179,27 +175,27 @@ body {
 							@apply flex gap-3;
 							@apply text-lg;
 
-							.twitter {
+							.twitter:hover {
 								@apply text-brand-twitter;
 							}
 
-							.linkedin {
+							.linkedin:hover {
 								@apply text-brand-linkedin;
 							}
 
-							.instagram {
+							.instagram:hover {
 								@apply text-brand-instagram;
 							}
 
-							.youtube {
+							.youtube:hover {
 								@apply text-brand-youtube;
 							}
 
-							.discord {
+							.discord:hover {
 								@apply text-brand-discord;
 							}
 
-							.twitch {
+							.twitch:hover {
 								@apply text-brand-twitch;
 							}
 						}
@@ -335,7 +331,7 @@ body {
 		@apply bg-darkestGreen;
 		
 		img {
-			@apply rounded-t-md;
+			@apply rounded-t-lg;
 			padding: 1px;
 		}
 
@@ -362,7 +358,7 @@ body {
 
 			p {
 				@apply text-sm font-raleway;
-				@apply text-gray-500;
+				@apply text-gray-400;
 			}
 		}
 
@@ -498,7 +494,7 @@ body {
 					@apply p-3;
 
 					&:not(:last-child) {
-						@apply border-b border-blue-100;
+						@apply border-b border-darkGreen;
 					}
 
 					&:before {
@@ -536,8 +532,8 @@ body {
 			.blog-topper {
 				h1 {
 					@apply font-raleway font-bold text-3xl md:text-4xl;
-					@apply mb-4;
-					@apply text-meadow;
+					@apply mb-4 p-4;
+					@apply text-meadow bg-darkGreen;
 				}
 				summary {
 					@apply list-none;
@@ -588,6 +584,31 @@ body {
 
 						}
 					}
+				}
+			}
+
+			label {
+				@apply font-bold text-xl text-neonYellow;
+			}
+
+			textarea,
+			input {
+				@apply w-full p-2;
+				@apply block border border-gray-100;
+				@apply bg-stripe;
+				@apply rounded-md;
+			}
+
+			button {
+				@apply font-bold font-fira uppercase;
+				@apply bg-gray-200;
+				@apply text-darkGreen;
+				@apply py-3 px-5;
+				@apply mt-12;
+				@apply rounded-md;
+
+				&:hover {
+					@apply bg-neonYellow;
 				}
 			}
 		}

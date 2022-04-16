@@ -23,8 +23,11 @@ const options = {
 	<h1>{ title }</h1>
 	<summary>
 		<ul>
-			<li><IconCalendar /></li>
-			<li><time>{Intl.DateTimeFormat('us-EN', options).format(new Date(date))}</time></li>
+			{
+				date && 
+				<li><IconCalendar /></li>
+				<li><time>{Intl.DateTimeFormat('us-EN', options).format(new Date(date))}</time></li>
+			}
 		</ul>
 		<SocialSharing {title} {tags} {description} {permalink}/>
 	</summary>

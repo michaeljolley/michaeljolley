@@ -1,0 +1,28 @@
+---
+import Layout from '../layouts/Default.astro'
+import BlogTopper from '../components/BlogTopper.astro';
+
+let title = 'Thanks for Your Report';
+let description = 'Thanks for submitting a Code of Conduct violation.';
+let permalink = 'https://baldbeardedbuilder.com/thanks/';
+let tags = ['code-of-conduct', 'inclusion', 'safety'];
+
+---
+
+<Layout {title} {description} {permalink} {tags}>
+  <article class="post">
+    <main>
+      <aside>
+      </aside>
+      <section class="content">
+        <BlogTopper {title} {description} {tags} {permalink} />
+        <p>
+					Thank you for submitting that breach of our code of conduct. We take
+					breaches of our Code of Conduct <strong>very</strong> seriously. You
+					can trust that we will address the issue you raised and if you
+					provided your contact information, we will update you accordingly.
+				</p>
+      </section>
+    </main>
+  </article>
+</Layout>
