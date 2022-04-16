@@ -1,0 +1,5 @@
+[context.production]
+  environment = { NPM_FLAGS = "--no-optional", CI = "1" }
+
+[[plugins]]
+  package = "@netlify/plugin-functions-install-core"
