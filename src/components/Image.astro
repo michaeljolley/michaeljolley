@@ -72,7 +72,7 @@
   const publicId = `${src.replace(path.extname(src), '').replace('./','')}`
   const asset = await getAsset(imagePath, publicId, `/blog/${slug}/`)
 	
-	const cloudinarySrc = asset.secure_url;
+	const cloudinarySrc = asset ? asset.secure_url : '';
 
 ---
 
