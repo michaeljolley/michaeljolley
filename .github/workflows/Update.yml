@@ -14,9 +14,6 @@ jobs:
         run: |
           npm install
           node index.js
-      - name: Prepare Environment
-        run: |
-          node envgen.js
       - name: Rebuild site
         run: |
           npm run build
@@ -39,6 +36,6 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "<>"
           git pull origin main
-          git add .
+          git add README.md
           git commit -m "Updating README"
           git push origin main
