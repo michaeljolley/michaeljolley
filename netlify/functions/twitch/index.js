@@ -4,8 +4,8 @@ require('dotenv').config()
 
 exports.handler = async (event, context, callback) => {
 	const opts = {
-		client_id: process.env.VITE_TWITCH_CLIENT_ID,
-		client_secret: process.env.VITE_TWITCH_CLIENT_SECRET,
+		client_id: process.env.TWITCH_CLIENT_ID,
+		client_secret: process.env.TWITCH_CLIENT_SECRET,
 		grant_type: 'client_credentials',
 		scopes: '',
 	}
@@ -21,7 +21,7 @@ exports.handler = async (event, context, callback) => {
 		`https://api.twitch.tv/helix/streams?user_login=baldbeardedbuilder`,
 		{
 			headers: {
-				'Client-ID': process.env.VITE_TWITCH_CLIENT_ID,
+				'Client-ID': process.env.TWITCH_CLIENT_ID,
 				Authorization: `Bearer ${data.access_token}`,
 			},
 		}

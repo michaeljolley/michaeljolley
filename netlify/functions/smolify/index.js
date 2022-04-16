@@ -1,7 +1,7 @@
 const Lokka = require('lokka').Lokka
 const Transport = require('lokka-transport-http').Transport
 
-const faunaSecret = process.env.VITE_FAUNADBSECRET
+const faunaSecret = process.env.FAUNADBSECRET
 
 const headers = {
 	Authorization: `Bearer ${faunaSecret}`,
