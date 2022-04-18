@@ -4,6 +4,7 @@ const qs = require('querystring')
 const axios = require('axios')
 require('dotenv').config()
 
+app.use(Express.json());
 app.use(Express.static('public'));
 
 app.get('/functions/twitch', async (req, res) => {
@@ -32,21 +33,13 @@ app.get('/functions/twitch', async (req, res) => {
 				},
 			}
 		)
-		isOnline: !!streams.length;
+		isOnline = !!streams.length;
 	}
 	catch (err) {
 		console.log(err)
 	}
 
-	callback(null, {
-		statusCode: 200,
-		headers: {
-			'Content-Type': 'application/json',
-			'Cache-Control': 'max-age=1800, immutable',
-		},
-		body: JSON.stringify({ isOnline }),
-	})
-
+	res.json({ isOnline });
 })
 
 app.listen(8080, () => console.log('Listening on 8080'));
