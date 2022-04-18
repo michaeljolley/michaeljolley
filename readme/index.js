@@ -84,7 +84,7 @@ ${video['media:group']['media:description'][0]}
 			title: m.title,
 			link: m.link,
 			description: m['media:group']['media:description'][0],
-			thumbnail: m['media:group']['media:thumbnail'][0].$.url,
+			thumbnail: `https://i2.ytimg.com/vi/${m.id.replace("yt:video:", "")}/mqdefault.jpg`,
 			date: m.pubDate ? new Date(m.pubDate) : new Date()
 		}
 	});
