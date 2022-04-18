@@ -3,17 +3,20 @@ on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
+  push:
+    branches: [ main ]
+env:
+  FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 jobs:
   update_profile_data:
-    name: Update profile data
+    name: Update README.md and commit
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - name: Update README
         run: |
           npm install
-          node index.js
+          node readme/index.js
       - name: Commit changes
         id: commit
         env:
@@ -25,3 +28,11 @@ jobs:
           git add .
           git commit -m "Updating README"
           git push origin main
+  deploy:
+    name: Deploy site to Fly.io
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: superfly/flyctl-actions/setup-flyctl@master
+      - run: flyctl deploy --remote-only
+    
