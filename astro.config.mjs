@@ -11,6 +11,7 @@ export default defineConfig({
 			applyAstroPreset: false
 		}
 	})],
+	outDir: './dist/public',
 	site: 'https://baldbeardedbuilder.com/',
 	trailingSlash: 'always',
 	markdown: {

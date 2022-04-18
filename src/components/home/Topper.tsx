@@ -1,20 +1,22 @@
-import './Topper.scss';
-
 function Topper() {
 	
 	let isLive = false;
 
-	const response = fetch(
-		`/.netlify/functions/twitch`
-	).then((response) => {
-		response.json()
-			.then((json) => {
-				const { isOnline } = json;
-				isLive = isOnline;
-			})
-			.catch((ex) => {});
-	})
-	.catch((ex) => { });
+	try {
+		const response = fetch(
+			`/functions/twitch`
+		).then((response) => {
+			response.json()
+				.then((json) => {
+					const { isOnline } = json;
+					isLive = isOnline;
+				})
+				.catch((ex) => {});
+		})
+		.catch((ex) => { });
+	} catch (err) {
+
+	}
 
 	return (
 		<section class="topper">

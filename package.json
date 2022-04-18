@@ -5,9 +5,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "node index.js && npm run build:astro",
+    "build": "node readme/index.js && npm run build:astro && copyfiles index.js ./dist",
     "build:astro": "astro build",
-    "build:functions": "copyfiles netlify/**/* dist",
     "preview": "astro preview"
   },
   "devDependencies": {
@@ -21,7 +20,6 @@
     "autoprefixer": "^10.4.4",
     "cloudinary": "^1.29.0",
     "copyfiles": "^2.4.1",
-    "dotenv": "^16.0.0",
     "gray-matter": "^4.0.3",
     "mustache": "^4.2.0",
     "postcss": "^8.4.12",
@@ -29,6 +27,9 @@
     "sass": "^1.49.9"
   },
   "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
     "preact": "^10.6.6"
   }
 }

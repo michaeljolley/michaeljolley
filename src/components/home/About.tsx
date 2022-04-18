@@ -1,5 +1,4 @@
-import { useEffect, useState } from 'preact/hooks';
-import './About.scss';
+import { useState } from 'preact/hooks';
 
 const positiveMessages = [
   'he believes in you.',

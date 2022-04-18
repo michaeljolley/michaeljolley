@@ -1,133 +1,52 @@
-const Parser = require('rss-parser');
-const Mustache = require('mustache');
-const fs = require('fs/promises');
-const matter = require('gray-matter');
+const Express = require('express');
+const app = new Express();
+const qs = require('querystring')
+const axios = require('axios')
+require('dotenv').config()
 
-async function main() {
+app.use(Express.static('public'));
 
-	const payload = await generateData();
-	const template = await getTemplate();
+app.get('/functions/twitch', async (req, res) => {
+	const opts = {
+		client_id: process.env.TWITCH_CLIENT_ID,
+		client_secret: process.env.TWITCH_CLIENT_SECRET,
+		grant_type: 'client_credentials'
+	}
+	const params = qs.stringify(opts)
 
-	const newReadMe = Mustache.render(template, payload);
-
-	await saveReadMe(newReadMe);
-}
-
-/**
- * Example data object:
- * {
- *    posts: [
- *      {
- *        title: String,
- *        link: String,
- *        description: String,
- *        date: Date
- *      }
- *    ],
- *    videos: [
- *      {
- *        title: String,
- *        link: String,
- *        date: Date,
- *        description: String,
- *        thumbnail: String
- *      }
- *    ]
- * }
- */
-async function generateData() {
-
-	const videos = await _generateYTData();
-	const posts = await _generateBlogData();
-
-	return {
-		posts,
-		videos
-	};
-}
-
-async function _generateYTData() {
-	const parser = new Parser({
-		customFields: {
-			item: ['media:group', 'media:thumbnail'],
-		},
-	});
-
-	const feed = await parser.parseURL(
-		`https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FoDbv_veJB_UbrF93_jw`
-	)
+	let isOnline = false;
 
 	try {
-		await fs.opendir('src/content/videos');
+		const { data } = await axios.post(
+			`https://id.twitch.tv/oauth2/token?${params}`
+		)
+
+		const {
+			data: { data: streams },
+		} = await axios.get(
+			`https://api.twitch.tv/helix/streams?user_login=baldbeardedbuilder`,
+			{
+				headers: {
+					'Client-ID': process.env.TWITCH_CLIENT_ID,
+					Authorization: `Bearer ${data.access_token}`,
+				},
+			}
+		)
+		isOnline: !!streams.length;
 	}
 	catch (err) {
-		await fs.mkdir('src/content/videos');
+		console.log(err)
 	}
 
-	// Save md files for site build
-	for (i = 0; i < feed.items.length; i++) {
-		const video = feed.items[i];
-		await fs.writeFile(`src/content/videos/${video.id.replace('yt:video:', '')}.md`,
-			`---
-title: ${video.title}
-link: ${video.link}
-thumbnail: https://i2.ytimg.com/vi/${video.id.replace("yt:video:", "")}/mqdefault.jpg
-date: ${video.pubDate ? new Date(video.pubDate) : new Date()}
----
+	callback(null, {
+		statusCode: 200,
+		headers: {
+			'Content-Type': 'application/json',
+			'Cache-Control': 'max-age=1800, immutable',
+		},
+		body: JSON.stringify({ isOnline }),
+	})
 
-${video['media:group']['media:description'][0]}
-`);
-	}
+})
 
-	return feed.items.slice(0, 3).map((m) => {
-		return {
-			title: m.title,
-			link: m.link,
-			description: m['media:group']['media:description'][0],
-			thumbnail: m['media:group']['media:thumbnail'][0].$.url,
-			date: m.pubDate ? new Date(m.pubDate) : new Date()
-		}
-	});
-}
-
-async function _generateBlogData() {
-
-	const getPosts = async (path) => {
-		const files = await fs.readdir(path, { withFileTypes: true });
-		const posts = [];
-
-		for (let i = 0; i < files.length; i++) {
-			if (files[i].isDirectory()) {
-				posts.push(...(await getPosts(`${path}/${files[i].name}`)))
-			} else if (files[i].name.includes(".md")) {
-
-				const fileInfo = await fs.readFile(`${path}/${files[i].name}`, 'utf8');
-				const deets = matter(fileInfo)
-
-				posts.push({
-					title: deets.data.title,
-					date: new Date(deets.data.date),
-					description: deets.data.description,
-					tags: deets.data.tags,
-					link: `https://baldbeardedbuilder.com/blog/${path.split('/').slice(-1)}/`
-				})
-			}
-		}
-		return posts;
-	}
-
-	const posts = await getPosts('./src/content/blog')
-	return posts
-		.sort((a, b) => b.date - a.date)
-		.slice(0, 3);
-}
-
-async function getTemplate() {
-	return await fs.readFile("_template.md", "utf-8")
-}
-
-async function saveReadMe(newReadMe) {
-	await fs.writeFile('README.md', newReadMe);
-}
-
-main();
+app.listen(8080, () => console.log('Listening on 8080'));
