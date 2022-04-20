@@ -22,13 +22,17 @@ function TableOfContents(props) {
           <ul>
             {
               headers.map((header) =>
-                <li class={`link--level${header.depth}`} className={header.slug === activeId ? 'link--active' : ''}>
-                  <a 
-                    href={`#${header.slug}`}
-                    data-attr-id={header.slug}
-                    onClick={scrollToHeading}
-                    >{header.text}</a>
-                </li>
+                {
+                const className = [`link--level${header.depth}`, header.slug === activeId ? 'link--active' : '']
+                  return (
+                  <li className={className.join(' ')}>
+                    <a 
+                      href={`#${header.slug}`}
+                      data-attr-id={header.slug}
+                      onClick={scrollToHeading}
+                      >{header.text}</a>
+                  </li>)
+                }
               )
             }
           </ul>

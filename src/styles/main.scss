@@ -730,20 +730,22 @@ h2, h3 {
 		@apply flex-col;
 
 		li {
-			@apply ml-2;
 			@apply text-sm;
-			@apply py-2 truncate;
+			@apply py-2 pl-2;
 
 			a {
 				@apply text-gray-100;
-				@apply pl-2;
 
 				&:hover {
 					@apply text-neonYellow;
 				}
+			}
 
-				&.link--level3 {
-					@apply pl-3;
+			&.link--level3 {
+				@apply pl-4;
+
+				a {
+					@apply text-gray-300;
 				}
 			}
 
