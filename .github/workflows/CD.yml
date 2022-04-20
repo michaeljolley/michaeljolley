@@ -34,5 +34,5 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy --remote-only --build-arg CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --build-arg CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --build-arg CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}} --build-arg GOOGLE_ANALYTICS_ID=${{secrets.GOOGLE_ANALYTICS_ID}}
+      - run: flyctl deploy --remote-only --env CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --env CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --env CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}} --env GOOGLE_ANALYTICS_ID=${{secrets.GOOGLE_ANALYTICS_ID}}
     
