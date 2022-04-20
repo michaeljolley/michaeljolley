@@ -2,11 +2,11 @@
 
 ### Recent Blog Posts
 
+[Building 404 Pages That Bring Joy](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;building-404-pages-that-bring-joy&#x2F;)
+
+[Building a Cross Platform NuGet Package](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;cross-platform-nuget-dotnet&#x2F;)
+
 [Building a Discord Bot to Improve Inclusive Language](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;building-a-discord-bot-to-improve-inclusive-language&#x2F;)
-
-[Using Polywork to Break My Unconscious Biases](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;using-polywork-to-break-unconscious-biases&#x2F;)
-
-[10 VS Code Extensions You Need Today](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;10-visual-studio-code-extensions-you-need-today&#x2F;)
 
 ### Recent Videos
 
