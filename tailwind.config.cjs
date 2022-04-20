@@ -12,6 +12,11 @@ module.exports = {
 			},
 			colors: {
 				darkestGreen: '#02111B',
+				darketGreenOpaque: {
+					'40': 'rgba(2, 17, 27, .4)',
+					'60': 'rgba(2, 17, 27, .6)',
+					'80': 'rgba(2, 17, 27, .8)'
+				} ,
 				darkGreen: '#011B2B',
 				meadow: '#18CDB9',
 				stripe: 'rgba(25, 52, 70, .5)',

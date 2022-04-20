@@ -628,7 +628,7 @@ body {
 				h1 {
 					@apply font-raleway font-bold text-3xl md:text-4xl;
 					@apply mb-4 p-4;
-					@apply text-meadow bg-darkGreen;
+					@apply text-meadow bg-darketGreenOpaque-60;
 				}
 				summary {
 					@apply list-none;
@@ -724,14 +724,18 @@ h2, h3 {
 }
 
 .toc {
+	@apply bg-darketGreenOpaque-80;
+
 	ul {
 		@apply hidden;
 		@apply lg:flex;
 		@apply flex-col;
+		@apply py-2;
 
 		li {
 			@apply text-sm;
-			@apply py-2 pl-2;
+			@apply py-2 px-4;
+			@apply border-l-4 border-transparent;
 
 			a {
 				@apply text-gray-100;
@@ -742,7 +746,7 @@ h2, h3 {
 			}
 
 			&.link--level3 {
-				@apply pl-4;
+				@apply pl-8;
 
 				a {
 					@apply text-gray-300;
@@ -750,7 +754,7 @@ h2, h3 {
 			}
 
 			&.link--active {
-				@apply border-l-4 border-neonYellow;
+				@apply border-neonYellow;
 			
 				a {
 					@apply font-bold;
