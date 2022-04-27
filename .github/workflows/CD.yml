@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
-env:
-  FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
 jobs:
   update_profile_data:
     name: Update README.md and commit
@@ -21,5 +19,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy --env CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --env CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --env CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}} --env GOOGLE_ANALYTICS_ID=${{secrets.GOOGLE_ANALYTICS_ID}}
-    
+      - run: flyctl deploy
+        env:
+          FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
+          CLOUDINARY_API_KEY: ${{secrets.CLOUDINARY_API_KEY}}
+          CLOUDINARY_API_SECRET: ${{secrets.CLOUDINARY_API_SECRET}}
+          CLOUDINARY_CLOUD_NAME: ${{secrets.CLOUDINARY_CLOUD_NAME}}
+          TWITCH_CLIENT_ID: ${{secrets.TWITCH_CLIENT_ID}}
+          TWITCH_CLIENT_SECRET: ${{secrets.TWITCH_CLIENT_SECRET}}
