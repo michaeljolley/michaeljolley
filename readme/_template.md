@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Michael.
+# 👋 Hi! I'm Michael.
 
 I've been a developer for a little more than 20 years (yeah, that means I'm old,)
 but I **LOVE** this stuff! The best part of being a developer is constantly
@@ -7,29 +7,38 @@ Developer Relations at [Deepgram](https://deepgram.com) where I get to play with
 cool APIs and I spend a lot of time writing, recording, and streaming content
 that hopefully helps you become a better developer.
 
-{{#streams}}
-### 📽️ Most Recent Live-stream
+## Find Me Everywhere!
 
-<a href="{{{url}}}">
-  <h4>{{title}}</h4>
+![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social) ![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/baldbeardbuild?style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social) ![Discord](https://img.shields.io/discord/565665509350178827)
+
+{{#streams}}
+## 📽️ Most Recent Live-stream
+
+<a href="{{{url}}}" target="_blank">
+  <h3>{{title}}</h3>
   <img src="{{{thumbnail}}}" alt="{{title}}"/>
 </a>
+
+---
+
 {{/streams}}
 
-### 📝 Recent Blog Posts
+## 📝 Recent Blog Posts
 
 {{#posts}}
 [{{title}}]({{{link}}})
 
 {{/posts}}
 
-### 📽️ Random Twitch Clips
+---
+
+## 📽️ Random Twitch Clips
 
 <table>
   <tr>
     {{#clips}}
     <td>
-      <a href="{{{url}}}">
+      <a href="{{{url}}}" target="_blank">
         <img src="{{{thumbnail}}}" alt="{{title}}"/>
       </a>
     </td>
@@ -37,13 +46,15 @@ that hopefully helps you become a better developer.
   </tr>
 </table>
 
-### 📺 Recent YouTube Videos
+---
+
+## 📺 Recent YouTube Videos
 
 <table>
   <tr>
     {{#videos}}
     <td>
-      <a href="{{{link}}}">
+      <a href="{{{link}}}" target="_blank">
         <img style="align=center" src="{{{thumbnail}}}" alt="{{title}}"/>
       </a>
     </td>

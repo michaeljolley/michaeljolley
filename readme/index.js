@@ -160,7 +160,7 @@ async function _generateTwitchData() {
 				id: m.id,
 				title: m.title,
 				url: m.url,
-				thumbnail: m.thumbnail_url.replace('%{width}', '480').replace('%{height}', '320'),
+				thumbnail: m.thumbnail_url.replace('%{width}', '480').replace('%{height}', '272'),
 			}
 		})
 	};
