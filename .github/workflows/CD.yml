@@ -28,4 +28,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: flyctl deploy
+      - run: flyctl deploy --build-arg CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --build-arg CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --build-arg CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}} --build-arg TWITCH_CLIENT_ID=${{secrets.TWITCH_CLIENT_ID}} --build-arg TWITCH_CLIENT_SECRET=${{secrets.TWITCH_CLIENT_SECRET}}
