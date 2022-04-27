@@ -5,6 +5,10 @@ on:
   workflow_dispatch:
   push:
     branches: [ main ]
+env:
+  TWITCH_CLIENT_ID: ${{secrets.TWITCH_CLIENT_ID}}
+  TWITCH_CLIENT_SECRET: ${{secrets.TWITCH_CLIENT_SECRET}}
+  TWITCH_CHANNEL_ID: ${{secrets.TWITCH_CHANNEL_ID}}
 jobs:
   update_profile_data:
     name: Update README.md and commit
