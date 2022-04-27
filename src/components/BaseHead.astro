@@ -7,8 +7,9 @@ export interface Props {
 	description: string;
 	permalink: string;
 	tags: string[];
+  canonicalUrl?: string;
 }
-const { title, description, permalink, tags } = Astro.props;
+const { title, description, permalink, tags, canonicalUrl } = Astro.props;
 const keywords = tags.join(',');
 
 const titleString = `/l_text:Cairo_56_bold_line_spacing_-45:${encodeURI(titleCase(title))},g_north_west,x_65,y_255,w_900,c_fit,co_rgb:FFFFFF`;
@@ -64,3 +65,9 @@ const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tag
 
 <!-- Fathom -->
 <script src="https://cdn.usefathom.com/script.js" data-site="SDVXRDHS" defer></script>
+
+{
+  canonicalUrl &&
+  <!-- Canonical link -->
+  <link rel="canonical" href={canonicalUrl} />
+}

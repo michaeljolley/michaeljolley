@@ -45,13 +45,15 @@ import BlogTopper from '../../components/BlogTopper.astro';
 const { post } = Astro.props;
 const { slug } = Astro.params;
 
-const { title, description, tags, date } = post.frontmatter;
+const { title, description, tags, date, canonical_url } = post.frontmatter;
 const permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
+
+const canonicalUrl = canonical_url;
 
 let headers = await post.getHeaders();
 ---
 
-<Layout {title} {description} {permalink} {tags}>
+<Layout {title} {description} {permalink} {tags} {canonicalUrl}>
   <article class="post">
     <main>
       <aside>

@@ -2,6 +2,9 @@ const Parser = require('rss-parser');
 const Mustache = require('mustache');
 const fs = require('fs/promises');
 const matter = require('gray-matter');
+const qs = require('querystring');
+const axios = require('axios');
+require('dotenv').config();
 
 async function main() {
 
@@ -32,15 +35,26 @@ async function main() {
  *        description: String,
  *        thumbnail: String
  *      }
- *    ]
+ *    ],
+ * 		clips: [
+ * 			{
+ *				title: String,
+ *				views: Number,
+ *				url: String,
+ *				embed: String,
+ *				thumbnail: String,
+				}
+ * 		],
  * }
  */
 async function generateData() {
 
 	const videos = await _generateYTData();
+	const twitch = await _generateTwitchData();
 	const posts = await _generateBlogData();
 
 	return {
+		...twitch,
 		posts,
 		videos
 	};
@@ -88,6 +102,68 @@ ${video['media:group']['media:description'][0]}
 			date: m.pubDate ? new Date(m.pubDate) : new Date()
 		}
 	});
+}
+
+async function _generateTwitchData() {
+	const opts = {
+		client_id: process.env.TWITCH_CLIENT_ID,
+		client_secret: process.env.TWITCH_CLIENT_SECRET,
+		grant_type: 'client_credentials'
+	}
+	const params = qs.stringify(opts)
+
+	const { data } = await axios.post(
+		`https://id.twitch.tv/oauth2/token?${params}`
+	)
+
+	const {
+		data: { data: clips },
+	} = await axios.get(
+		`https://api.twitch.tv/helix/clips?broadcaster_id=${process.env.TWITCH_CHANNEL_ID}`,
+		{
+			headers: {
+				'Client-ID': process.env.TWITCH_CLIENT_ID,
+				Authorization: `Bearer ${data.access_token}`,
+			},
+		}
+	)
+	
+	const randomClips = [];
+	for (let i = 0; i < 3; i++) {
+		randomClips.push(...clips.splice([Math.floor(Math.random() * clips.length)],1));
+	}
+
+	const {
+		data: { data: streams },
+	} = await axios.get(
+		`https://api.twitch.tv/helix/videos?user_id=${process.env.TWITCH_CHANNEL_ID}`,
+		{
+			headers: {
+				'Client-ID': process.env.TWITCH_CLIENT_ID,
+				Authorization: `Bearer ${data.access_token}`,
+			},
+		}
+		)
+
+	return {
+		clips: randomClips.map((m) => {
+			return {
+				title: m.title,
+				views: m.view_count,
+				url: m.url,
+				embed: m.embed_url,
+				thumbnail: m.thumbnail_url,
+			}
+		}),
+		streams: streams.slice(0, 1).map((m) => {
+			return {
+				id: m.id,
+				title: m.title,
+				url: m.url,
+				thumbnail: m.thumbnail_url.replace('%{width}', '480').replace('%{height}', '272'),
+			}
+		})
+	};
 }
 
 async function _generateBlogData() {

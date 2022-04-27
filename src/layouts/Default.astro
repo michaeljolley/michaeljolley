@@ -9,14 +9,15 @@ export interface Props {
 	description: string;
 	permalink: string;
 	tags: string[];
+  canonicalUrl?: string;
 }
-const { title, description, permalink, tags } = Astro.props;
+const { title, description, permalink, tags, canonicalUrl } = Astro.props;
 
 ---
 
 <html lang="en">
 	<head>
-		<BaseHead {title} {description} {permalink} {tags} />
+		<BaseHead {title} {description} {permalink} {tags} {canonicalUrl}/>
 	</head>
 
 	<body>

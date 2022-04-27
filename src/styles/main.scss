@@ -483,7 +483,7 @@ body {
 	}
 
 	.all {
-		@apply font-bold font-fira uppercase;
+		@apply font-bold font-cairo uppercase;
 		@apply bg-stripe;
 		@apply text-meadow;
 		@apply py-3 px-5;
@@ -611,7 +611,7 @@ body {
 				@apply px-1 mx-1 rounded-sm;
 				@apply text-sm italic;
 				@apply border-none;
-				@apply bg-gray-700 text-white font-fira;
+				@apply bg-gray-700 text-white font-cairo;
 			}
 
 			pre {
@@ -628,7 +628,7 @@ body {
 				h1 {
 					@apply font-raleway font-bold text-3xl md:text-4xl;
 					@apply mb-4 p-4;
-					@apply text-meadow bg-darkGreen;
+					@apply text-meadow bg-darketGreenOpaque-60;
 				}
 				summary {
 					@apply list-none;
@@ -695,7 +695,7 @@ body {
 			}
 
 			button {
-				@apply font-bold font-fira uppercase;
+				@apply font-bold font-cairo uppercase;
 				@apply bg-gray-200;
 				@apply text-darkGreen;
 				@apply py-3 px-5;
@@ -724,31 +724,37 @@ h2, h3 {
 }
 
 .toc {
+	@apply bg-darketGreenOpaque-80;
+
 	ul {
 		@apply hidden;
 		@apply lg:flex;
 		@apply flex-col;
+		@apply py-2;
 
 		li {
-			@apply ml-2;
 			@apply text-sm;
-			@apply py-2 truncate;
+			@apply py-2 px-4;
+			@apply border-l-4 border-transparent;
 
 			a {
 				@apply text-gray-100;
-				@apply pl-2;
 
 				&:hover {
 					@apply text-neonYellow;
 				}
+			}
 
-				&.link--level3 {
-					@apply pl-3;
+			&.link--level3 {
+				@apply pl-8;
+
+				a {
+					@apply text-gray-300;
 				}
 			}
 
 			&.link--active {
-				@apply border-l-4 border-neonYellow;
+				@apply border-neonYellow;
 			
 				a {
 					@apply font-bold;

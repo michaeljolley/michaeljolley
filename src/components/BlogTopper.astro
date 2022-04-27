@@ -1,6 +1,6 @@
 ---
 import IconCalendar from '../components/icons/Calendar.astro';
-import SocialSharing from '../components/SocialSharing.astro';
+import SocialSharing from '../components/SocialSharing';
 
 export interface Props {
 	title: string;
@@ -29,6 +29,6 @@ const options = {
 				<li><time>{Intl.DateTimeFormat('us-EN', options).format(new Date(date))}</time></li>
 			}
 		</ul>
-		<SocialSharing {title} {tags} {description} {permalink}/>
+		<SocialSharing {title} {tags} {description} {permalink} client:only/>
 	</summary>
 </div>
