@@ -7,23 +7,20 @@ Developer Relations at [Deepgram](https://deepgram.com) where I get to play with
 cool APIs and I spend a lot of time writing, recording, and streaming content
 that hopefully helps you become a better developer.
 
-
 ### 📽️ Most Recent Live-stream
 
-<iframe
-    src="https://player.twitch.tv/?video=v1421390353&parent=github.com"
-    height="320px"
-    style="aspect-ratio=16/9"
-    allowfullscreen>
-</iframe>
+<a href="https://www.twitch.tv/videos/1421390353">
+  <h4>Launching a game powered by voice | !theme !discord</h4>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5543e03e92ef9ebae195_baldbeardedbuilder_39546609417_1646935428//thumb/thumb0-480x320.jpg" alt="Launching a game powered by voice | !theme !discord"/>
+</a>
 
 ### 📝 Recent Blog Posts
 
-[Building 404 Pages That Bring Joy](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;building-404-pages-that-bring-joy&#x2F;)
+[Building 404 Pages That Bring Joy](https://baldbeardedbuilder.com/blog/building-404-pages-that-bring-joy/)
 
-[Building a Cross Platform NuGet Package](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;cross-platform-nuget-dotnet&#x2F;)
+[Building a Cross Platform NuGet Package](https://baldbeardedbuilder.com/blog/cross-platform-nuget-dotnet/)
 
-[Building a Discord Bot to Improve Inclusive Language](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;building-a-discord-bot-to-improve-inclusive-language&#x2F;)
+[Building a Discord Bot to Improve Inclusive Language](https://baldbeardedbuilder.com/blog/building-a-discord-bot-to-improve-inclusive-language/)
 
 
 ### 📽️ Random Twitch Clips
@@ -31,18 +28,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https:&#x2F;&#x2F;clips.twitch.tv&#x2F;SassyLightHamburgerHeyGuys">
-        <img src="https:&#x2F;&#x2F;clips-media-assets2.twitch.tv&#x2F;AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
-      <a href="https:&#x2F;&#x2F;clips.twitch.tv&#x2F;DaintyBlightedRavenVoteNay">
-        <img src="https:&#x2F;&#x2F;clips-media-assets2.twitch.tv&#x2F;AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
     <td>
-      <a href="https:&#x2F;&#x2F;clips.twitch.tv&#x2F;MushyUnusualWebDansGame">
-        <img src="https:&#x2F;&#x2F;clips-media-assets2.twitch.tv&#x2F;40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
@@ -53,18 +50,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;9nXXWOHjU24">
-        <img src="https:&#x2F;&#x2F;i2.ytimg.com&#x2F;vi&#x2F;9nXXWOHjU24&#x2F;mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
+      <a href="https://www.youtube.com/watch?v=9nXXWOHjU24">
+        <img style="align=center" src="https://i2.ytimg.com/vi/9nXXWOHjU24/mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
       </a>
     </td>
     <td>
-      <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;OjkbonKOzec">
-        <img src="https:&#x2F;&#x2F;i2.ytimg.com&#x2F;vi&#x2F;OjkbonKOzec&#x2F;mqdefault.jpg" alt="Lint YAML in VS Code | Extension Highlight"/>
+      <a href="https://www.youtube.com/watch?v=OjkbonKOzec">
+        <img style="align=center" src="https://i2.ytimg.com/vi/OjkbonKOzec/mqdefault.jpg" alt="Lint YAML in VS Code | Extension Highlight"/>
       </a>
     </td>
     <td>
-      <a href="https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v&#x3D;ZxNnOjWetH4">
-        <img src="https:&#x2F;&#x2F;i2.ytimg.com&#x2F;vi&#x2F;ZxNnOjWetH4&#x2F;mqdefault.jpg" alt="Spell Check in VS Code with Code Spell Checker | Extension Highlight"/>
+      <a href="https://www.youtube.com/watch?v=ZxNnOjWetH4">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ZxNnOjWetH4/mqdefault.jpg" alt="Spell Check in VS Code with Code Spell Checker | Extension Highlight"/>
       </a>
     </td>
   </tr>

@@ -8,21 +8,18 @@ cool APIs and I spend a lot of time writing, recording, and streaming content
 that hopefully helps you become a better developer.
 
 {{#streams}}
-
 ### 📽️ Most Recent Live-stream
 
-<iframe
-    src="https://player.twitch.tv/?video=v{{id}}&parent=github.com"
-    height="320px"
-    style="aspect-ratio=16/9"
-    allowfullscreen>
-</iframe>
+<a href="{{{url}}}">
+  <h4>{{title}}</h4>
+  <img src="{{{thumbnail}}}" alt="{{title}}"/>
+</a>
 {{/streams}}
 
 ### 📝 Recent Blog Posts
 
 {{#posts}}
-[{{title}}]({{link}})
+[{{title}}]({{{link}}})
 
 {{/posts}}
 
@@ -32,8 +29,8 @@ that hopefully helps you become a better developer.
   <tr>
     {{#clips}}
     <td>
-      <a href="{{url}}">
-        <img src="{{thumbnail}}" alt="{{title}}"/>
+      <a href="{{{url}}}">
+        <img src="{{{thumbnail}}}" alt="{{title}}"/>
       </a>
     </td>
     {{/clips}}
@@ -46,8 +43,8 @@ that hopefully helps you become a better developer.
   <tr>
     {{#videos}}
     <td>
-      <a href="{{link}}">
-        <img src="{{thumbnail}}" alt="{{title}}"/>
+      <a href="{{{link}}}">
+        <img style="align=center" src="{{{thumbnail}}}" alt="{{title}}"/>
       </a>
     </td>
     {{/videos}}
