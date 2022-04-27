@@ -1,0 +1,28 @@
+name: Update profile
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  update_profile_data:
+    name: Update README.md and commit
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          npm install
+          node readme/index.js
+      - name: Commit changes
+        id: commit
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git pull origin main
+          git add .
+          git commit -m "Updating README"
+          git push origin main

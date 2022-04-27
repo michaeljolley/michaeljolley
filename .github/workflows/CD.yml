@@ -1,7 +1,5 @@
 name: Update profile
 on:
-  schedule:
-    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: [ main ]
@@ -13,21 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update README
+      - name: Load content from Twitch & YouTube
         run: |
           npm install
           node readme/index.js
-      - name: Commit changes
-        id: commit
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
-          git pull origin main
-          git add .
-          git commit -m "Updating README"
-          git push origin main
   deploy:
     name: Deploy site to Fly.io
     runs-on: ubuntu-latest
