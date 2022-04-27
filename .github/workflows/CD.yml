@@ -22,7 +22,7 @@ jobs:
           npm install
           node readme/index.js
   deploy:
-    depends_on: update_profile_data
+    needs: update_profile_data
     name: Deploy site to Fly.io
     runs-on: ubuntu-latest
     steps:
