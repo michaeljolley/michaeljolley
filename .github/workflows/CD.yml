@@ -21,6 +21,7 @@ jobs:
         with:
           context: .
           push: false
+          load: true
           build-args: |
             ARG_CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}}
             ARG_CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}}
