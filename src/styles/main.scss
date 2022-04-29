@@ -110,6 +110,7 @@ body {
 			@apply -mt-32;
 			height: min-content;
 			width: 24em;
+			min-height: 350px;
 			@apply cursor-pointer;
 		}
 
@@ -610,10 +611,10 @@ body {
 			}
 
 			p code {
-				@apply px-1 mx-1 rounded-sm;
-				@apply text-sm italic;
+				@apply p-1 mx-1 rounded-sm;
+				@apply text-sm;
 				@apply border-none;
-				@apply bg-gray-700 text-white font-cairo;
+				@apply bg-gray-700 text-white ;
 			}
 
 			pre {
@@ -629,18 +630,22 @@ body {
 			.blog-topper {
 				h1 {
 					@apply font-raleway font-bold text-3xl md:text-4xl;
-					@apply mb-4 p-4;
+					@apply mb-0 sm:mb-4 p-4;
 					@apply text-meadow bg-darketGreenOpaque-60;
 				}
 				summary {
 					@apply list-none;
-					@apply flex flex-row items-center justify-between;
+					@apply flex flex-col items-end sm:flex-row sm:items-center sm:justify-between;
 					@apply text-neonYellow;
 
 					ul {
-						@apply flex flex-row;
+						@apply flex flex-row gap-4;
 						@apply list-none;
 						@apply bg-transparent;
+
+						&.date {
+							@apply hidden sm:flex;
+						}
 
 						li {
 							@apply p-0;
@@ -660,7 +665,7 @@ body {
 
 							a {
 								@apply text-neonYellow;
-								@apply text-xl;
+								@apply text-2xl;
 								@apply border-none;
 
 								&:hover {
