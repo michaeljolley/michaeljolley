@@ -1,4 +1,4 @@
-name: Update profile
+name: Update README
 on:
   schedule:
     - cron: '0 0 * * *'

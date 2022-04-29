@@ -1,4 +1,4 @@
-name: Update profile
+name: Continuous Deployment
 on:
   workflow_dispatch:
   push:
@@ -49,7 +49,7 @@ jobs:
 
       - name: Deploy to fly.io
         uses: superfly/flyctl-actions/setup-flyctl@master
-      - run: "flyctl deploy --local-only --env TWITCH_CHANNEL_ID=${{secrets.TWITCH_CHANNEL_ID}} --env TWITCH_CLIENT_SECRET=${{secrets.TWITCH_CLIENT_SECRET}} --env TWITCH_CLIENT_ID=${{secrets.TWITCH_CLIENT_ID}} --env CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --env CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --env CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}}"
+      - run: "flyctl deploy --local-only --build-arg TWITCH_CHANNEL_ID=${{secrets.TWITCH_CHANNEL_ID}} --build-arg TWITCH_CLIENT_SECRET=${{secrets.TWITCH_CLIENT_SECRET}} --build-arg TWITCH_CLIENT_ID=${{secrets.TWITCH_CLIENT_ID}} --build-arg CLOUDINARY_API_KEY=${{secrets.CLOUDINARY_API_KEY}} --build-arg CLOUDINARY_API_SECRET=${{secrets.CLOUDINARY_API_SECRET}} --build-arg CLOUDINARY_CLOUD_NAME=${{secrets.CLOUDINARY_CLOUD_NAME}}"
         env:
           FLY_API_TOKEN: ${{ secrets.FLY_API_TOKEN }}
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
