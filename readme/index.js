@@ -110,6 +110,7 @@ async function _generateTwitchData() {
 		client_secret: process.env.TWITCH_CLIENT_SECRET,
 		grant_type: 'client_credentials'
 	}
+	console.log(opts);
 	const params = qs.stringify(opts)
 
 	const { data } = await axios.post(
