@@ -56,7 +56,7 @@ to see it.
 <Image src="./notion-app-context-menu.png" alt="Browser address bar showing a Notion Url" style="width: 80%;margin:auto;"/>
 
 In the URL, you want the alphanumeric string after your Notion workspace name.
-Sometimes the URL has the page name prepended to the id. That's the case in the
+Sometimes the URL has the page name pre-pended to the id. That's the case in the
 image below (`Hello-World-5b1db5ba47e64a6b958c4a8a71f5677b`). You'll want to
 ignore the page name and dashes in the URL. Removing that leaves the actual id
 of the page (`5b1db5ba47e64a6b958c4a8a71f5677b`).
@@ -65,4 +65,17 @@ of the page (`5b1db5ba47e64a6b958c4a8a71f5677b`).
 
 Now that we have the Notion page id, we can move forward to setting up Pipedream.
 
+## Connect your Notion and Pipedream Accounts
+
 ## Creating the Pipedream Workflow
+
+### Creating a Workflow Trigger
+
+### Updating Your Notion Page
+
+## In Summary
+
+Updating the cover image is pretty basic, but the principles learned can be
+used to **really** extend what you're doing in Notion. In future blog posts I'll
+cover how I use Pipedream with Notion to create daily journals, follow up with
+old colleagues and friends, and manage ideas for YouTube, Twitch, and blog ideas.
