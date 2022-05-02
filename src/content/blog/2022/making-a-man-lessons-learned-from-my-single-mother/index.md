@@ -108,26 +108,24 @@ left the weekend job. But she didn't stop there.
 
 She started taking night classes at college and, for a few years, I only saw her
 on weekends and any weeknights she didn't have class. All until she graduated
-with a Bachelors in Health Administration. For me, they were hard years, but
-looking back, her determination to succeed and provide for the both of us are
-all I remember. 
+with a bachelors degree in health administration. For me, they were hard years,
+but looking back, her determination to succeed and provide for the both of us
+are all I remember. 
 
 ## Lead by Example
 
-When I was younger, I was a apart of a Scouts-like organization. I loved it and
-became a leader early on. I remember one of the first camp-outs we were about to
-go on where I was responsible for a "patrol" of 5 boys. One part of my
-responsibilities was assigning jobs around the campsite to each of my patrol
-members. Certain jobs were "cool," like fire duty. Others were the worst, like
-"dish washing." Each persons job would change daily so everyone got to do it
-all.
+When I was younger, I was a part of a Scouts-like organization. I loved it and
+became a leader early on. I remember one of the first camp-outs where I was
+responsible for a "patrol" of 5 boys. One part of my responsibilities was
+assigning jobs around the campsite to each of my patrol members. Certain jobs
+were "cool," like fire duty. Others were the worst, like "dishwashing." Each
+person's job would change daily so everyone got to do it all.
 
 I remember being proud as I showed her my assignments before we left. I had
 ranked all jobs from worst to best and scheduled myself for the jobs in that
-order. So Day 1, I was washing dishes and by the last day I was taking care of
-the fire. She was proud that I had apparently taken to heart her words to
-"never ask someone to do a job you aren't willing to do yourself. Lead by
-example."
+order. So Day 1, I was washing dishes and by the last day, I was taking care of
+the fire. She was proud that I had taken to heart her words to "never ask
+someone to do a job you aren't willing to do yourself. Lead by example."
 
 <Image src="./mom-and-the-girls.jpg" alt="Mom and my daughters" style="width:50%;margin:auto;"/>
 
@@ -148,19 +146,19 @@ to ask anyone to do that without them seeing her at their side doing it as well.
 
 ## Be a Man of Your Word
 
-Unlike mom, my dad wasn't very reliable. I remember many times when I would fall
+Unlike my mom, my dad wasn't very reliable. I remember many times when I would fall
 asleep hanging over the back of our couch, looking down the street through the
 blinds, waiting for him to pick me up for the weekend. He never came. I could
 never depend on anything he told me.
 
 Over the years, there were many times when I would be furious at him, but she
 never allowed me to be disrespectful. In fact, while I was growing up, and
-despite his verbal abuse to each of us, she never said an ill word about him.
+despite his verbal abuse of each of us, she never said an ill word about him.
 
 <Image src="./mom-and-nate.jpg" alt="Mom and Nathan" style="width:70%;margin:auto;"/>
 
 I'm sure it broke her heart to watch me be continually disappointed. But she
-would simply stress the importance of keeping your word. Never in the moment,
+would simply stress the importance of keeping your word. Never at the moment,
 but later, in a different context, she would say "people with good intentions
 give their word, but people with good character keep it."
 
@@ -169,23 +167,63 @@ keep it.
 
 Like the other lessons, it wasn't just something she said. It was something she
 lived. She made sure that I could always depend on her word. If she said she'd
-do something or be somewhere, I could count on it. If she threatened a
-punishment for an action, she always followed through.
+do something or be somewhere, I could count on it. If she threatened punishment
+for an action, she always followed through.
 
 In all my years of baseball, band, award ceremonies, school trips, graduations,
 my wedding, our kids' births, etc., my dad attended one football game. My mom
 was there for all of it.
 
-## Give Everyone the VIP Treatment
+## Show Love and Give Hope
 
 In my pre-teen and early teenage years, I was super active in our local church.
 I worked in the children's department each Sunday and naturally the kids there
-would look up to me and the other workers. Every once and a while, one of the
-kids would come up to me to chat and I'd often blow them off.
+would look up to me and the other workers. Every once in a while, one of the
+kids would come up to me to chat and I'd often blow them off. I was very
+insecure and worried I'd seem less "cool" by chatting it up with them.
 
-Mom would always correct me later. She'd remind me that everyone is dealing with
-something. 
+Mom would always correct me later. "You may be the only light someone sees
+today. Show them love and give them hope." She would always remind me that we
+never know what is going on behind the scenes in people's lives. 
 
+> You may be the only light someone sees today. Show them love and give them
+hope.
 
+People who saw us likely never knew there were times when there was little more
+than cereal to eat at home. They'd never know that I was afraid to answer the
+phone out of fear it might be my dad.
+
+If I'm completely honest with myself, this has been the hardest lesson to
+master. Whether I'm feeling insecure or aggravated, I don't always show that
+grace and kindness to everyone. But it's a goal I'm constantly striving toward
+because of the example my mother set.
+
+## The Farewell Tour
+
+In her final weeks, we brought her home under hospice care. She was relatively
+alert, though, as time progressed, she couldn't communicate as well as she'd
+like. In those weeks, she had what I call "her farewell tour." The house stayed
+full of friends, family, and old co-workers who came to see her and tell her how
+much she meant to them.
+
+She enjoyed each and every visit and was always so happy when someone new walked
+into her room. I'm happy she had that time, but I'm happier that I was there.
+Most of the stories I had never heard. Many of the people I had never met. There
+were life-long friends. There were single moms who she had mentored or counseled
+over the years. So many more people were affected by her life than I could have
+imagined.
+
+## Who was Elaine Jolley?
 
 <Image src="./mom.jpg" alt="Mom" style="width:70%;margin:auto;"/>
+
+I've tried to encapsulate what my mom was like several times, but the best
+description of Elaine Jolley is found in the Bible. Galatians 5:22-23 describes
+what the world should see in people who are Christ-followers.
+
+> "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, 
+goodness, faithfulness, gentleness, and self-control."
+
+There is nothing I could write or say to describe her better than those verses.
+Everyone was better for knowing her. The world was better with her in it. On
+my first Mother's Day without her, I love you mom.
