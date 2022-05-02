@@ -39,7 +39,7 @@ didn't bother her. She loved it and even thrived. She loved people and serving
 them. She met my father in church. His grandfather was the pastor. He was
 determined to be a minister and she loved the idea of being a minister's wife.
 
-<Image src="./mom-as-a-girl.jpg" alt="Mom and her mother" style="width:50%;margin:auto;"/>
+<Image src="./mom-as-a-girl.jpg" alt="Mom and her mother" style="width:70%;margin:auto;"/>
 
 Though she had reservations about his character, they married soon after high
 school. Then it was off to the ministry. Pastoring in various states, traveling
@@ -71,6 +71,8 @@ One night, when I was three years old, I had done something to aggravate my dad.
 He was yelling at me and she saw me cower on the couch. It immediately reminded
 her of the small dog they had years earlier.
 
+<Image src="./mom-and-michael-toddler.jpg" alt="Me and mom circa 1981" style="width:60%;margin:auto;"/>
+
 That was the straw that broke the camel's back. She immediately told him to
 leave and filed for divorce. Surprisingly, my dad made the divorce process very
 easy. He agreed that she could have everything except for a few pieces of
@@ -88,6 +90,8 @@ Mom often told me "you aren't responsible for the words and actions of others.
 But you are responsible for your response, and your words and actions." Looking
 back today, I realize she was teaching me that lesson with a lot more than her
 words.
+
+<Image src="./mom-and-michael-old.jpg" alt="Me and mom circa 1983" style="width:80%;margin:auto;"/>
 
 When everything seemed to be collapsing in on her, rather than admit defeat, she
 buckled down and got a second job. She was working 4 ten-hour shifts at a
@@ -122,16 +126,20 @@ I remember being proud as I showed her my assignments before we left. I had
 ranked all jobs from worst to best and scheduled myself for the jobs in that
 order. So Day 1, I was washing dishes and by the last day I was taking care of
 the fire. She was proud that I had apparently taken to heart her words to
-"never ask someone to do a job you aren't willing to do. Lead by example."
+"never ask someone to do a job you aren't willing to do yourself. Lead by
+example."
+
+<Image src="./mom-and-the-girls.jpg" alt="Mom and my daughters" style="width:50%;margin:auto;"/>
 
 Until my late teenage years, she was the Director of Nursing at various nursing
 homes, managing hundreds of nurses. Here in Birmingham, even the hint of snow
 sends people into a frenzy. Roads are closed with the slightest freeze. So
 whenever the roads were likely to close, she would load us up and drive to the
 nursing home. I'd spend my "snow days" on a nursing home unit filled with people
-fighting dementia and Alzheimers.
+fighting dementia and Alzheimer's.
 
-> Never ask someone to do a job you aren't willing to do. Lead by example.
+> Never ask someone to do a job you aren't willing to do yourself. Lead by
+example.
 
 She didn't necessarily *have* to be there, but she wanted to set an example. If
 the snow was bad and people were stuck at work, they would need to continue
@@ -140,9 +148,44 @@ to ask anyone to do that without them seeing her at their side doing it as well.
 
 ## Be a Man of Your Word
 
+Unlike mom, my dad wasn't very reliable. I remember many times when I would fall
+asleep hanging over the back of our couch, looking down the street through the
+blinds, waiting for him to pick me up for the weekend. He never came. I could
+never depend on anything he told me.
 
+Over the years, there were many times when I would be furious at him, but she
+never allowed me to be disrespectful. In fact, while I was growing up, and
+despite his verbal abuse to each of us, she never said an ill word about him.
 
-It takes a moment to lose your integrity.
+<Image src="./mom-and-nate.jpg" alt="Mom and Nathan" style="width:70%;margin:auto;"/>
+
+I'm sure it broke her heart to watch me be continually disappointed. But she
+would simply stress the importance of keeping your word. Never in the moment,
+but later, in a different context, she would say "people with good intentions
+give their word, but people with good character keep it."
+
+> People with good intentions give their word, but people with good character
+keep it.
+
+Like the other lessons, it wasn't just something she said. It was something she
+lived. She made sure that I could always depend on her word. If she said she'd
+do something or be somewhere, I could count on it. If she threatened a
+punishment for an action, she always followed through.
+
+In all my years of baseball, band, award ceremonies, school trips, graduations,
+my wedding, our kids' births, etc., my dad attended one football game. My mom
+was there for all of it.
 
 ## Give Everyone the VIP Treatment
 
+In my pre-teen and early teenage years, I was super active in our local church.
+I worked in the children's department each Sunday and naturally the kids there
+would look up to me and the other workers. Every once and a while, one of the
+kids would come up to me to chat and I'd often blow them off.
+
+Mom would always correct me later. She'd remind me that everyone is dealing with
+something. 
+
+
+
+<Image src="./mom.jpg" alt="Mom" style="width:70%;margin:auto;"/>
