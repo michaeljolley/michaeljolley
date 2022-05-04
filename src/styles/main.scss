@@ -619,11 +619,15 @@ body {
 
 			pre {
 				@apply rounded-md;
-				@apply p-3;
 
 				code {
 					@apply text-base not-italic;
 					@apply bg-transparent;
+
+					.remark-highlight-code-line {
+						@apply block;
+						background-color: rgba(255, 255, 255, .1);
+					}
 				}
 			}
 
