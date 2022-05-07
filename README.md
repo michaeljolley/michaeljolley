@@ -9,7 +9,7 @@ that hopefully helps you become a better developer.
 
 ## Find Me Everywhere!
 
-![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social) ![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/baldbeardbuild?style=social) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social) ![Discord](https://img.shields.io/discord/565665509350178827)
+![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Twitter Follow](https://img.shields.io/twitter/follow/baldbeardbuild?style=social)](https://twitter.com/baldbeardbuild) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
 
 ## 📽️ Most Recent Live-stream
 
@@ -37,13 +37,13 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
