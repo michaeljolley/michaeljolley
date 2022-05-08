@@ -16,17 +16,21 @@ let { tags } = post.frontmatter;
 tags = tags.slice(0, 3);
 ---
 
-<a class="card" href={ `/blog/${slug}/` } title={ title }>
-	<main>
-		<ul class="tags">
-			{ 
-				tags.map((tag) => 
-					<li>#{tag}</li>
-				)
-			}
-		</ul>
-		<h3>{ title }</h3>
-		<p>{ summary }</p>
-	</main>
-	<footer>READ MORE <IconArrow /></footer>
-</a>
+<div class="card">
+	<ul class="tags">
+		{ 
+			tags.map((tag) => 
+					<li>
+						<a href={`/blog/tags/${tag}/`} title={`All posts with the ${tag} tag`}>#{tag}</a>
+					</li>
+			)
+		}
+	</ul>
+	<a href={ `/blog/${slug}/` } title={ title }>
+		<main>
+			<h3>{ title }</h3>
+			<p>{ summary }</p>
+		</main>
+		<footer>READ MORE <IconArrow /></footer>
+	</a>
+</div>

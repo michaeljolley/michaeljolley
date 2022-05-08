@@ -2,7 +2,7 @@
 date: 2022-05-07
 title: "Making a Man: Lessons Learned from My Single Mother"
 description: Remembering the integrity and tenacity my mom displayed in her life and the lessons she worked to instill in me.
-tags: ["family-values", "mothers-day"] 
+tags: ["family-values", "parenting"] 
 summary: Remembering the integrity and tenacity my mom displayed in her life and the lessons she worked to instill in me.
 setup: |
   import Image from '../../../../components/Image.astro'
