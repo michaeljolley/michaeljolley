@@ -1,0 +1,39 @@
+---
+import Layout from '../../../layouts/Default.astro'
+
+const allPosts = await Astro.glob('../../../content/blog/**/*.md');
+
+let postTags = [];
+for (const post of allPosts) {
+  postTags.push(...post.frontmatter.tags);
+}
+
+const distinct = (value, index, self) => {
+  return self.indexOf(value) === index;
+}
+
+postTags = postTags.filter(distinct).sort();
+
+let title = `Topics Michael has Written About | Michael Jolley is the Bald Bearded Builder`;
+let description = `Topics Michael has written about`;
+let permalink = 'https://baldbeardedbuilder.com/blog/tags/';
+let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
+
+---
+
+<Layout {title} {description} {permalink} {tags}>
+  <article>
+    <div class="tagList full">
+      <h1>All the <span>Tags</span></h1>
+      <ul>
+				{
+					postTags.map((tag) => 
+						<li>
+							<a href={`/blog/tags/${tag}/`} title={`All posts with the ${tag} tag`}>{tag}</a>
+						</li>
+					)
+				}
+      </ul>
+    </div>
+  </article>
+</Layout>

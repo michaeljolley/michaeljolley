@@ -366,6 +366,49 @@ body {
 	}
 }
 
+
+.tagList {
+	@apply flex flex-col justify-center items-center;
+	@apply mx-auto;
+	@apply py-12 px-8;
+	@apply w-full;
+	@apply lg:max-w-4xl xl:max-w-6xl;
+	@apply text-base;
+
+	@apply text-white;
+
+	h1, h2 {
+		@apply flex items-center;
+		@apply font-cairo font-bold uppercase;
+		@apply text-3xl md:text-4xl;
+
+		span {
+			@apply flex;
+			@apply ml-1;
+			@apply py-0 px-2;
+			@apply text-darkGreen;
+			@apply bg-meadow;
+		}
+	}
+
+	ul {
+		@apply mt-12;
+		@apply grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-4 gap-8;
+		@apply list-none;
+
+		li {
+			@apply h-full;
+			@apply text-xl;
+			a {
+				@apply text-neonYellow;
+				&:hover {
+					@apply text-white;
+				}
+			}
+		}
+	}
+}
+
 .cardList {
 	@apply flex flex-col justify-center items-center;
 	@apply mx-auto;
@@ -433,16 +476,22 @@ body {
 			padding: 1px;
 		}
 
-		> main {
+		.tags {
+			@apply flex flex-row gap-2;
+			@apply text-neonYellow;
+			@apply px-5 pt-5;
+			@apply text-sm;
+			@apply mt-0;
+
+			a:hover {
+				@apply text-white;
+			}
+		}
+
+		main {
 			@apply flex flex-col gap-3;
 			@apply p-5;
 
-			.tags {
-				@apply flex flex-row gap-2;
-				@apply text-neonYellow;
-				@apply text-sm;
-				@apply mt-0;
-			}
 
 			h3 {
 				@apply text-xl font-bold;
