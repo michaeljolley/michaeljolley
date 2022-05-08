@@ -7,6 +7,7 @@
     "start": "astro dev",
     "build": "node readme/index.js && npm run build:astro && copyfiles index.js ./dist",
     "build:astro": "astro build",
+    "build:readme": "node readme/index.js",
     "preview": "astro preview"
   },
   "devDependencies": {

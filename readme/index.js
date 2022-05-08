@@ -120,7 +120,7 @@ async function _generateTwitchData() {
 	const {
 		data: { data: clips },
 	} = await axios.get(
-		`https://api.twitch.tv/helix/clips?broadcaster_id=${process.env.TWITCH_CHANNEL_ID}`,
+		`https://api.twitch.tv/helix/clips?broadcaster_id=${process.env.TWITCH_CHANNEL_ID}&first=50`,
 		{
 			headers: {
 				'Client-ID': process.env.TWITCH_CLIENT_ID,
