@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DifficultSpikyTriangleDatSheffy" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C851979336-preview-480x272.jpg" alt="Let it go~ :D"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
