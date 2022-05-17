@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
   </tr>
