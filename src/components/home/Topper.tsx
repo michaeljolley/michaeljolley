@@ -5,7 +5,8 @@ function Topper() {
 
   useEffect(() => {
 		fetch(
-				`/functions/twitch`
+				'https://baldbeardedbuilder.com/functions/twitch'
+				//`/functions/twitch`
 			).then((response) => {
 				response.json()
 				.then((json) => {
