@@ -13,9 +13,9 @@ that hopefully helps you become a better developer.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1460930527" target="_blank">
-  <h3>Building in .NET... ah, it fits like a glove. | !theme !discord</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6eff234c07f44101d2d4_baldbeardedbuilder_39669970713_1650387622//thumb/thumb0-480x272.jpg" alt="Building in .NET... ah, it fits like a glove. | !theme !discord"/>
+<a href="https://www.twitch.tv/videos/1487403269" target="_blank">
+  <h3>Looking at the guts of Astro.build and building integrations | !theme !discord</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/9b3630e7fdaaa230725c_baldbeardedbuilder_39734414553_1652896875//thumb/thumb0-480x272.jpg" alt="Looking at the guts of Astro.build and building integrations | !theme !discord"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TawdryCarefulTriangleFreakinStinkin-r7IJxC1tWhTtYkqm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/42388546734-offset-1200-preview-480x272.jpg" alt="Building OnlyFans... but for VS Code themes |  !theme !help"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
