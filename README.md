@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/BlazingAmorphousNeanderthalBlargNaut-rsSl1GjliH0An5fY" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1103821159-preview-480x272.jpg" alt="BBB is building Tinder for VS Code themes!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DifficultSpikyTriangleDatSheffy" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C851979336-preview-480x272.jpg" alt="Let it go~ :D"/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
   </tr>
