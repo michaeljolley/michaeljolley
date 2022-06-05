@@ -110,7 +110,7 @@ async function _generateTwitchData() {
 		client_secret: process.env.TWITCH_CLIENT_SECRET,
 		grant_type: 'client_credentials'
 	}
-	
+
 	const params = qs.stringify(opts)
 
 	const { data } = await axios.post(
@@ -128,10 +128,10 @@ async function _generateTwitchData() {
 			},
 		}
 	)
-	
+
 	const randomClips = [];
 	for (let i = 0; i < 3; i++) {
-		randomClips.push(...clips.splice([Math.floor(Math.random() * clips.length)],1));
+		randomClips.push(...clips.splice([Math.floor(Math.random() * clips.length)], 1));
 	}
 
 	const {
@@ -144,7 +144,7 @@ async function _generateTwitchData() {
 				Authorization: `Bearer ${data.access_token}`,
 			},
 		}
-		)
+	)
 
 	return {
 		clips: randomClips.map((m) => {

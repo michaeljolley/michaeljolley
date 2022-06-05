@@ -36,9 +36,9 @@ Let’s go through the command to get everything running and then detail what ea
 ```powershell
 
 docker run -e 'ACCEPT_EULA=Y' `
--e 'SA_PASSWORD=<YourStrong!Passw0rd>' `
+-e 'SA_PASSWORD=YOUR_STRONG_PASSWORD' `
 -p 1433:1433 `
--v <C:/HostPath>:/var/opts/mssql/data `
+-v YOUR_HOST_PATH:/var/opts/mssql/data `
 --name sql1 `
 -d mcr.microsoft.com/mssql/server:2017-latest
 
@@ -54,17 +54,17 @@ When you’re done with the container just delete it and clean up any images you
 
 This flag just accepts the SQL Server EULA. Nothing to see here. Move along.
 
-#### -e 'SA_PASSWORD=<YourStrong!Passw0rd>'
+#### -e 'SA_PASSWORD=YOUR_STRONG_PASSWORD'
 
-Of course, you’ll want to replace `<YourStrong!Passw0rd>` with an actual strong password, but this is just setting that initial password for the sa login.
+Of course, you’ll want to replace `YOUR_STRONG_PASSWORD` with an actual strong password, but this is just setting that initial password for the sa login.
 
 #### -p 1433:1433
 
 In the format of `<Host port>:<Container port>`, this maps the containers port to a specific port on the host. In my case, I mapped 1433 (SQL's default port) to the host 1433. I could have just as easily mapped it to something else (i.e. `-p 5050:1433`). The important thing here is that whatever port is used on the host side is the port I'll use in SSMS to connect. To use a port other than the default, enter the server address in SSMS as `127.0.0.1,<port you chose>`. Yeah, it's a comma. Don't ask. :)
 
-#### -v <C:/HostPath>:/var/opts/mssql/data
+#### -v YOUR_HOST_PATH:/var/opts/mssql/data
 
-Maps a path on the host to a path in the container in the format of `<HOST PATH>:<CONTAINER PATH>`. In this instance, any databases created in the container will be accessible as mdf/ldf files on the host in that directory.
+Maps a path on the host to a path in the container in the format of `{HOST PATH}:{CONTAINER PATH}`. In this instance, any databases created in the container will be accessible as mdf/ldf files on the host in that directory.
 You could exclude this parameter and then use `docker cp` to copy files in & out of the container. However, it’s important to remember that if you have data stored in a container and destroy it, that data is lost.
 
 #### --name sql1

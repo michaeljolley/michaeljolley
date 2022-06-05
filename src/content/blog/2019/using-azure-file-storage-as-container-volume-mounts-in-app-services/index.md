@@ -84,4 +84,4 @@ services:
 
 Azure has made this a fairly straight-forward process, but finding this information was extremely painful. No Google-Fu produced the answers so I knew I needed to write this down to remember it next time.
 
-Have some feedback or questions? Leave a comment or find me on Twitch several days a week at <https://twitch.tv/BaldBeardedBuilder>.
+Have some feedback or questions? Leave a comment or find me on Twitch several days a week at [https://twitch.tv/BaldBeardedBuilder](https://twitch.tv/BaldBeardedBuilder).

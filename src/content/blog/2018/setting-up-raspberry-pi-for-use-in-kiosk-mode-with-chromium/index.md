@@ -1,7 +1,6 @@
 ---
 date: 2018-11-13
 title: 'Setting up Raspberry Pi for use in kiosk mode with Chromium'
-cover: ./48371127-af891880-e680-11e8-89aa-2dec4de4ef8a_xwpry3.jpg
 banner_image_alt: Mash-up of Raspberry Pi & Chromium logos.
 description: Using Chromium on a Raspberry Pi to provide a kiosk experience for users.
 tags: [raspberry-pi, iot]
@@ -18,7 +17,8 @@ One of their requirements was the Pi shouldn't go to sleep and appear always-on 
 
 ## Assumptions
 
-For our purposes, we're going to assume you've got your application running at <http://localhost:5000> and deployed just fine.
+For our purposes, we're going to assume you've got your application running at
+[http://localhost:5000](http://localhost:5000) and deployed just fine.
 
 We'll also be using the Pi's default OS of Raspian.
 
@@ -57,7 +57,7 @@ Once you’re in there, add this line to the end of the file:
 @chromium-browser --kiosk --incognito --disable-pinch --overscroll-history-navigation=0 http://localhost:5000
 ```
 
-This launches Chromium with the settings we mentioned above and directs it immediately to your site at <http://localhost:5000>.
+This launches Chromium with the settings we mentioned above and directs it immediately to your site at [http://localhost:5000](http://localhost:5000).
 
 ## Turn off the screen saver and hide the cursor
 

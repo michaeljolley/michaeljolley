@@ -1,21 +1,21 @@
 import { defineConfig } from 'astro/config';
-import preact from '@astrojs/preact';
+
+import preact from "@astrojs/preact";
 import tailwind from "@astrojs/tailwind";
+import sitemap from "@astrojs/sitemap";
+import netlify from '@astrojs/netlify/functions';
 
 import remarkGfm from 'remark-gfm';
 import remarkSmartypants from 'remark-smartypants';
 import remarkPrism from 'remark-prism';
 
-import sitemap from "@astrojs/sitemap";
-
-// https://astro.build/config
 export default defineConfig({
-	integrations: [preact(), sitemap(), tailwind({
+	adapter: netlify(),
+	integrations: [preact(), tailwind({
 		config: {
 			applyAstroPreset: false
 		}
-	})],
-	outDir: './dist/public',
+	}), sitemap()],
 	site: 'https://baldbeardedbuilder.com/',
 	trailingSlash: 'always',
 	markdown: {
