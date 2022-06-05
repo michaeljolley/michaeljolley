@@ -7,13 +7,17 @@ const axios = require('axios');
 require('dotenv').config();
 
 async function main() {
+	try {
+		const payload = await generateData();
+		const template = await getTemplate();
 
-	const payload = await generateData();
-	const template = await getTemplate();
+		const newReadMe = Mustache.render(template, payload);
 
-	const newReadMe = Mustache.render(template, payload);
-
-	await saveReadMe(newReadMe);
+		await saveReadMe(newReadMe);
+	}
+	catch (err) {
+		console.log(err)
+	}
 }
 
 /**
