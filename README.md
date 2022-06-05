@@ -1,42 +1,77 @@
-# Welcome to [Astro](https://astro.build)
+# 👋 Hi! I'm Michael
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/starter)
+I've been a developer for a little more than 20 years (yeah, that means I'm old,)
+but I **LOVE** this stuff! The best part of being a developer is constantly
+learning new things and sharing those with others. By day I'm the Head of
+Developer Relations at [Deepgram](https://deepgram.com) where I get to play with
+cool APIs and I spend a lot of time writing, recording, and streaming content
+that hopefully helps you become a better developer.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Find Me Everywhere
 
-## 🚀 Project Structure
+[![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Twitter Follow](https://img.shields.io/twitter/follow/baldbeardbuild?style=social)](https://twitter.com/baldbeardbuild) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
 
-Inside of your Astro project, you'll see the following folders and files:
+## 📽️ Most Recent Live-stream
 
-```
-/
-├── public/
-│   └── favicon.ico
-├── src/
-│   ├── components/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+<a href="https://www.twitch.tv/videos/1314153057" target="_blank">
+  <h3>General shenanigans with code. (we&#39;re breaking things) | !theme !discord</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/9d161d7bb67968ef79ae_baldbeardedbuilder_39766351177_1654020411//thumb/thumb0-480x272.jpg" alt="General shenanigans with code. (we&#39;re breaking things) | !theme !discord"/>
+</a>
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+---
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components or layouts.
+## 📝 Recent Blog Posts
 
-Any static assets, like images, can be placed in the `public/` directory.
+[Making a Man: Lessons Learned from My Single Mother](https://baldbeardedbuilder.com/blog/making-a-man-lessons-learned-from-my-single-mother/)
 
-## 🧞 Commands
+[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
 
-All commands are run from the root of the project, from a terminal:
+[Building 404 Pages That Bring Joy](https://baldbeardedbuilder.com/blog/building-404-pages-that-bring-joy/)
 
-| Command           | Action                                       |
-| :---------------- | :------------------------------------------- |
-| `npm install`     | Installs dependencies                        |
-| `npm run dev`     | Starts local dev server at `localhost:3000`  |
-| `npm run build`   | Build your production site to `./dist/`      |
-| `npm run preview` | Preview your build locally, before deploying |
+---
 
-## 👀 Want to learn more?
+## 📽️ Random Twitch Clips
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+<table>
+  <tr>
+    <td>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📺 Recent YouTube Videos
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=9nXXWOHjU24" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/9nXXWOHjU24/mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OjkbonKOzec" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/OjkbonKOzec/mqdefault.jpg" alt="Lint YAML in VS Code | Extension Highlight"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ZxNnOjWetH4" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ZxNnOjWetH4/mqdefault.jpg" alt="Spell Check in VS Code with Code Spell Checker | Extension Highlight"/>
+      </a>
+    </td>
+  </tr>
+</table>
