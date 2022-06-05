@@ -1,8 +1,8 @@
 name: Continuous Deployment
 on:
   workflow_dispatch:
-  push:
-    branches: [ main ]
+  # push:
+  #   branches: [ main ]
 env:
   TWITCH_CLIENT_ID: ${{secrets.TWITCH_CLIENT_ID}}
   TWITCH_CLIENT_SECRET: ${{secrets.TWITCH_CLIENT_SECRET}}
@@ -23,18 +23,3 @@ jobs:
       - name: Build site
         run: |
           npm run build
-
-      - name: Deploy to Netlify
-        uses: nwtgck/actions-netlify@v1.2
-        with:
-          publish-dir: './dist'
-          production-branch: main
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          deploy-message: "Deploy from GitHub Actions"
-          enable-pull-request-comment: true
-          enable-commit-comment: true
-          overwrites-pull-request-comment: true
-        env:
-          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
-          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
-        timeout-minutes: 1
