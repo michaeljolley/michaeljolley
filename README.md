@@ -13,9 +13,9 @@ that hopefully helps you become a better developer.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1510128111" target="_blank">
-  <h3>Replacing our mods with AI using Azure | !azure !theme !discord</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d0e3755c1f471506ff0e_baldbeardedbuilder_39819058841_1655834603//thumb/thumb0-480x272.jpg" alt="Replacing our mods with AI using Azure | !azure !theme !discord"/>
+<a href="https://www.twitch.tv/videos/1511087097" target="_blank">
+  <h3>Forget JavaScript. I&#39;m going back to ColdFusion | !theme !discord</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/dbf52a821994ddb696a9_baldbeardedbuilder_39821682953_1655921124//thumb/thumb0-480x272.jpg" alt="Forget JavaScript. I&#39;m going back to ColdFusion | !theme !discord"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
   </tr>
