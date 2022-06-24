@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
   </tr>
