@@ -10,7 +10,7 @@ cloudinary.v2.config({
 
 const findAsset = async (publicId, folder) => {
 	try {
-		console.log(`pid: ${publicId}`)
+		console.log(`pid: ${(`${folder}/${publicId}`).substring(1)}`)
 		return await cloudinary.v2.api.resource(`${folder}/${publicId}`.substring(1), {
 			type: 'upload'
 		})
