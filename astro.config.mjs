@@ -3,7 +3,7 @@ import { defineConfig } from 'astro/config';
 import preact from "@astrojs/preact";
 import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
-import netlify from '@astrojs/netlify/functions';
+import netlify from '@astrojs/netlify/edge-functions';
 
 import remarkGfm from 'remark-gfm';
 import remarkSmartypants from 'remark-smartypants';
