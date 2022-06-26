@@ -1,5 +1,6 @@
 ---
 import cloudinary from 'cloudinary';
+import path from 'node:path';
 
 cloudinary.v2.config({
 	cloud_name: import.meta.env.CLOUDINARY_CLOUD_NAME,
@@ -10,8 +11,7 @@ cloudinary.v2.config({
 
 const findAsset = async (publicId, folder) => {
 	try {
-		const cleanPublicId = publicId.replace('./').split('.')[0]
-		return await cloudinary.v2.api.resource(`${folder}/${cleanPublicId}`, {
+		return await cloudinary.v2.api.resource(`${folder}/${publicId}`.substring(1), {
 			type: 'upload'
 		})
 	} catch (err) {
@@ -25,9 +25,6 @@ const findAsset = async (publicId, folder) => {
 }
 
 const uploadAsset = async (imagePath, publicId, folder) => {
-	console.dir({
-		imagePath,folder, publicId
-	})
 	try {
 		return await cloudinary.v2.uploader.upload(imagePath, {
 			folder,
@@ -73,8 +70,8 @@ const { alt, src, style } = Astro.props;
 console.log(postDir)
 console.log(src)
 
-const imagePath = '';//path.join(postDir, src);
-const publicId = '';//`${src.replace(path.extname(src), '').replace('./', '')}`
+const imagePath = path.join(postDir, src);
+const publicId = `${src.replace(path.extname(src), '').replace('./', '')}`
 const asset = await getAsset(imagePath, publicId, `/blog/${slug}/`)
 
 const cloudinarySrc = asset ? asset.secure_url : '';
