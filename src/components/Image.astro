@@ -66,10 +66,6 @@ const postDir = (allPosts.find((post) => {
 
 
 const { alt, src, style } = Astro.props;
-
-console.log(postDir)
-console.log(src)
-
 const imagePath = path.join(postDir, src);
 const publicId = `${src.replace(path.extname(src), '').replace('./', '')}`
 const asset = await getAsset(imagePath, publicId, `/blog/${slug}/`)
