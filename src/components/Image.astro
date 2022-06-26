@@ -10,8 +10,8 @@ cloudinary.v2.config({
 
 const findAsset = async (publicId, folder) => {
 	try {
-		console.log(`pid: ${(`${publicId}`).substring(1)}`)
-		return await cloudinary.v2.api.resource(`${folder}/${publicId}`.substring(1), {
+		const cleanPublicId = publicId.replace('./').split('.')[0]
+		return await cloudinary.v2.api.resource(`${folder}/${cleanPublicId}`, {
 			type: 'upload'
 		})
 	} catch (err) {
