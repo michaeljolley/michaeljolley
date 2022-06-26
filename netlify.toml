@@ -1,9 +1,7 @@
 [build]
-  command = "npm run generate"
+  command = "npm run deploy"
   publish = "dist"
-  
-[context.production]
-  environment = { NPM_FLAGS = "--no-optional", CI = "1" }
+  functions = 'lambda'
 
 [[plugins]]
   package = "@netlify/plugin-functions-install-core"
