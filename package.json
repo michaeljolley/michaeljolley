@@ -16,11 +16,9 @@
     "@astrojs/tailwind": "^0.2.1",
     "@tailwindcss/typography": "^0.5.2",
     "ap-style-title-case": "^1.1.2",
-    "astro": "^1.0.0-beta.40",
+    "astro": "^1.0.0-beta.56",
     "autoprefixer": "^10.4.7",
-    "axios": "^0.27.2",
     "cloudinary": "^1.30.0",
-    "dotenv": "^16.0.1",
     "gray-matter": "^4.0.3",
     "mustache": "^4.2.0",
     "remark-gfm": "^3.0.1",
@@ -31,7 +29,6 @@
   },
   "dependencies": {
     "@astrojs/rss": "^0.2.0",
-    "faunadb": "^4.5.4",
     "preact": "^10.7.3"
   }
 }
