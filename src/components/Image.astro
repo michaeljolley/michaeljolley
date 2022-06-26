@@ -25,6 +25,9 @@ const findAsset = async (publicId, folder) => {
 }
 
 const uploadAsset = async (imagePath, publicId, folder) => {
+	console.dir({
+		imagePath,folder, publicId
+	})
 	try {
 		return await cloudinary.v2.uploader.upload(imagePath, {
 			folder,
