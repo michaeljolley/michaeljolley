@@ -5,11 +5,5 @@
 [context.production]
   environment = { NPM_FLAGS = "--no-optional", CI = "1" }
 
-  
-[[plugins]]
-  package = "@algolia/netlify-plugin-crawler"
-    [plugins.inputs]
-      branches = ['main']
-
 [[plugins]]
   package = "@netlify/plugin-functions-install-core"
