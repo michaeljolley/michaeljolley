@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "generate": "node readme/index.js && npm run build"
+    "build:lambda": "netlify-lambda build functions",
+    "generate": "node readme/index.js && npm run build && npm run build:lambda"
   },
   "devDependencies": {
     "@astrojs/netlify": "^0.4.6",
