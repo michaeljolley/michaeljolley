@@ -32,6 +32,8 @@
   },
   "dependencies": {
     "@astrojs/rss": "^0.2.0",
+    "dotenv": "^16.0.1",
+    "faunadb": "^4.6.0",
     "preact": "^10.7.3"
   }
 }
