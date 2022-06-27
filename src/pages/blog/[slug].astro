@@ -6,7 +6,6 @@ export async function getStaticPaths() {
 	return sortedPosts.map((post) => {
 		const pathParts = post.file.replace('/index.md', '').split('/');
 		const slug = pathParts[pathParts.length - 1]
-		console.log(slug)
 		return {
 			params: {
 				slug
