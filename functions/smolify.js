@@ -1,9 +1,9 @@
+const Fauna = require('faunadb');
 
-import { Client, query } from 'faunadb';
-
-const client = new Client({
+const client = new Fauna.Client({
   secret: process.env.FAUNADBSECRET
 })
+const query = Fauna.query;
 
 export async function get({ params, request }) {
 
