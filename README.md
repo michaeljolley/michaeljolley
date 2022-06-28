@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
-      </a>
-    </td>
-    <td>
       <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
   </tr>
