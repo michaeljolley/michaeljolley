@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/ComfortableYawningPepperoniCurseLit" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852899812-preview-480x272.jpg" alt="Say something nice about @whitep4nth3r"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
   </tr>
