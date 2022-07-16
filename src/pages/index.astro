@@ -1,8 +1,10 @@
 ---
 import Layout from '../layouts/Default.astro'
 
-import Topper from '../components/home/Topper.astro';
+import Topper from '../components/Topper.astro';
 import LatestPosts from '../components/home/LatestPosts.astro';
+import SocialBar from '../components/SocialBar.astro';
+import Twitch from '../components/home/Twitch';
 
 let title = 'Michael Jolley is the Bald Bearded Builder';
 let description = 'Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.';
@@ -12,6 +14,11 @@ let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
 ---
 
 <Layout {title} {description} {permalink} {tags}>
-	<Topper />
+	<Topper>
+		<h1>Hi I'm <span>Michael</span>.</h1>
+		<p>I'm bald. I'm bearded. I like to build stuff.</p>
+		<SocialBar />
+		<Twitch client:load />
+	</Topper>
 	<LatestPosts />
 </Layout>

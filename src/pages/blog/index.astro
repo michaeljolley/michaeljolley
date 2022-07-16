@@ -1,8 +1,9 @@
 ---
 import Layout from '../../layouts/Default.astro'
 import BlogCard from '../../components/BlogCard.astro';
+import Topper from '../../components/Topper.astro';
 
-let title = 'Blog Posts | Michael Jolley is the Bald Bearded Builder';
+let title = "I'm Still Learning. Then Writing About It.";
 let description = 'All blog posts written by Michael Jolley';
 let permalink = 'https://baldbeardedbuilder.com/blog/';
 let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
@@ -13,8 +14,13 @@ const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new D
 
 <Layout {title} {description} {permalink} {tags}>
   <article>
+    <Topper>
+      <h1>I'm Still <span>Learning</span>.</h1>
+      <p>After 22 years, the only thing I know for sure is there's a ton I don't 
+        know. Here are some things I've picked up over the years. Hopefully they
+        help.</p>
+    </Topper>
     <div class="cardList full">
-      <h1>Give me moar <span>Posts</span></h1>
       <ul>
 				{
 					sortedPosts.map((post) => 

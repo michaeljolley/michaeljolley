@@ -4,6 +4,7 @@ title: Building 404 Pages That Bring Joy
 description: How we transformed the bad experience of landing on a 404 page into an enjoyable experience with a game.
 tags: ["developer-experience", "nuxtjs"] 
 summary: How we transformed the bad experience of landing on a 404 page into an enjoyable experience with a game.
+canonical_url: 'https://developers.deepgram.com/blog/2022/03/building-404-pages-that-bring-joy/'
 setup: |
   import Image from '../../../../components/Image.astro'
 ---

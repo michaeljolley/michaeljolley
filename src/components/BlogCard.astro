@@ -11,7 +11,7 @@ const {post} = Astro.props;
 const slug = post.frontmatter.slug || 
              post.file.split('/')[post.file.split('/').length - 2];
 
-const {title, summary, date} = post.frontmatter;
+const {title, summary} = post.frontmatter;
 let { tags } = post.frontmatter;
 tags = tags.slice(0, 3);
 ---
@@ -22,6 +22,8 @@ tags = tags.slice(0, 3);
 			<h3>{ title }</h3>
 			<p>{ summary }</p>
 		</main>
-		<footer>READ MORE <IconArrow /></footer>
+		<footer>
+			READ MORE <IconArrow />
+		</footer>
 	</a>
 </div>

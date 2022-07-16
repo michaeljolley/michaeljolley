@@ -61,14 +61,16 @@ body {
 
 .stripe {
 	@apply bg-white dark:bg-stripe;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
 }
 
 .topper {
-	@apply flex flex-col items-center;
+	@apply flex flex-col items-center text-center;
 	@apply mx-auto;
 	@apply w-full;
 	@apply lg:max-w-4xl xl:max-w-6xl;
-	@apply mt-20 md:mt-36;
+	@apply my-20 md:my-36;
 
 	@apply text-white;
 
@@ -83,8 +85,9 @@ body {
 	}
 
 	p {
-		@apply text-lg md:text-xl;
+		@apply text-center text-lg md:text-xl;
 		@apply py-2;
+		@apply w-5/6 sm:w-3/5 lg:w-1/2;
 	}
 
 	.twitchEmbed {
@@ -147,18 +150,16 @@ a {
 		li {
 			@apply flex items-center;
 			@apply border-b-4 border-transparent;
-	
-			@apply font-raleway font-bold;
-			@apply text-gray-100;
-	
-			&:hover {
-				border-image-slice: 1;
-				border-image-source: linear-gradient(to right, #ff00ff, #00ffff);
-			}
 
-				&.toggle:hover {
-					border-image-source: unset;
+			a {
+				@apply text-purple underline;
+				@apply font-raleway font-bold;
+
+				&:hover,
+				&:active {
+					@apply text-teal;
 				}
+			}
 		}
 	}
 }
@@ -203,69 +204,19 @@ a {
 
 					a {
 						@apply flex items-center;
-						@apply text-teal;
+						@apply text-purple;
 					
 						@apply font-normal;
-
-						&.github:hover {
-							span {
-								@apply text-red-500;
-							}
-						}
-
-						&.uses:hover {
-							span {
-								@apply text-purple;
-							}
-						}
-
-						&.patreon:hover {
-							span {
-								@apply text-brand-patreon;
-							}
-						}
 
 						.svg-icon {
 							@apply mx-2;
 						}
 						
 						&:hover {
-							@apply text-neonYellow;
+							@apply text-teal;
 						}
 					}
 
-					&.socials {
-						@apply pt-8;
-
-						ul {
-							@apply flex gap-3;
-							@apply text-lg;
-
-							.twitter:hover {
-								@apply text-brand-twitter;
-							}
-
-							.linkedin:hover {
-								@apply text-brand-linkedin;
-							}
-
-							.instagram:hover {
-								@apply text-brand-instagram;
-							}
-
-							.youtube:hover {
-								@apply text-brand-youtube;
-							}
-
-							.discord:hover {
-								@apply text-brand-discord;
-							}
-
-							.twitch:hover {
-								@apply text-brand-twitch;
-							}
-						}
-					}
 				}
 			}
 		}
@@ -317,33 +268,16 @@ a {
 .cardList {
 	@apply flex flex-col justify-center items-center;
 	@apply mx-auto;
-	@apply w-full;
+	@apply mb-24;
+	@apply w-5/6;
 	@apply lg:max-w-4xl xl:max-w-6xl;
 	@apply text-base;
 
 	@apply text-white;
 
-	&.home {
-		@apply my-24;
-	}
-
-	h1, h2 {
-		@apply flex items-center;
-		@apply font-cairo font-bold uppercase;
-		@apply text-3xl md:text-4xl;
-
-		span {
-			@apply flex;
-			@apply ml-1;
-			@apply py-0 px-2;
-			@apply text-darkGreen;
-			@apply bg-teal;
-		}
-	}
-
 	ul {
 		@apply mt-12;
-		@apply grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-3 gap-8;
+		@apply grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-8;
 		@apply list-none;
 
 		li {
@@ -373,7 +307,7 @@ a {
 	}
 		
 	.card {
-		@apply flex flex-col overflow-hidden;
+		@apply flex flex-col overflow-hidden justify-between;
 		@apply h-full;
 		@apply rounded-md;
 		@apply border-b-4 border-transparent;
@@ -387,45 +321,33 @@ a {
 			padding: 1px;
 		}
 
-		.tags {
-			@apply flex flex-row gap-2;
-			@apply text-neonYellow;
-			@apply px-5 pt-5;
-			@apply text-sm;
-			@apply mt-0;
+		a {
+			@apply flex flex-col justify-between;
+			@apply h-full;
 
-			a:hover {
-				@apply text-white;
-			}
-		}
-
-		main {
-			@apply flex flex-col gap-3;
-			@apply p-5;
+			main {
+				@apply flex flex-col gap-3;
+				@apply p-5;
 
 
-			h3 {
-				@apply text-2xl font-bold;
-				@apply text-purple;
+				h3 {
+					@apply text-2xl font-bold;
+					@apply text-purple;
+				}
+
+				p {
+					@apply text-base font-raleway;
+					@apply text-darkGray dark:text-white;
+				}
 			}
 
-			summary {
-				@apply text-sm;
-				@apply text-darkGray dark:text-white;
+			footer {
+				@apply opacity-0;
+				@apply uppercase;
+				@apply text-teal font-bold text-sm;
+				@apply flex align-middle gap-1;
+				@apply p-5 mt-auto;
 			}
-
-			p {
-				@apply text-sm font-raleway;
-				@apply text-gray-400;
-			}
-		}
-
-		footer {
-			@apply opacity-0;
-			@apply uppercase;
-			@apply text-teal font-bold;
-			@apply p-5 mt-auto;
-			@apply flex align-middle gap-1;
 		}
 
 		&:hover {
@@ -493,9 +415,7 @@ a {
 			h6 {
 				@apply inline-block;
 				@apply font-raleway font-bold;
-				@apply py-1 px-3;
-				@apply text-darkGreen;
-				@apply bg-teal;
+				@apply text-teal;
 				@apply my-8;
 			}
 			h1 {
@@ -536,11 +456,10 @@ a {
 			}
 
 			a {
-				@apply border-b border-transparent;
-				@apply text-neonYellow;
+				@apply text-purple underline;
 
 				&:hover {
-					@apply border-neonYellow;
+					@apply text-teal;
 				}
 			}
 
@@ -591,70 +510,9 @@ a {
 				}
 			}
 
-			.blog-topper {
-				h1 {
-					@apply font-raleway font-bold text-3xl md:text-4xl;
-					@apply mb-0 sm:mb-4 p-4;
-					@apply text-teal bg-darketGreenOpaque-60;
-				}
-				summary {
-					@apply list-none;
-					@apply flex flex-col items-end sm:flex-row sm:items-center sm:justify-between;
-					@apply text-neonYellow;
-
-					ul {
-						@apply flex flex-row gap-4;
-						@apply list-none;
-						@apply bg-transparent;
-
-						&.date {
-							@apply hidden sm:flex;
-						}
-
-						li {
-							@apply p-0;
-							@apply flex flex-row items-center;
-
-							&:before {
-								@apply hidden;
-								@apply p-0;
-								@apply m-0;
-								background-image: unset;
-							}
-
-							&:not(:last-child) {
-								@apply border-b-0;
-								@apply pr-2;
-							}
-
-							a {
-								@apply text-neonYellow;
-								@apply text-2xl;
-								@apply border-none;
-
-								&:hover {
-									&.twitter {
-										@apply text-brand-twitter;
-									}
-									&.linkedin {
-										@apply text-brand-linkedin;
-									}
-									&.facebook {
-										@apply text-brand-facebook;
-									}
-									&.reddit {
-										@apply text-brand-reddit;
-									}
-								}
-							}
-
-						}
-					}
-				}
-			}
 
 			label {
-				@apply font-bold text-xl text-neonYellow;
+				@apply font-bold text-xl text-teal;
 			}
 
 			textarea,
@@ -674,7 +532,7 @@ a {
 				@apply rounded-md;
 
 				&:hover {
-					@apply bg-neonYellow;
+					@apply bg-teal;
 				}
 			}
 		}
@@ -694,8 +552,11 @@ h2, h3 {
 	}
 }
 
-.toc {
-	@apply bg-darketGreenOpaque-80;
+.toc {	
+	@apply bg-transparentWhite dark:bg-transparentGray;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
+	@apply rounded-md;
 
 	ul {
 		@apply hidden;
@@ -709,23 +570,19 @@ h2, h3 {
 			@apply border-l-4 border-transparent;
 
 			a {
-				@apply text-gray-100;
+				@apply text-purple;
 
 				&:hover {
-					@apply text-neonYellow;
+					@apply text-teal;
 				}
 			}
 
 			&.link--level3 {
 				@apply pl-8;
-
-				a {
-					@apply text-gray-300;
-				}
 			}
 
 			&.link--active {
-				@apply border-neonYellow;
+				@apply border-teal;
 			
 				a {
 					@apply font-bold;
@@ -743,7 +600,7 @@ h2, h3 {
 	@apply bottom-0;
 	@apply right-0;
 	@apply z-30;
-	@apply mb-6;
+	@apply mb-20;
 	@apply mr-6;
 	@apply md:mb-12;
 	@apply md:mr-12;
@@ -751,10 +608,10 @@ h2, h3 {
 	@apply duration-500;
 	@apply ease-in-out;
 	@apply cursor-pointer;
-	@apply text-teal;
+	@apply text-purple;
 
 	a:hover {
-		@apply text-neonYellow;
+		@apply text-teal;
 	}
 }
 
@@ -779,21 +636,6 @@ h2, h3 {
 				@apply text-darkGreen;
 				@apply bg-teal
 			}
-		}
-	}
-}
-
-.dark {
-	.topper {
-		.intro {
-			&.twitch {
-				background-image: unset;
-			}
-		}
-	}
-	.blogCard {
-		a:hover {
-			box-shadow: 0 25px 50px -12px rgba(77, 67, 82,.9);
 		}
 	}
 }

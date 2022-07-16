@@ -25,7 +25,7 @@ module.exports = {
           '80': 'rgba(2, 17, 27, .8)'
         },
         darkGreen: '#011B2B',
-        stripe: 'rgba(137, 88, 242, .2)',
+        stripe: 'rgba(137, 88, 242, .05)',
         neonYellow: '#E2FD37',
 
         brand: {

@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 import Layout from '../../layouts/Default.astro';
 import TableOfContents from '../../components/TableOfContents';
 import RelatedPosts from '../../components/RelatedPosts.astro';
-import BlogTopper from '../../components/BlogTopper.astro';
+import Topper from '../../components/Topper.astro';
 
 const { post } = Astro.props;
 const { slug } = Astro.params;
@@ -35,13 +35,15 @@ let headers = await post.getHeaders();
 ---
 
 <Layout {title} {description} {permalink} {tags} {canonicalUrl}>
+	<Topper>
+		<h1>{ title }</h1>
+	</Topper>
 	<article class="post">
 		<main>
 			<aside>
 				<TableOfContents {headers} client:load />
 			</aside>
 			<section class="content">
-				<BlogTopper {title} {date} {description} {tags} {permalink} />
 				<post.Content />
 			</section>
 		</main>
