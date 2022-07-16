@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/DifficultSpikyTriangleDatSheffy" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C851979336-preview-480x272.jpg" alt="Let it go~ :D"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
+      <a href="https://clips.twitch.tv/ComfortableYawningPepperoniCurseLit" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852899812-preview-480x272.jpg" alt="Say something nice about @whitep4nth3r"/>
       </a>
     </td>
   </tr>
