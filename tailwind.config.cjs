@@ -11,6 +11,13 @@ module.exports = {
         raleway: ['Raleway', 'sans-serif'],
       },
       colors: {
+        darkGray: '#1A1A1C',
+        lightGray: '#EAEEF4',
+        purple: '#8958F2',
+        teal: '#0AC2C2',
+        transparentGray: 'rgba(255, 255, 255, .05)',
+        transparentWhite: 'rgba(255, 255, 255, .8)',
+
         darkestGreen: '#02111B',
         darketGreenOpaque: {
           '40': 'rgba(2, 17, 27, .4)',
@@ -18,8 +25,7 @@ module.exports = {
           '80': 'rgba(2, 17, 27, .8)'
         },
         darkGreen: '#011B2B',
-        meadow: '#18CDB9',
-        stripe: 'rgba(25, 52, 70, .5)',
+        stripe: 'rgba(137, 88, 242, .2)',
         neonYellow: '#E2FD37',
 
         brand: {
