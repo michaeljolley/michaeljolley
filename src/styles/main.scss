@@ -43,9 +43,12 @@ body {
 	@apply bg-lightGray dark:bg-darkGray;
 	@apply font-raleway;
 
-	@apply bg-no-repeat bg-cover bg-blend-luminosity;
-	background-position: center 3rem;
+	@apply bg-no-repeat sm:bg-cover bg-blend-luminosity;
 	background-image: url('/images/bg-light.svg');
+
+	@screen sm {
+			background-position: center 3rem;
+	}
 
 	&.dark {
 		background-image: url('/images/bg-dark.svg');
@@ -160,6 +163,7 @@ a {
 		@apply flex;
 		@apply list-none;
 		@apply justify-evenly gap-6 md:gap-10;
+		@apply sm:mr-20;
 	
 		li {
 			@apply flex items-center;
@@ -627,6 +631,11 @@ h2, h3 {
 	@apply ease-in-out;
 	@apply cursor-pointer;
 	@apply text-purple;
+
+
+	svg {
+		@apply bg-white dark:bg-darkGray;@apply rounded-full;
+	}
 
 	a:hover {
 		@apply text-teal;
