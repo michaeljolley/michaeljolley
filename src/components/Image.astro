@@ -70,10 +70,6 @@ const extension = src.split('.')[src.split('.').length - 1];
 const imagePath = `${postDir}${src.replace('./','')}`;
 const publicId = `${src.replace(`.${extension}`, '').replace('./', '')}`
 
-console.log(`/blog/${slug}/`)
-console.log(imagePath)
-console.log(publicId)
-
 const asset = await getAsset(imagePath, publicId, `/blog/${slug}/`)
 
 const cloudinarySrc = asset ? asset.secure_url : '';

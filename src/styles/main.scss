@@ -88,6 +88,19 @@ body {
 		@apply text-center text-lg md:text-xl;
 		@apply py-2;
 		@apply w-5/6 sm:w-3/5 lg:w-1/2;
+
+		&.small {
+			@apply text-base;
+			@apply mt-4;
+		}
+
+		a { 
+			@apply text-purple;
+			&:hover,
+			&:active {
+				@apply text-teal;
+			}
+		}
 	}
 
 	.twitchEmbed {
