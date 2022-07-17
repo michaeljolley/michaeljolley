@@ -210,6 +210,10 @@ a {
 			@apply flex gap-8 justify-between flex-row flex-wrap;
 			@apply md:gap-20 md:justify-start;
 
+			ul.socialBar {
+				@apply gap-4;
+			}
+
 			>ul {
 				@apply flex flex-col gap-4;
 
