@@ -8,16 +8,6 @@ html {
 	scroll-behavior: smooth;
 }
 
-body {
-	@apply bg-no-repeat bg-cover bg-blend-luminosity;
-	background-position: center 3rem;
-	background-image: url('/images/bg-light.svg');
-
-	&.dark {
-		background-image: url('/images/bg-dark.svg');
-	}
-}
-
 html,
 body,
 .wrapper {
@@ -52,7 +42,15 @@ body {
 	@apply flex flex-col;
 	@apply bg-lightGray dark:bg-darkGray;
 	@apply font-raleway;
-	
+
+	@apply bg-no-repeat bg-cover bg-blend-luminosity;
+	background-position: center 3rem;
+	background-image: url('/images/bg-light.svg');
+
+	&.dark {
+		background-image: url('/images/bg-dark.svg');
+	}
+
 	> main {
 		@apply mb-auto;
 		@apply flex flex-col gap-4;
@@ -60,7 +58,7 @@ body {
 }
 
 .stripe {
-	@apply bg-white dark:bg-stripe;
+	@apply bg-transparentWhite dark:bg-stripe;
 	-webkit-backdrop-filter: blur(5px);
 	backdrop-filter: blur(5px);
 }
@@ -88,6 +86,8 @@ body {
 		@apply text-center text-lg md:text-xl;
 		@apply py-2;
 		@apply w-5/6 sm:w-3/5 lg:w-1/2;
+
+		@apply text-darkGray dark:text-white;
 
 		&.small {
 			@apply text-base;
@@ -152,6 +152,7 @@ a {
 	@apply text-white;
 
 	.logo {
+		@apply text-darkGray dark:text-white;
 		@apply text-5xl;
 	}
 
@@ -419,7 +420,7 @@ a {
 			@apply mx-auto lg:mx-0;
 			@apply w-full;
 			@apply max-w-xl;
-			@apply text-gray-100;
+			@apply text-darkGray dark:text-gray-100;
 
 			h2,
 			h3,
@@ -457,7 +458,7 @@ a {
 
 			blockquote {
 				@apply bg-stripe;
-				@apply text-gray-200;
+				@apply text-darkGray dark:text-gray-200;
 				@apply py-6 px-10 italic;
 				@apply font-raleway;
 				@apply text-sm;
@@ -583,7 +584,7 @@ h2, h3 {
 			@apply border-l-4 border-transparent;
 
 			a {
-				@apply text-purple;
+				@apply text-gray-500 dark:text-gray-400;
 
 				&:hover {
 					@apply text-teal;
