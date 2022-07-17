@@ -66,11 +66,10 @@ const postDir = (allPosts.find((post) => {
 
 const { alt, src, style } = Astro.props;
 
-console.log(postDir)
-console.log(src)
+const extension = src.split('.')[src.split('.').length - 1];
+const imagePath = `${postDir}${src.replace('./','')}`;
+const publicId = `${src.replace(`.${extension}`, '').replace('./', '')}`
 
-const imagePath = '';//path.join(postDir, src);
-const publicId = '';//`${src.replace(path.extname(src), '').replace('./', '')}`
 const asset = await getAsset(imagePath, publicId, `/blog/${slug}/`)
 
 const cloudinarySrc = asset ? asset.secure_url : '';

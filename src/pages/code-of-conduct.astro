@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Default.astro'
 import TableOfContents from '../components/TableOfContents';
-import BlogTopper from '../components/BlogTopper.astro';
+import Topper from '../components/Topper.astro';
 
 let title = 'Community Code of Conduct';
 let description = 'The Bald Bearded Builder community is a diverse group of amazing people and their safety in our spaces is one of our most important requirements.';
@@ -108,13 +108,15 @@ const headers = [
 ---
 
 <Layout {title} {description} {permalink} {tags}>
+	<Topper>
+		<h1>{title}</h1>
+	</Topper>
 	<article class="post">
 		<main>
 			<aside>
 				<TableOfContents {headers} client:load />
 			</aside>
 			<section class="content">
-				<BlogTopper {title} {description} {tags} {permalink} />
 				<p>
 					The Bald Bearded Builder community is filled with amazing, clever
 					and creative people, and we're excited for you to join us. Our goal
