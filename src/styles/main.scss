@@ -465,12 +465,17 @@ a {
 			}
 
 			blockquote {
-				@apply bg-stripe;
+				@apply bg-transparentWhite dark:bg-transparentGray;
 				@apply text-darkGray dark:text-gray-200;
 				@apply py-6 px-10 italic;
+				@apply my-4;
 				@apply font-raleway;
 				@apply text-sm;
 				@apply rounded-sm;
+
+				strong {
+					@apply text-purple;
+				}
 			}
 
 			img {
