@@ -34,7 +34,8 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
-    "faunadb": "^4.6.0",
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.6.1",
     "preact": "^10.10.0"
   }
 }
