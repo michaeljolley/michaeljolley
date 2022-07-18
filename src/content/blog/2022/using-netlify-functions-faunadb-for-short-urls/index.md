@@ -91,7 +91,6 @@ Fauna for later use and then return the record Fauna found. If anything goes
 wrong I return undefined.
 
 ```js
-
 const getLongUrl = async (path) => {
  try {
 
@@ -126,6 +125,36 @@ function mapResponse(payload) {
 ```
 
 ### Counting visits
+
+Before I send the result back to the browser, I want to record the visit to
+Fauna. To do that, I created the `recordVisit` function below. It increments
+the visit count that Fauna provided and then replaces that object based on the
+Fauna `id` that we mapped.
+
+```js
+const recordVisit = async (shortUrl) => {
+	try {
+		shortUrl.visits++
+
+		await client.query(
+			query.Replace(query.Ref(query.Collection("ShortyMcShortLink"), shortUrl._id), {
+				data: shortUrl
+			})
+		)
+	} catch (err) {
+		console.log(err)
+	}
+}
+```
+
+Then we update the `getLongUrl` function to add a call to `recordVisit` between
+mapping and returning it.
+
+```js
+const shortUrl = mapResponse(response.data[0])
+await recordVisit(shortUrl)
+return shortUrl
+```
 
 ### Pulling it All Together
 

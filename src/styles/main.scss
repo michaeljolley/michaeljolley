@@ -1,4 +1,4 @@
-@import './prism.css', './fonts.css';
+@import './fonts.css';
 
 @tailwind base;
 @tailwind components;
@@ -245,48 +245,6 @@ a {
 	}
 }
 
-.tagList {
-	@apply flex flex-col justify-center items-center;
-	@apply mx-auto;
-	@apply py-12 px-8;
-	@apply w-full;
-	@apply lg:max-w-4xl xl:max-w-6xl;
-	@apply text-base;
-
-	@apply text-white;
-
-	h1, h2 {
-		@apply flex items-center;
-		@apply font-cairo font-bold uppercase;
-		@apply text-3xl md:text-4xl;
-
-		span {
-			@apply flex;
-			@apply ml-1;
-			@apply py-0 px-2;
-			@apply text-darkGreen;
-			@apply bg-teal;
-		}
-	}
-
-	ul {
-		@apply mt-12;
-		@apply grid grid-cols-2 sm:grid-cols-3 xl:grid-cols-4 gap-8;
-		@apply list-none;
-
-		li {
-			@apply h-full;
-			@apply text-xl;
-			a {
-				@apply text-neonYellow;
-				&:hover {
-					@apply text-white;
-				}
-			}
-		}
-	}
-}
-
 .cardList {
 	@apply flex flex-col justify-center items-center;
 	@apply mx-auto;
@@ -518,9 +476,9 @@ a {
 
 			p code {
 				@apply p-1 mx-1 rounded-sm;
-				@apply text-sm;
-				@apply border-none;
-				@apply bg-gray-700 text-white ;
+				@apply text-base text-teal;
+				@apply border-none text-darkGray
+				@apply bg-transparentWhite dark:bg-transparentGray;
 			}
 
 			pre {
@@ -670,4 +628,132 @@ h2, h3 {
 			}
 		}
 	}
+}
+
+
+/*** PRISM ***/
+
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre)>code[class*="language-"],
+pre[class*="language-"] {
+	@apply bg-transparentWhite dark: bg-transparentGray;
+}
+
+/* Inline code */
+:not(pre)>code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
 }
