@@ -478,9 +478,6 @@ a {
 				@apply rounded-md;
 
 				code {
-					@apply text-base not-italic;
-					@apply bg-transparent;
-
 					.remark-highlight-code-line {
 						@apply block;
 						background-color: rgba(255, 255, 255, .1);
@@ -627,16 +624,9 @@ h2, h3 {
 
 /*** PRISM ***/
 
-/**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
-
  code[class*="language-"],
  pre[class*="language-"] {
 	 color: #f8f8f2;
-	 background: none;
 	 text-shadow: 0 1px rgba(0, 0, 0, 0.3);
 	 font-family: 'Fira Code', Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
 	 font-size: 1em;
@@ -667,21 +657,21 @@ h2, h3 {
  
  :not(pre)>code[class*="language-"],
  pre[class*="language-"] {
-	@apply bg-transparentWhite dark:bg-transparentGray;
+	@apply bg-neutral-800 dark:bg-transparentGray;
  }
  
- /* Inline code */
- :not(pre)>code[class*="language-"] {
+/* Inline code */
+:not(pre)>code {
 	padding: .1em;
 	border-radius: .3em;
 	white-space: normal;
-	@apply bg-transparentWhite;
-	@apply text-purple;
+	@apply bg-neutral-600 dark:bg-transparentGray;
+	@apply text-white dark:text-purple;
 
 	@apply text-sm;
-	@apply p-1 mx-1 rounded-sm;
+	@apply p-1 mx-1 rounded-md;
 	@apply border-none;
- }
+}
  
  .token.comment,
  .token.prolog,
