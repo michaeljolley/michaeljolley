@@ -124,7 +124,7 @@ function mapResponse(payload) {
 }
 ```
 
-### Counting visits
+### Counting Visits
 
 Before I send the result back to the browser, I want to record the visit to
 Fauna. To do that, I created the `recordVisit` function below. It increments
@@ -150,18 +150,66 @@ const recordVisit = async (shortUrl) => {
 Then we update the `getLongUrl` function to add a call to `recordVisit` between
 mapping and returning it.
 
-```js
+```js {2}
 const shortUrl = mapResponse(response.data[0])
 await recordVisit(shortUrl)
 return shortUrl
 ```
 
-### Pulling it All Together
+### Finishing Our Function
+
+Now that our JavaScript is ready, let's add it to the handler function. First,
+we'll call the `getLongUrl` function with the `event.queryStringParameters.path`.
+We'll handle changing `/coc` to `/?path=coc` later.
+
+If we were able to find a short URL, we'll set the `redirectUrl` property to its
+`target` URL property. If we returned undefined, we'll redirect the person to
+the homepage of baldbeardedbuilder.com.
+
+```js
+exports.handler = async (event, context) => {
+	const shortUrl = await getLongUrl(event.queryStringParameters.path)
+	const redirectUrl = shortUrl ? shortUrl.target : 'https://baldbeardedbuilder.com/'
+
+	return {
+		statusCode: 302,
+		headers: {
+			location: redirectUrl,
+			'Cache-Control': 'no-cache',
+		},
+		body: JSON.stringify({}),
+	}
+}
+```
 
 ## Configuring Netlify
 
+Now we need to redirect all the traffic to the short URL to our function. Start
+by adding the domain to your Netlify application. Once it's setup and sending
+traffic to your site, it's time to setup the redirect on Netlify.
+
 ### Redirecting the Short URL
+
+In the root of your site, add a `netlify.toml` file. Then add the following
+snippet:
+
+```yaml
+[[redirects]]
+  from = "https://bbb.dev/*"
+  to = "/.netlify/functions/smolify?path=:splat"
+  status = 301
+  force = true
+```
+
+This takes all traffic to `https://bbb.dev` and redirects it to the `smolify`
+function. When redirecting, it adds the splat from the `from` filter as a
+querystring parameter named `path`.
+
+Remember the `path` parameter we're grabbing in our function? This is where it's
+coming from.
 
 ## Wrap Up
 
-<Image src="./mom-and-michael-toddler.jpg" alt="Me and mom circa 1981" style="width:60%;margin:auto;"/>
+All that's left is deploying to your site. All traffic to your short URL will be
+redirected to your function. Now you can add as many short codes to your Fauna
+database and they'll immediately be active on your site.

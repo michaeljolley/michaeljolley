@@ -5,8 +5,7 @@ import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 
 import remarkGfm from 'remark-gfm';
-import remarkSmartypants from 'remark-smartypants';
-import remarkPrism from 'remark-prism';
+import rehypePrismPlus from 'rehype-prism-plus';
 
 export default defineConfig({
 	integrations: [preact(), tailwind({
@@ -17,8 +16,11 @@ export default defineConfig({
 	site: 'https://baldbeardedbuilder.com/',
 	trailingSlash: 'always',
 	markdown: {
+		rehypePlugins: [
+			rehypePrismPlus
+		],
 		remarkPlugins: [
-			remarkGfm, remarkSmartypants, remarkPrism
+			remarkGfm
 		],
 		syntaxHighlight: 'prism'
 	}
