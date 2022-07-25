@@ -347,19 +347,6 @@ a {
 		}
 	}
 
-	.all {
-		@apply font-bold font-cairo uppercase;
-		@apply bg-stripe;
-		@apply text-teal;
-		@apply py-3 px-5;
-		@apply mt-12;
-		@apply rounded-md;
-
-		&:hover {
-			@apply bg-teal;
-			@apply text-darkGreen;
-		}
-	}
 }
 
 .post {
@@ -456,7 +443,7 @@ a {
 					@apply p-3;
 
 					&:not(:last-child) {
-						@apply border-b border-darkGreen;
+						@apply border-b border-transparentWhite; //check
 					}
 
 					&:before {
@@ -465,7 +452,7 @@ a {
 						@apply h-full w-5;
 						@apply p-2;
 						@apply mr-4;
-						@apply text-darkGreen;
+						@apply text-purple; //check
 
 						background-position: center;
 						background-image: url('/images/check.svg');
@@ -493,15 +480,15 @@ a {
 			textarea,
 			input {
 				@apply w-full p-2;
-				@apply block border border-gray-100;
-				@apply bg-stripe;
+				@apply block border border-gray-300 dark:border-transparentWhite;
+				@apply bg-gray-50 dark:bg-stripe;
 				@apply rounded-md;
 			}
 
 			button {
 				@apply font-bold font-cairo uppercase;
-				@apply bg-gray-200;
-				@apply text-darkGreen;
+				@apply bg-purple;
+				@apply text-white;
 				@apply py-3 px-5;
 				@apply mt-12;
 				@apply rounded-md;
@@ -597,6 +584,7 @@ h2, h3 {
 
 .relatedPosts {
 	> div {
+		@apply border-t border-transparentGray;
 		@apply flex flex-col justify-center items-center;
 		@apply mx-auto;
 		@apply py-12 px-8;
@@ -605,17 +593,9 @@ h2, h3 {
 
 		h2 {
 			@apply flex items-center;
-			@apply font-cairo font-bold uppercase;
+			@apply font-cairo font-bold ;
 			@apply text-3xl md:text-4xl;
-			@apply text-white;
-
-			span {
-				@apply flex;
-				@apply ml-1;
-				@apply py-0 px-2;
-				@apply text-darkGreen;
-				@apply bg-teal
-			}
+			@apply text-teal dark:text-white;
 		}
 	}
 }
