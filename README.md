@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
