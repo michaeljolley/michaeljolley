@@ -18,7 +18,6 @@ module.exports = {
 				transparentGray: 'rgba(255, 255, 255, .05)',
 				transparentWhite: 'rgba(255, 255, 255, .3)',
 
-				darkGreen: '#011B2B',
 				stripe: 'rgba(137, 88, 242, .05)',
 
 				brand: {
