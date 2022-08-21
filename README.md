@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
   </tr>
