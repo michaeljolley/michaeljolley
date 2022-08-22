@@ -13,9 +13,9 @@ that hopefully helps you become a better developer.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1511087097" target="_blank">
-  <h3>Forget JavaScript. I&#39;m going back to ColdFusion | !theme !discord</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/dbf52a821994ddb696a9_baldbeardedbuilder_39821682953_1655921124//thumb/thumb0-480x272.jpg" alt="Forget JavaScript. I&#39;m going back to ColdFusion | !theme !discord"/>
+<a href="https://www.twitch.tv/videos/550912420" target="_blank">
+  <h3>Theme song</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/37606de398f7d29c9169_baldbeardedbuilder_11312504137_7568630569//thumb/thumb550912420-480x272.jpg" alt="Theme song"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
   </tr>
