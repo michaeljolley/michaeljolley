@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
   </tr>
