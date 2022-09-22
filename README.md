@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
