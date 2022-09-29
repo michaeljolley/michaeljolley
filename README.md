@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ComfortableYawningPepperoniCurseLit" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852899812-preview-480x272.jpg" alt="Say something nice about @whitep4nth3r"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
   </tr>
