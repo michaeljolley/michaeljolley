@@ -23,11 +23,11 @@ that hopefully helps you become a better developer.
 
 ## 📝 Recent Blog Posts
 
+[Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://baldbeardedbuilder.com/blog/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
+
 [Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
 [Making a Man: Lessons Learned from My Single Mother](https://baldbeardedbuilder.com/blog/making-a-man-lessons-learned-from-my-single-mother/)
-
-[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
 
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
   </tr>
