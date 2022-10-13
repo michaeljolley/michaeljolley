@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
+      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
   </tr>
