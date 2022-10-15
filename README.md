@@ -23,11 +23,11 @@ that hopefully helps you become a better developer.
 
 ## 📝 Recent Blog Posts
 
+[Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://baldbeardedbuilder.com/blog/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
+
 [Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
 [Making a Man: Lessons Learned from My Single Mother](https://baldbeardedbuilder.com/blog/making-a-man-lessons-learned-from-my-single-mother/)
-
-[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
 
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
