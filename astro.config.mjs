@@ -15,6 +15,9 @@ export default defineConfig({
 	}), sitemap()],
 	site: 'https://baldbeardedbuilder.com/',
 	trailingSlash: 'always',
+	legacy: {
+		astroFlavoredMarkdown: true,
+	},
 	markdown: {
 		rehypePlugins: [
 			rehypePrismPlus
