@@ -1,29 +1,38 @@
 ---
-import IconArrow from './icons/Arrow.astro';
+import { getWebMentions } from '../scripts/webmentions.js'
 
 const options = {
-  year: 'numeric',
-  month: 'long',
-  day: 'numeric',
+	year: 'numeric',
+	month: 'long',
+	day: 'numeric',
 }
 
-const {post} = Astro.props;
-const slug = post.frontmatter.slug || 
-             post.file.split('/')[post.file.split('/').length - 2];
+const { post } = Astro.props;
+const slug = post.frontmatter.slug ||
+	post.file.split('/')[post.file.split('/').length - 2];
 
-const {title, summary} = post.frontmatter;
+const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
+
+const webMentions = await getWebMentions();
+const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
+
+const likes = mentions.filter(f => f['wm-property'] === 'like-of')
+const retweets = mentions.filter(f => f['wm-property'] === 'repost-of')
+const replies = mentions.filter(f => f['wm-property'] === 'reply-to')
+
+const { title, summary } = post.frontmatter;
 let { tags } = post.frontmatter;
 tags = tags.slice(0, 3);
 ---
 
-<div class="card">
-	<a href={ `/blog/${slug}/` } title={ title }>
-		<main>
-			<h3>{ title }</h3>
-			<p>{ summary }</p>
-		</main>
-		<footer>
-			READ MORE <IconArrow />
-		</footer>
-	</a>
-</div>
+	<div class="card">
+		<a href={`/blog/${slug}/`} title={title}>
+			<main>
+				<h3>{title}</h3>
+				<p>{summary}</p>
+			</main>
+			<footer>
+				{likes} - {retweets} - {replies}
+			</footer>
+		</a>
+	</div>
