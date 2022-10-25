@@ -38,7 +38,6 @@ function mergeWebmentions(a, b) {
 function writeToCache(data) {
     const dir = '_cache'
     const fileContent = JSON.stringify(data, null, 2)
-    // create cache folder if it doesnt exist already
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir)
     }
@@ -52,7 +51,8 @@ function writeToCache(data) {
 function readFromCache() {
     if (fs.existsSync(CACHE_FILE_PATH)) {
         const cacheFile = fs.readFileSync(CACHE_FILE_PATH)
-        return JSON.parse(cacheFile)
+        console.log(cacheFile)
+        //return JSON.parse(cacheFile.toString())
     }
     // no cache found.
     return {

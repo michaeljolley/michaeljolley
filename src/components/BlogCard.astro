@@ -16,9 +16,9 @@ const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
 const webMentions = await getWebMentions();
 const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
 
-const likes = mentions.filter(f => f['wm-property'] === 'like-of')
-const retweets = mentions.filter(f => f['wm-property'] === 'repost-of')
-const replies = mentions.filter(f => f['wm-property'] === 'reply-to')
+const likes = mentions.filter(f => f['wm-property'] === 'like-of').length
+const retweets = mentions.filter(f => f['wm-property'] === 'repost-of').length
+const replies = mentions.filter(f => f['wm-property'] === 'in-reply-to').length
 
 const { title, summary } = post.frontmatter;
 let { tags } = post.frontmatter;
