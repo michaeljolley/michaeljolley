@@ -21,8 +21,6 @@ async function fetchWebMentions(since, perPage = 10000) {
 
     const response = await axios.get(url)
 
-    console.dir(response.data, { depth: null })
-
     if (response.status === 200 && response.data) {
         const feed = response.data
         console.log(`>>> ${feed.children.length} new webmentions fetched from ${API}`)
@@ -38,7 +36,6 @@ function mergeWebmentions(a, b) {
 function writeToCache(data) {
     const dir = '_cache'
     const fileContent = JSON.stringify(data, null, 2)
-    // create cache folder if it doesnt exist already
     if (!fs.existsSync(dir)) {
         fs.mkdirSync(dir)
     }
@@ -52,7 +49,8 @@ function writeToCache(data) {
 function readFromCache() {
     if (fs.existsSync(CACHE_FILE_PATH)) {
         const cacheFile = fs.readFileSync(CACHE_FILE_PATH)
-        return JSON.parse(cacheFile)
+        console.log(cacheFile)
+        //return JSON.parse(cacheFile.toString())
     }
     // no cache found.
     return {
