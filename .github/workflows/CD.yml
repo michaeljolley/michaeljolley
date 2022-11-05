@@ -60,7 +60,7 @@ jobs:
           enable-commit-comment: true                         # default: true
           overwrites-pull-request-comment: false              # default: true
           production-deploy: ${{ env.IS_PRODUCTION }}
-          functions-dir: ${{ env.BUILD_PATH }}/functions
+          functions-dir: ${{ env.BUILD_PATH }}/lambda
           alias: ${{ env.BUILD_ALIAS }}
           github-deployment-environment: ${{ env.ENVIRONMENT_NAME }}
           github-deployment-description: ${{ env.ENVIRONMENT_DESC }}
