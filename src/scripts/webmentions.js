@@ -40,7 +40,7 @@ function writeToCache(data) {
         fs.mkdirSync(dir)
     }
     // write data to cache json file
-    fs.writeFile(CACHE_FILE_PATH, fileContent, err => {
+    fs.writeFileSync(CACHE_FILE_PATH, fileContent, err => {
         if (err) throw err
         console.log(`>>> webmentions cached to ${CACHE_FILE_PATH}`)
     })
@@ -49,8 +49,7 @@ function writeToCache(data) {
 function readFromCache() {
     if (fs.existsSync(CACHE_FILE_PATH)) {
         const cacheFile = fs.readFileSync(CACHE_FILE_PATH)
-        console.log(cacheFile)
-        //return JSON.parse(cacheFile.toString())
+        return JSON.parse(cacheFile.toString())
     }
     // no cache found.
     return {
@@ -62,29 +61,26 @@ function readFromCache() {
 export async function getWebMentions() {
     console.log('>>> Reading webmentions from cache...');
     const cache = readFromCache()
-    if (cache.children.length) {
+    if (cache.children) {
         console.log(`>>> ${cache.children.length} webmentions loaded from cache`)
     }
     // Only fetch new mentions in production
-    //if (process.env.NODE_ENV === 'production') {
-    console.log('>>> Checking for new webmentions...');
-    const feed = await fetchWebMentions(cache.lastFetched)
-    if (feed) {
-        const webmentions = {
-            lastFetched: new Date().toISOString(),
-            children: mergeWebmentions(cache, feed)
+    if (process.env.NODE_ENV === 'production') {
+        const tenMinutesAgo = new Date(Date.now() - 10000 * 60);
+        if (cache.lastFetched && new Date(cache.lastFetched) < tenMinutesAgo) {
+            console.log(`>>> Last fetch was less than 10 minutes ago. Skipping fetch.`);
+        } else {
+            console.log('>>> Checking for new webmentions...');
+            const feed = await fetchWebMentions(cache.lastFetched)
+            if (feed) {
+                const webmentions = {
+                    lastFetched: new Date().toISOString(),
+                    children: mergeWebmentions(cache, feed)
+                }
+                writeToCache(webmentions)
+                return webmentions
+            }
         }
-        writeToCache(webmentions)
-        return webmentions
     }
-    //}
     return cache
 }
-
-// export async function getWebMentions(url) {
-//     const mentions = await webMentions()
-
-//     return mentions
-//         .children.filter(entry => entry['wm-target'] === url)
-// }
-
