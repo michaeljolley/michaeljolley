@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
   </tr>
