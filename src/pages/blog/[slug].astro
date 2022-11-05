@@ -1,5 +1,7 @@
 ---
 import { getWebMentions } from '../../scripts/webmentions.js'
+import Avatars from '../../components/Avatars.astro';
+import ThumbsUp from '../../components/icons/ThumbsUp.astro';
 
 export async function getStaticPaths() {
 	const allPosts = await Astro.glob('../../content/blog/**/*.md');
@@ -14,6 +16,11 @@ export async function getStaticPaths() {
 		const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
 
 		const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
+		const avatars = [... new Set(mentions.filter(f => (f.author.photo || '').length > 0)
+								.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
+								.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
+								.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1))
+								.map(m => m.author.photo))];
 
 		return {
 			params: {
@@ -21,7 +28,7 @@ export async function getStaticPaths() {
 			},
 			props: {
 				post,
-				mentions
+				avatars
 			}
 		}
 	})
@@ -32,11 +39,8 @@ import TableOfContents from '../../components/TableOfContents';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import Topper from '../../components/Topper.astro';
 
-const { post, mentions } = Astro.props;
+const { post, avatars } = Astro.props;
 const { slug } = Astro.params;
-
-console.log(slug)
-console.dir(mentions, { depth: null })
 
 const { title, description, tags, date, canonical_url } = post.frontmatter;
 const permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
@@ -52,6 +56,13 @@ let headers = await post.getHeadings();
 		<Topper>
 			<h1>{title}</h1>
 			<p class="small" set:html={canonicalMsg}></p>
+			{
+				avatars.length > 0 &&
+				
+					<p class="small likes" ><ThumbsUp/> Likes, retweets, & replies</p>
+					<Avatars avatars={avatars} displayQuantity="20" />
+				
+			}
 		</Topper>
 		<article class="post">
 			<main>

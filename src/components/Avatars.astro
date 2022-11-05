@@ -1,0 +1,23 @@
+---
+const { avatars, displayQuantity } = Astro.props;
+
+const displayedAvatars = avatars.slice(0, displayQuantity);
+
+---
+<div class="avatars">
+    
+    {
+        displayedAvatars.map((avatar) => 
+            <div class="avatar">
+                <img src={avatar} />
+            </div>
+        )
+    }
+
+    {
+        avatars.length > displayQuantity &&
+            <div class="extra">
+                <span>+{avatars.length - displayQuantity}</span>
+            </div>
+    }
+</div>

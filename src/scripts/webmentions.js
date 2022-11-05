@@ -21,8 +21,6 @@ async function fetchWebMentions(since, perPage = 10000) {
 
     const response = await axios.get(url)
 
-    console.dir(response.data, { depth: null })
-
     if (response.status === 200 && response.data) {
         const feed = response.data
         console.log(`>>> ${feed.children.length} new webmentions fetched from ${API}`)
