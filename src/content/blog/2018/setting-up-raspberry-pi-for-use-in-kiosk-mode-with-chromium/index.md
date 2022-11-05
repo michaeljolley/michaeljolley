@@ -1,5 +1,5 @@
 ---
-date: 2018-11-13
+pubDate: 2018-11-13
 title: 'Setting up Raspberry Pi for use in kiosk mode with Chromium'
 banner_image_alt: Mash-up of Raspberry Pi & Chromium logos.
 description: Using Chromium on a Raspberry Pi to provide a kiosk experience for users.

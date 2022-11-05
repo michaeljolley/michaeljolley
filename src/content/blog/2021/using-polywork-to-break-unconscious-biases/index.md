@@ -1,5 +1,5 @@
 ---
-date: 2021-07-19
+pubDate: 2021-07-19
 title: 'Using Polywork to Break My Unconscious Biases'
 cover: ./cover.png
 ograph: ./ograph.png

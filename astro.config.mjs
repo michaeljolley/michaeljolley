@@ -8,12 +8,18 @@ import remarkGfm from 'remark-gfm';
 import rehypePrismPlus from 'rehype-prism-plus';
 
 export default defineConfig({
+	site: 'https://baldbeardedbuilder.com',
 	integrations: [preact(), tailwind({
 		config: {
 			applyAstroPreset: false
 		}
-	}), sitemap()],
-	site: 'https://baldbeardedbuilder.com/',
+	}), sitemap({
+		changefreq: 'weekly',
+		priority: 0.7,
+		lastmod: new Date(),
+		filter: (page) =>
+			page !== "https://baldbeardedbuilder.com/thanks"
+	})],
 	trailingSlash: 'always',
 	legacy: {
 		astroFlavoredMarkdown: true,

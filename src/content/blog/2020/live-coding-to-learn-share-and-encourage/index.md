@@ -1,5 +1,5 @@
 ---
-date: 2020-04-12
+pubDate: 2020-04-12
 title: 'Live-Coding to Learn, Share and Encourage'
 cover: ./cover-image.png
 banner_image_alt: Collage of things that occurred on the Bald Bearded Builder stream on Twitch.

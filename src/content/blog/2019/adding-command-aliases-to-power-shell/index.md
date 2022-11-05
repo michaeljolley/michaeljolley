@@ -1,5 +1,5 @@
 ---
-date: 2019-05-13
+pubDate: 2019-05-13
 title: 'Adding command aliases to PowerShell'
 cover: ./57646611-96591a00-7586-11e9-8b7a-68f7736e2c28_vc6upr.jpg
 banner_image_alt: Powershell code

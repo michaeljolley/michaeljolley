@@ -1,5 +1,5 @@
 ---
-date: 2019-12-02
+pubDate: 2019-12-02
 title: 'Using Azure File Storage as Container Volume Mounts in App Services'
 cover: ./69994336-4be3be80-1513-11ea-92a1-381658ceef5f_grxpqn.jpg
 banner_image_alt: Azure App Service, Docker and Azure Storage logos on an Azure portal background

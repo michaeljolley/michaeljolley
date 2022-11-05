@@ -1,5 +1,5 @@
 ---
-date: 2019-05-20
+pubDate: 2019-05-20
 title: 'Using a CONTRIBUTING & CODE_OF_CONDUCT to assist others in contributing to public repositories'
 cover: ./58047500-f400df80-7b0d-11e9-917c-b4b1cd4a8d2b_b3iim4.jpg
 banner_image_alt: Woman working on laptop leaned against a brick wall.

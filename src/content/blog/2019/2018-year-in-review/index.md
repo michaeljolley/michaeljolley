@@ -1,5 +1,5 @@
 ---
-date: 2019-01-01
+pubDate: 2019-01-01
 title: 'Reviewing 2018 and plans for 2019'
 cover: ./50575938-07184a80-0dcd-11e9-998f-59865d568263_cckgjo.jpg
 banner_image_alt: Fireworks with Michael's avatar wearing a new years hat.

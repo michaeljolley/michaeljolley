@@ -1,5 +1,5 @@
 ---
-date: 2019-12-25
+pubDate: 2019-12-25
 title: 'Adding HATEOAS to an ASP.NET Core API'
 cover: ./71390264-4256ef00-25c5-11ea-890b-6614ed7fd9a9_xjzxer.jpg
 banner_image_alt: Christmas tree decorations with ASP.NET Core logo

@@ -1,5 +1,5 @@
 ---
-date: 2020-01-27
+pubDate: 2020-01-27
 title: "I See What You're Saying: Sentiment Analysis With OpenTok and Azure Face API"
 cover: ./cover-image.jpg
 banner_image_alt: Sentiment Analysis With OpenTok and Azure Face API

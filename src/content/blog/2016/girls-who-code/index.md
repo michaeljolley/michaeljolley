@@ -1,5 +1,5 @@
 ---
-date: 2016-07-28
+pubDate: 2016-07-28
 title: 'Girls Who Code'
 cover: ./66d4554a-544d-11e6-82d7-ced84abd4123_afjjdd.jpg
 banner_image_alt: Girls in a classroom watching a robot they've built.

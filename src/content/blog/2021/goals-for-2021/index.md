@@ -1,5 +1,5 @@
 ---
-date: 2021-01-18
+pubDate: 2021-01-18
 title: 'Adiós 2020. Setting Goals for 2021.'
 cover: ./cover.png
 slug: goals-for-2021

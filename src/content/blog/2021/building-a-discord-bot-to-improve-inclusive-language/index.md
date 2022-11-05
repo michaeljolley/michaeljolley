@@ -1,5 +1,5 @@
 ---
-date: 2021-08-22
+pubDate: 2021-08-22
 title: 'Building a Discord Bot to Improve Inclusive Language'
 slug: building-a-discord-bot-to-improve-inclusive-language
 banner_image_alt: Discord channel where the GuyBot has responded to a non-inclusive message.

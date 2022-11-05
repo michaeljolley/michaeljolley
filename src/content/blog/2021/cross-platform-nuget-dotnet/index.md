@@ -1,5 +1,5 @@
 ---
-date: 2021-12-23
+pubDate: 2021-12-23
 title: Building a Cross Platform NuGet Package
 description: Learning to build a NuGet package by building a .NET SDK for the Deepgram API, while ensuring it's compatible with as many versions of the .NET Framework and as many platforms as possible.
 tags: [dotnet, nuget, sdk]

@@ -1,5 +1,5 @@
 ---
-date: 2018-11-10
+pubDate: 2018-11-10
 title: 'Automating release notes with GitHub, AppVeyor and Octopus Deploy'
 banner_image_alt: Burger labeled "DevOps Burger" with layers for PowerShell, AppVeyor, Octopus Deploy and GitHub.
 description: Utilizing a custom PowerShell script to generate deployment release notes with GitHub, AppVeyor & Octopus Deploy

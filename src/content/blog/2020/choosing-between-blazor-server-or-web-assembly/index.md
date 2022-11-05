@@ -1,5 +1,5 @@
 ---
-date: 2020-12-24
+pubDate: 2020-12-24
 title: Choosing Between Blazor Server or WebAssembly
 cover: ./cover.png
 ograph: ./ograph.png

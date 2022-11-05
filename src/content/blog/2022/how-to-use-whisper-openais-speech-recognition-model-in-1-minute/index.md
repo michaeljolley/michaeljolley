@@ -1,5 +1,5 @@
 ---
-date: 2022-09-29
+pubDate: 2022-09-29
 title: "Try Whisper: OpenAI's Speech Recognition Model in 1 Minute"
 description: Deepgram has made testing OpenAI's new open-sourced Whisper speech recognition model easy as copy and paste. Try it today!
 tags: ["machine-learning", "whisper", "openai"] 

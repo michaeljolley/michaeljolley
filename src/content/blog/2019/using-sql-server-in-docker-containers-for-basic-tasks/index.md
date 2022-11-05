@@ -1,5 +1,5 @@
 ---
-date: 2019-07-03
+pubDate: 2019-07-03
 title: 'Using SQL Server in Docker containers for basic tasks'
 cover: ./60616825-fbb3d500-9d97-11e9-8214-d3b90aecafe9_ebpx8l.jpg
 banner_image_alt: Docker, Linux and SQL Server logos on a Powershell background

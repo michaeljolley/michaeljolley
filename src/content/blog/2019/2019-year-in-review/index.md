@@ -1,5 +1,5 @@
 ---
-date: 2019-12-29
+pubDate: 2019-12-29
 title: 'Cheers to 2019! Bring on 2020!'
 cover: ./Artboard_2_k3mgba.png
 banner_image_alt: Fireworks with Michael's avatar wearing a new years hat.

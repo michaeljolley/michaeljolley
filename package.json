@@ -3,11 +3,8 @@
   "version": "4.0.0",
   "private": true,
   "scripts": {
-    "dev": "concurrently \"astro dev\" \"netlify-lambda serve functions\"",
-    "start": "astro dev",
-    "build": "npm run build:astro && npm run build:lambda",
-    "build:lambda": "netlify-lambda build functions",
-    "build:astro": "astro build",
+    "dev": "astro dev",
+    "build": "astro build",
     "preview": "astro preview",
     "generate": "node readme/index.js && npm run build"
   },

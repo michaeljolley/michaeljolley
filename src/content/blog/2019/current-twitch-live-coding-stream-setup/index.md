@@ -1,5 +1,5 @@
 ---
-date: 2019-02-23
+pubDate: 2019-02-23
 title: 'Current Twitch live-coding stream setup'
 cover: ./53290137-aa4e6600-3765-11e9-8115-961de3633562_mxq7og.jpg
 banner_image_alt: Header used on Bald Bearded Builder stream

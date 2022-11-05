@@ -1,5 +1,5 @@
 ---
-date: 2020-06-14
+pubDate: 2020-06-14
 title: 'Using Netlify Functions to Add Comments to Gridsome'
 cover: ./cover-image.png
 banner_image_alt: Terminal window with the words Using Netlify functions with Gridsome
@@ -182,7 +182,7 @@ exports.handler = async (event, context) => {
     avatar: bodyComment.avatar,
     redirect: bodyComment.redirect,
     identity: bodyComment.identity,
-    date: new Date(),
+    pubDate: new Date(),
     id: Math.abs(
       hash(`${new Date()}${bodyComment.postpath}${bodyComment.name}`)
     ),

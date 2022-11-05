@@ -1,5 +1,5 @@
 ---
-date: 2020-08-03
+pubDate: 2020-08-03
 title: 'Building my Ultimate Rustic Developers Desk'
 cover: ./cover-image.png
 slug: building-my-ultimate-rustic-developers-desk

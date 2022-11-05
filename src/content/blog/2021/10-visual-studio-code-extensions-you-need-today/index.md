@@ -1,5 +1,5 @@
 ---
-date: 2021-03-29
+pubDate: 2021-03-29
 title: '10 VS Code Extensions You Need Today'
 cover: ./cover.png
 slug: 10-visual-studio-code-extensions-you-need-today

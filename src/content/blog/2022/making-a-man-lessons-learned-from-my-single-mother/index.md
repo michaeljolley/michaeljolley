@@ -1,5 +1,5 @@
 ---
-date: 2022-05-07
+pubDate: 2022-05-07
 title: "Making a Man: Lessons Learned from My Single Mother"
 description: Remembering the integrity and tenacity my mom displayed in her life and the lessons she worked to instill in me.
 tags: ["family-values", "parenting"] 

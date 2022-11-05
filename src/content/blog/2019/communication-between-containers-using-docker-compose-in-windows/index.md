@@ -1,5 +1,5 @@
 ---
-date: 2019-02-16
+pubDate: 2019-02-16
 title: 'Communication between containers using docker compose in Windows'
 cover: ./52905302-082afd00-31fe-11e9-9f0d-e1e02f2e58e9_uysuaw.jpg
 banner_image_alt: Octopus holding containers and a Windows logo over a code editor.

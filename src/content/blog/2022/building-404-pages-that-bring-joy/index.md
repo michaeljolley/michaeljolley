@@ -1,5 +1,5 @@
 ---
-date: 2022-03-10
+pubDate: 2022-03-10
 title: Building 404 Pages That Bring Joy
 description: How we transformed the bad experience of landing on a 404 page into an enjoyable experience with a game.
 tags: ["developer-experience", "nuxtjs"] 

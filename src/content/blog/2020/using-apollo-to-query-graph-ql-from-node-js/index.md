@@ -1,5 +1,5 @@
 ---
-date: 2020-03-12
+pubDate: 2020-03-12
 title: 'Using Apollo to Query GraphQL from Node.js'
 cover: ./cover-image.png
 banner_image_alt: Using Apollo to Query GraphQL from Node.js

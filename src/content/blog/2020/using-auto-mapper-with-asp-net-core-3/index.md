@@ -1,5 +1,5 @@
 ---
-date: 2020-01-13
+pubDate: 2020-01-13
 title: 'Using AutoMapper with ASP.NET Core 3'
 cover: ./cover-image.png
 banner_image_alt: Metamorphosis of a butterfly with the .NET core and AutoMapper logos

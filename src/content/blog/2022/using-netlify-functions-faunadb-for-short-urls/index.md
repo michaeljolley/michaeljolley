@@ -1,5 +1,5 @@
 ---
-date: 2022-07-18
+pubDate: 2022-07-18
 title: "Creating Short URLs with Netlify Functions and FaunaDb"
 description: Creating a personalized short URL service using Netlify functions and FaunaDb.
 tags: ["netlify", "faunadb", "serverless"] 
@@ -24,7 +24,7 @@ a database, and having used [Fauna](https://fauna.com) in the past, I decided it
 would work well for this application. My site doesn't get a lot of traffic, so I
 expected their free tier to cover me.
 
-> **Update:** this function has been running for well over a year and I still don't
+> **UppubDate:** this function has been running for well over a year and I still don't
 come close to fully utilizing Fauna's free tier.
 
 ### Data Structure
