@@ -23,11 +23,11 @@ that hopefully helps you become a better developer.
 
 ## 📝 Recent Blog Posts
 
-[Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://baldbeardedbuilder.com/blog/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
+[10 VS Code Extensions You Need Today](https://baldbeardedbuilder.com/blog/10-visual-studio-code-extensions-you-need-today/)
 
-[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
+[Reviewing 2018 and plans for 2019](https://baldbeardedbuilder.com/blog/2018-year-in-review/)
 
-[Making a Man: Lessons Learned from My Single Mother](https://baldbeardedbuilder.com/blog/making-a-man-lessons-learned-from-my-single-mother/)
+[Cheers to 2019! Bring on 2020!](https://baldbeardedbuilder.com/blog/2019-year-in-review/)
 
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/DifficultSpikyTriangleDatSheffy" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C851979336-preview-480x272.jpg" alt="Let it go~ :D"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
