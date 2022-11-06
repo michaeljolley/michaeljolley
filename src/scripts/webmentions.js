@@ -69,6 +69,11 @@ export async function getWebMentions() {
 
     const tenMinutesAgo = new Date(Date.now() - 5000 * 60);
 
+    console.dir({
+        lastFetched: cache.lastFetched,
+        tenMinutesAgo
+    })
+
     if (cache.lastFetched && new Date(cache.lastFetched) < tenMinutesAgo) {
         console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
     } else {
