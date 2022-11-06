@@ -9,6 +9,7 @@ const CACHE_FILE_PATH = '_cache/webmentions.json'
 const API = 'https://webmention.io/api'
 const TOKEN = process.env.WEBMENTION_IO_TOKEN
 const domain = 'baldbeardedbuilder.com'
+const fiveMinutesAgo = new Date(Date.now() - 5000 * 60);
 
 async function fetchWebMentions(since, perPage = 10000) {
     // If we dont have a domain name or token, abort
@@ -66,9 +67,6 @@ export async function getWebMentions() {
     }
     // Only fetch new mentions in production
     if (process.env.NODE_ENV === 'production') {
-
-        const fiveMinutesAgo = new Date(Date.now() - 5000 * 60);
-
         const shouldFetch = cache.lastFetched && (new Date(cache.lastFetched) < fiveMinutesAgo);
 
         if (shouldFetch) {
@@ -83,7 +81,7 @@ export async function getWebMentions() {
                 return webmentions
             }
         } else {
-            console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
+            console.log(`>>> Last fetch was at ${cache.lastFetched} which is after ${fiveMinutesAgo}. Skipping fetch.`);
         }
     }
     return cache
