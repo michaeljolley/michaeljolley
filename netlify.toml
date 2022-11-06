@@ -7,7 +7,3 @@
   
 [[plugins]]
   package = "netlify-plugin-cache-folder"
-
-[functions]
-  # Directory with serverless functions
-  directory = "netlify/functions/"
