@@ -3,6 +3,7 @@ dist/
 .output/
 src/content/videos/
 lambda/
+_cache/
 
 # dependencies
 node_modules/

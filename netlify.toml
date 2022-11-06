@@ -1,7 +1,9 @@
 [build]
   command = "npm run build"
   publish = "dist"
-  functions = 'lambda'
 
 [[plugins]]
   package = "@netlify/plugin-functions-install-core"
+  
+[[plugins]]
+  package = "netlify-plugin-cache-folder"

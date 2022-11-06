@@ -1,18 +1,32 @@
 ---
+import { getWebMentions } from '../../scripts/webmentions.js'
+import Avatars from '../../components/Avatars.astro';
+import ThumbsUp from '../../components/icons/ThumbsUp.astro';
+
 export async function getStaticPaths() {
 	const allPosts = await Astro.glob('../../content/blog/**/*.md');
-	const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
-	return sortedPosts.map((post) => {
+	const webMentions = await getWebMentions();
+
+	return allPosts.map((post) => {
 		const pathParts = post.file.replace('/index.md', '').split('/');
-		const slug = pathParts[pathParts.length - 1]
-		console.log(slug)
+		const slug = pathParts[pathParts.length - 1];
+
+		const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
+
+		const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
+								.filter(f => (f.author.photo || '').length > 0)
+								.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
+								.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
+								.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1));
+
 		return {
 			params: {
 				slug
 			},
 			props: {
-				post
+				post,
+				mentions
 			}
 		}
 	})
@@ -23,7 +37,7 @@ import TableOfContents from '../../components/TableOfContents';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import Topper from '../../components/Topper.astro';
 
-const { post } = Astro.props;
+const { post, mentions } = Astro.props;
 const { slug } = Astro.params;
 
 const { title, description, tags, date, canonical_url } = post.frontmatter;
@@ -33,25 +47,32 @@ const canonicalUrl = canonical_url;
 const canonicalHost = canonicalUrl ? (new URL(canonicalUrl)).hostname : undefined;
 const canonicalMsg = canonicalUrl ? `Originally published at <a href="${canonicalUrl}">${canonicalHost}</a>.` : '';
 
-let headers = await post.getHeaders();
+let headers = await post.getHeadings();
 ---
 
-<Layout {title} {description} {permalink} {tags} {canonicalUrl}>
-	<Topper>
-		<h1>{ title }</h1>
-		<p class="small" set:html={canonicalMsg}></p>
-	</Topper>
-	<article class="post">
-		<main>
-			<aside>
-				<TableOfContents {headers} client:load />
-			</aside>
-			<section class="content">
-				<post.Content />
-			</section>
-		</main>
-		<footer>
-			<RelatedPosts post={post} />
-		</footer>
-	</article>
-</Layout>
+	<Layout {title} {description} {permalink} {tags} {canonicalUrl}>
+		<Topper>
+			<h1>{title}</h1>
+			<p class="small" set:html={canonicalMsg}></p>
+			{
+				mentions.length > 0 &&
+				
+					<p class="small likes" ><ThumbsUp/> Likes, retweets, & replies</p>
+					<Avatars mentions={mentions} displayQuantity="20" displayLink="true" />
+				
+			}
+		</Topper>
+		<article class="post">
+			<main>
+				<aside>
+					<TableOfContents {headers} client:load />
+				</aside>
+				<section class="content">
+					<post.Content />
+				</section>
+			</main>
+			<footer>
+				<RelatedPosts post={post} />
+			</footer>
+		</article>
+	</Layout>
