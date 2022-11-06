@@ -69,7 +69,7 @@ export async function getWebMentions() {
 
     const fiveMinutesAgo = new Date(Date.now() - 5000 * 60);
 
-    const shouldFetch = cached.lastFetched && (new Date(cache.lastFetched) < fiveMinutesAgo);
+    const shouldFetch = cache.lastFetched && (new Date(cache.lastFetched) < fiveMinutesAgo);
     if (cache.lastFetched) {
         console.dir({
             shouldFetch
