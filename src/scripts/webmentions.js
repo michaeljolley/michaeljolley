@@ -67,7 +67,7 @@ export async function getWebMentions() {
     }
     // Only fetch new mentions in production
     if (process.env.NODE_ENV === 'production') {
-        const shouldFetch = cache.lastFetched && (new Date(cache.lastFetched) < fiveMinutesAgo);
+        const shouldFetch = cache.lastFetched == null || (new Date(cache.lastFetched) < fiveMinutesAgo);
 
         if (shouldFetch) {
             console.log('>>> Checking for new webmentions...');
