@@ -81,7 +81,7 @@ export async function getWebMentions() {
                 return webmentions
             }
         } else {
-            console.log(`>>> Last fetch was at ${cache.lastFetched} which is after ${fiveMinutesAgo}. Skipping fetch.`);
+            console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
         }
     }
     return cache
