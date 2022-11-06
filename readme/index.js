@@ -187,7 +187,7 @@ async function _generateBlogData() {
 
 				posts.push({
 					title: deets.data.title,
-					date: new Date(deets.data.date),
+					pubDate: new Date(deets.data.pubDate),
 					description: deets.data.description,
 					tags: deets.data.tags,
 					link: `https://baldbeardedbuilder.com/blog/${path.split('/').slice(-1)}/`
@@ -199,7 +199,7 @@ async function _generateBlogData() {
 
 	const posts = await getPosts('./src/content/blog')
 	return posts
-		.sort((a, b) => b.date - a.date)
+		.sort((a, b) => b.pubDate - a.pubDate)
 		.slice(0, 3);
 }
 
