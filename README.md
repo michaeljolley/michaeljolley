@@ -23,11 +23,11 @@ that hopefully helps you become a better developer.
 
 ## 📝 Recent Blog Posts
 
-[10 VS Code Extensions You Need Today](https://baldbeardedbuilder.com/blog/10-visual-studio-code-extensions-you-need-today/)
+[Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://baldbeardedbuilder.com/blog/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/)
 
-[Reviewing 2018 and plans for 2019](https://baldbeardedbuilder.com/blog/2018-year-in-review/)
+[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
-[Cheers to 2019! Bring on 2020!](https://baldbeardedbuilder.com/blog/2019-year-in-review/)
+[Making a Man: Lessons Learned from My Single Mother](https://baldbeardedbuilder.com/blog/making-a-man-lessons-learned-from-my-single-mother/)
 
 
 ---
@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
   </tr>
