@@ -21,9 +21,6 @@ export default defineConfig({
 			page !== "https://baldbeardedbuilder.com/thanks"
 	})],
 	trailingSlash: 'always',
-	legacy: {
-		astroFlavoredMarkdown: true,
-	},
 	markdown: {
 		rehypePlugins: [
 			rehypePrismPlus

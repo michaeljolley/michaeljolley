@@ -5,22 +5,20 @@ import ThumbsUp from '../../components/icons/ThumbsUp.astro';
 
 export async function getStaticPaths() {
 	const allPosts = await Astro.glob('../../content/blog/**/*.md');
-	const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
 
 	const webMentions = await getWebMentions();
 
-	return sortedPosts.map((post) => {
+	return allPosts.map((post) => {
 		const pathParts = post.file.replace('/index.md', '').split('/');
 		const slug = pathParts[pathParts.length - 1];
 
 		const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
 
 		const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
-		const avatars = [... new Set(mentions.filter(f => (f.author.photo || '').length > 0)
+								.filter(f => (f.author.photo || '').length > 0)
 								.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
 								.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
-								.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1))
-								.map(m => m.author.photo))];
+								.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1));
 
 		return {
 			params: {
@@ -28,7 +26,7 @@ export async function getStaticPaths() {
 			},
 			props: {
 				post,
-				avatars
+				mentions
 			}
 		}
 	})
@@ -39,7 +37,7 @@ import TableOfContents from '../../components/TableOfContents';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import Topper from '../../components/Topper.astro';
 
-const { post, avatars } = Astro.props;
+const { post, mentions } = Astro.props;
 const { slug } = Astro.params;
 
 const { title, description, tags, date, canonical_url } = post.frontmatter;
@@ -57,10 +55,10 @@ let headers = await post.getHeadings();
 			<h1>{title}</h1>
 			<p class="small" set:html={canonicalMsg}></p>
 			{
-				avatars.length > 0 &&
+				mentions.length > 0 &&
 				
 					<p class="small likes" ><ThumbsUp/> Likes, retweets, & replies</p>
-					<Avatars avatars={avatars} displayQuantity="20" />
+					<Avatars mentions={mentions} displayQuantity="20" displayLink="true" />
 				
 			}
 		</Topper>

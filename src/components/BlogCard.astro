@@ -18,16 +18,6 @@ const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
 const webMentions = await getWebMentions();
 const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
 
-const likes = mentions.filter(f => f['wm-property'] === 'like-of')
-const retweets = mentions.filter(f => f['wm-property'] === 'repost-of')
-const replies = mentions.filter(f => f['wm-property'] === 'in-reply-to')
-
-const avatars = [... new Set(mentions.filter(f => (f.author.photo || '').length > 0)
-						.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
-						.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
-						.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1))
-						.map(m => m.author.photo))];
-
 const { title, summary } = post.frontmatter;
 let { tags } = post.frontmatter;
 tags = tags.slice(0, 3);
@@ -41,10 +31,10 @@ tags = tags.slice(0, 3);
 			</main>
 			<footer>
 				{
-					avatars.length > 0 &&
+					mentions.length > 0 &&
 					<p><ThumbsUp/> Likes, retweets, & replies</p>
 				}
-				<Avatars avatars={avatars} displayQuantity="10" />
+				<Avatars mentions={mentions} displayQuantity="10" />
 			</footer>
 		</a>
 	</div>
