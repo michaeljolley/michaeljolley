@@ -67,14 +67,17 @@ export async function getWebMentions() {
     // Only fetch new mentions in production
     // if (process.env.NODE_ENV === 'production') {
 
-    const tenMinutesAgo = new Date(Date.now() - 5000 * 60);
+    const fiveMinutesAgo = new Date(Date.now() - 5000 * 60);
 
-    console.dir({
-        lastFetched: cache.lastFetched,
-        tenMinutesAgo
-    })
+    if (cache.lastFetched) {
+        console.dir({
+            lastFetched: new Date(cache.lastFetched),
+            fiveMinutesAgo,
+            shouldFetch: new Date(cache.lastFetched) < fiveMinutesAgo
+        })
+    }
 
-    if (cache.lastFetched && new Date(cache.lastFetched) < tenMinutesAgo) {
+    if (cache.lastFetched && new Date(cache.lastFetched) < fiveMinutesAgo) {
         console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
     } else {
         console.log('>>> Checking for new webmentions...');
