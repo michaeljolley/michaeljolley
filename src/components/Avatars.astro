@@ -4,7 +4,7 @@ const { mentions, displayQuantity, displayLink } = Astro.props;
 const avatars = [... new Set(mentions.filter(f => (f.author.photo || '').length > 0)
 								.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
 								.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
-								.sort(((a, b) => (new Date(a['wm-received']) > new Date(b['wm-received'])) ? 1 : -1))
+								.sort(((a, b) => (new Date(a['wm-received']) < new Date(b['wm-received'])) ? 1 : -1))
                                 .map(f => {
                                     return {
                                     avatar: f.author.photo,
@@ -43,9 +43,9 @@ const displayedAvatars = Array.from(new Set(avatars.map(s => s.avatar)))
     }
 
     {
-        mentions.length > displayQuantity &&
+        displayedAvatars.length > displayQuantity &&
             <div class="extra">
-                <span>+{mentions.length - displayQuantity}</span>
+                <span>+{displayedAvatars.length - displayQuantity}</span>
             </div>
     }
 </div>
