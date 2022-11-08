@@ -5,10 +5,11 @@ import ThumbsUp from '../../components/icons/ThumbsUp.astro';
 
 export async function getStaticPaths() {
 	const allPosts = await Astro.glob('../../content/blog/**/*.md');
+	const publishedPosts = allPosts.filter(f => !f.frontmatter.draft || f.frontmatter.draft !== true)
 
 	const webMentions = await getWebMentions();
 
-	return allPosts.map((post) => {
+	return publishedPosts.map((post) => {
 		const pathParts = post.file.replace('/index.md', '').split('/');
 		const slug = pathParts[pathParts.length - 1];
 

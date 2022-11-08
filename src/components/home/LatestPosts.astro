@@ -2,7 +2,9 @@
 import BlogCard from '../BlogCard.astro';
 
 const allPosts = await Astro.glob('../../content/blog/**/*.md');
-const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate))
+const sortedPosts = allPosts
+						.filter(f => !f.frontmatter.draft || f.frontmatter.draft !== true)
+						.sort((a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate))
 														.slice(0, 9);
 ---
 
