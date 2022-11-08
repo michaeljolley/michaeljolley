@@ -4,12 +4,10 @@ import tailwind from "@astrojs/tailwind";
 import sitemap from "@astrojs/sitemap";
 import remarkGfm from 'remark-gfm';
 import rehypePrismPlus from 'rehype-prism-plus';
-import netlify from "@astrojs/netlify/functions";
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://baldbeardedbuilder.com',
-	output: 'server',
 	integrations: [preact(), tailwind({
 		config: {
 			applyAstroPreset: false
@@ -25,6 +23,5 @@ export default defineConfig({
 		rehypePlugins: [rehypePrismPlus],
 		remarkPlugins: [remarkGfm],
 		syntaxHighlight: 'prism'
-	},
-	adapter: netlify()
+	}
 });
