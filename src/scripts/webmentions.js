@@ -66,23 +66,23 @@ export async function getWebMentions() {
         console.log(`>>> ${cache.children.length} webmentions loaded from cache`)
     }
     // Only fetch new mentions in production
-    if (process.env.NODE_ENV === 'production') {
-        const shouldFetch = cache.lastFetched == null || (new Date(cache.lastFetched) < fiveMinutesAgo);
+    // if (process.env.NODE_ENV === 'production') {
+    const shouldFetch = cache.lastFetched == null || (new Date(cache.lastFetched) < fiveMinutesAgo);
 
-        if (shouldFetch) {
-            console.log('>>> Checking for new webmentions...');
-            const feed = await fetchWebMentions(cache.lastFetched)
-            if (feed) {
-                const webmentions = {
-                    lastFetched: new Date().toISOString(),
-                    children: mergeWebmentions(cache, feed)
-                }
-                writeToCache(webmentions)
-                return webmentions
+    if (shouldFetch) {
+        console.log('>>> Checking for new webmentions...');
+        const feed = await fetchWebMentions(cache.lastFetched)
+        if (feed) {
+            const webmentions = {
+                lastFetched: new Date().toISOString(),
+                children: mergeWebmentions(cache, feed)
             }
-        } else {
-            console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
+            writeToCache(webmentions)
+            return webmentions
         }
+    } else {
+        console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
     }
+    //}
     return cache
 }

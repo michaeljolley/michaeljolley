@@ -12,13 +12,17 @@ const avatars = [... new Set(mentions.filter(f => (f.author.photo || '').length 
                                     }
                                 }))];
 
-const displayedAvatars = Array.from(new Set(avatars.map(s => s.avatar)))
+const uniqueAvatars = Array.from(new Set(avatars.map(s => s.avatar)))
     .map(avatar => {
         return {
             avatar: avatar,
             url: avatars.find(s => s.avatar === avatar).url
         }
-    }).slice(0, displayQuantity);
+    })
+    
+const displayedAvatars = uniqueAvatars.slice(0, displayQuantity);
+
+const remainingAvatars = (uniqueAvatars.length - displayedAvatars.length);
 
 ---
 <div class="avatars">
@@ -43,9 +47,9 @@ const displayedAvatars = Array.from(new Set(avatars.map(s => s.avatar)))
     }
 
     {
-        avatars.length > displayQuantity &&
+        remainingAvatars > 0 &&
             <div class="extra">
-                <span>+{avatars.length - displayQuantity}</span>
+                <span>+{remainingAvatars}</span>
             </div>
     }
 </div>
