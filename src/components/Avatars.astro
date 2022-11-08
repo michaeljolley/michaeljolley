@@ -43,9 +43,9 @@ const displayedAvatars = Array.from(new Set(avatars.map(s => s.avatar)))
     }
 
     {
-        displayedAvatars.length > displayQuantity &&
+        avatars.length > displayQuantity &&
             <div class="extra">
-                <span>+{displayedAvatars.length - displayQuantity}</span>
+                <span>+{avatars.length - displayQuantity}</span>
             </div>
     }
 </div>
