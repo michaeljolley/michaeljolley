@@ -21,7 +21,7 @@ function Twitch() {
 		isLive && (
 			<div class="twitchEmbed">
 				<iframe
-					src="https://player.twitch.tv/?channel=bakdbeardedbyukder&parent=baldbeardedbuilder.com&autoplay=true"
+					src="https://player.twitch.tv/?channel=baldbeardedbuilder&parent=baldbeardedbuilder.com&autoplay=true"
 					scrolling="no"
 					allow="autoplay"
 					allowfullscreen="false"
