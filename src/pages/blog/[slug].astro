@@ -1,33 +1,20 @@
 ---
-import { getWebMentions } from '../../scripts/webmentions.js'
-import Avatars from '../../components/Avatars.astro';
-import ThumbsUp from '../../components/icons/ThumbsUp.astro';
+import WebMentions from '../../components/WebMentions';
 
 export async function getStaticPaths() {
 	const allPosts = await Astro.glob('../../content/blog/**/*.md');
 	const publishedPosts = allPosts.filter(f => !f.frontmatter.draft || f.frontmatter.draft !== true)
 
-	const webMentions = await getWebMentions();
-
 	return publishedPosts.map((post) => {
 		const pathParts = post.file.replace('/index.md', '').split('/');
 		const slug = pathParts[pathParts.length - 1];
-
-		const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
-
-		const mentions = webMentions.children.filter(entry => entry['wm-target'] === url)
-								.filter(f => (f.author.photo || '').length > 0)
-								.filter(f => (f.author.url || '') !== 'https://twitter.com/baldbeardbuild')
-								.filter(f => (f.author.url || '') !== 'https://twitter.com/michaeljolley')
-								.sort(((a, b) => (new Date(a['wm-received']) < new Date(b['wm-received'])) ? 1 : -1));
 
 		return {
 			params: {
 				slug
 			},
 			props: {
-				post,
-				mentions
+				post
 			}
 		}
 	})
@@ -38,8 +25,10 @@ import TableOfContents from '../../components/TableOfContents';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import Topper from '../../components/Topper.astro';
 
-const { post, mentions } = Astro.props;
+const { post } = Astro.props;
 const { slug } = Astro.params;
+
+const url = `https://baldbeardedbuilder.com/blog/${slug}/`;
 
 const { title, description, tags, date, canonical_url } = post.frontmatter;
 const permalink = `https://baldbeardedbuilder.com/blog/${slug}/`;
@@ -55,12 +44,7 @@ let headers = await post.getHeadings();
 		<Topper>
 			<h1>{title}</h1>
 			<p class="small" set:html={canonicalMsg}></p>
-			{
-				mentions.length > 0 &&
-				
-					<p class="small likes" ><ThumbsUp/> Likes, retweets, & replies</p>
-					<Avatars mentions={mentions} displayQuantity="20" displayLink="true" />
-			}
+			<WebMentions client:load url={url} displayQuantity="20" displayLink="true"/>
 		</Topper>
 		<article class="post">
 			<main>
