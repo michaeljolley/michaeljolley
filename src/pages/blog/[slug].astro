@@ -44,7 +44,7 @@ let headers = await post.getHeadings();
 		<Topper>
 			<h1>{title}</h1>
 			<p class="small" set:html={canonicalMsg}></p>
-			<WebMentions client:load url={url} displayQuantity="20" displayLink="true"/>
+			<WebMentions client:load url={url} displayQuantity={20} displayLink={true}/>
 		</Topper>
 		<article class="post">
 			<main>
