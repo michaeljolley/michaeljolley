@@ -9,7 +9,7 @@ that hopefully helps you become a better developer.
 
 ## Find Me Everywhere!
 
-[![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Twitter Follow](https://img.shields.io/twitter/follow/baldbeardbuild?style=social)](https://twitter.com/baldbeardbuild) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
+[![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Twitter Follow](https://img.shields.io/twitter/follow/michaeljolley?style=social)](https://twitter.com/michaeljolley) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
 
 ## 📽️ Most Recent Live-stream
 

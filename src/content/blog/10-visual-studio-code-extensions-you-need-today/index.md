@@ -140,6 +140,6 @@ are several points of customization that I covered in an
 Are there VS Code extensions you can't live without? Would you like to see an
 [Extension Highlight](https://youtube.com/baldbeardedbuilder) about an extension
 you've been using or thinking about? Look me up on
-[Twitter](https://twitter.com/baldbeardbuild),
+[Twitter](https://twitter.com/michaeljolley),
 [LinkedIn](https://www.linkedin.com/in/michaelwjolley/),
 or [Discord](https://discord.gg/XSG7HJm) and let me know!
