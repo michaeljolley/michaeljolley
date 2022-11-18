@@ -31,9 +31,9 @@ Before we get started, make sure you have the following:
 
 First, let's create a Twilio Studio Flow that will trigger when a call is received. This Flow will ask the caller to leave a message, then send the recording to Deepgram for transcription. The name of your Flow doesn't matter. I named mine "Transcribe Voicemail."
 
-![Twilio Studio New Flow dialog](./new-twilio-studio-flow-dialog.webp)In the next prompt, choose the "Start from scratch" option and press the "Next" button. This will create a blank Flow.
+![Twilio Studio New Flow dialog](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/new-twilio-studio-flow-dialog_yem6xt.webp)In the next prompt, choose the "Start from scratch" option and press the "Next" button. This will create a blank Flow.
 
-![Twilio Studio New Flow dialog](./twilio-studio-new-flow-type-dialog.webp)
+![Twilio Studio New Flow dialog](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813646/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/twilio-studio-new-flow-type-dialog_b2bob7.webp)
 
 ### Play a Message when a Call is Received
 
@@ -41,7 +41,7 @@ Now that we have a new Flow, let's add a widget to prompt the caller to leave a 
 
 Next click on the "say\_play\_1" widget in your Flow and change the "Text to Say" field to "Hello. Leave a message please." Then click the "Save" button. At this point, your Flow should look like this:
 
-![Twilio Studio Say/Play widget config](./twilio-studio-say-play-widget-config.webp)
+![Twilio Studio Say/Play widget config](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813647/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/twilio-studio-say-play-widget-config_ubhc6e.webp)
 
 ### Record the Callers Message
 
@@ -49,7 +49,7 @@ Now that we've prompted the caller to leave a message, let's add a widget to rec
 
 Next click on the "record\_voicemail\_1" widget in your Flow and change the "Trim" field to "Trim silence" and the "Play Beep" field to "True". This will remove silence at the beginning and end of the recording and provide a beep prompt for the caller to begin speaking. Click the "Save" button. At this point, your Flow should look like this:
 
-![Twilio Studio Record Voicemail widget config](./twilio-studio-record-voicemail-widget-config.webp)
+![Twilio Studio Record Voicemail widget config](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813646/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/twilio-studio-record-voicemail-widget-config_bnppp4.webp)
 
 ### Configuring Your Twilio Phone Number
 
@@ -57,7 +57,7 @@ The Flow now has everything it needs to record a caller's message. But we need t
 
 In the "Voice & Fax" section, click on the "A Call Comes In" dropdown and choose "Studio Flow". Then choose your newly created Flow and click the "Save" button.
 
-![Configure Twilio phone number for Studio Flow](./twilio-configure-phone-number-for-studio-flow.webp)
+![Configure Twilio phone number for Studio Flow](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813646/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/twilio-configure-phone-number-for-studio-flow_wpoozx.webp)
 
 ## Creating a Pipedream Workflow
 
@@ -67,9 +67,9 @@ Before we can configure the Deepgram add-on for Twilio, we need to create a Pipe
 
 Our trigger will be a webhook from Twilio, so choose "HTTP / Webhook" from the list of triggers. Then choose "HTTP Requests with a Body" from the list of options.
 
-![Pipedream new webhook trigger dialog](./pipedream-new-webhook-trigger-dialog.webp)Finally, press the "Save and continue" button. This will add the trigger to the workflow and display a webhook URL. Copy this URL and we'll return to our Twilio Console to enable the Deepgram add-on.
+![Pipedream new webhook trigger dialog](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/pipedream-new-webhook-trigger_gyge7b.webp)Finally, press the "Save and continue" button. This will add the trigger to the workflow and display a webhook URL. Copy this URL and we'll return to our Twilio Console to enable the Deepgram add-on.
 
-![Pipedream new webhook trigger](./pipedream-new-webhook-trigger.webp)
+![Pipedream new webhook trigger](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/pipedream-new-webhook-trigger.webp)
 
 #### Enabling the Deepgram Addon for Twilio
 
@@ -84,13 +84,13 @@ On the "Configure" tab, make the following configurations:
 
 Finally, click the "Save" button. Your configuration should look like this:
 
-![Twilio Deepgram Enhanced Transcription Add-on configuration](./twilio-deepgram-enhanced-add-on-configuration.webp)
+![Twilio Deepgram Enhanced Transcription Add-on configuration](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813646/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/twilio-deepgram-enhanced-add-on-configuration_p2g3kr.webp)
 
 #### Testing the Webhook Trigger
 
 We can't continue building out our Pipedream workflow until we know what type of data we'll receive from Twilio. Place a call to your Twilio phone number and leave a message. Then open the Pipedream workflow. You should see a new event in the "Results" section of the webhook trigger. Click on the event to view the data.
 
-![Pipedream new webhook received](./pipedream-new-webhook-received.webp)
+![Pipedream new webhook received](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/pipedream-new-webhook-received_dt6ggq.webp)
 
 ### Parsing the Webhook Payload
 
@@ -109,7 +109,7 @@ export default defineComponent({
 
 This code will parse the `AddOns` property of the webhook payload and return the resulting JavaScript object. Click the "Test" button to save the step. At this point, your workflow should look like this:
 
-![Pipedream new Node step](./pipedream-new-node-step.webp)
+![Pipedream new Node step](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/pipedream-new-node-step_jisayn.webp)
 
 ### Requesting the Transcription Data
 
@@ -123,7 +123,7 @@ Requests to the Twilio API must be authenticated. In the "Authentication" sectio
 
 Then press the "Test" button to save the step. After that request returns, you should see the Deepgram transcription results in the "Results" section of the step.
 
-![Pipedream HTTP request result](./pipedream-web-request-result.webp)
+![Pipedream HTTP request result](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813645/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/pipedream-web-request-result_xrviuu.webp)
 
 ### Sending the Transcript as an Email
 
@@ -135,7 +135,7 @@ The "Body" of the email will be the transcript. Enter `{{steps.custom_request.$r
 
 Press the "Test" button to save the step. You should receive an email to the email address associated with your Pipedream account with the transcript included.
 
-![Email of the transcribed voicemail](./transcript-email.webp)
+![Email of the transcribed voicemail](https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1668813646/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/transcript-email_iubwmd.webp)
 
 ## Conclusion
 
