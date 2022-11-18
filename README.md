@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BlazingAmorphousNeanderthalBlargNaut-rsSl1GjliH0An5fY" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1103821159-preview-480x272.jpg" alt="BBB is building Tinder for VS Code themes!"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
   </tr>
