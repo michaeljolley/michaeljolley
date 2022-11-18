@@ -3,13 +3,13 @@ function SocialSharing(props) {
 	const { title, description, tags, permalink } = props;
 
 	const fbLink = `https://www.facebook.com/sharer/sharer.php?u=${permalink}&title=${title}&description=${description}&quote=${description}&hashtag=%23${tags.join(',%23')}`;
-	const twLink = `https://twitter.com/intent/tweet?text=${title}&url=${permalink}&hashtags=${tags.join(',')}&via=baldbeardbuild`;
+	const twLink = `https://twitter.com/intent/tweet?text=${title}&url=${permalink}&hashtags=${tags.join(',')}&via=michaeljolley`;
 	const rdLink = `https://www.reddit.com/submit?url=${permalink}&title=${title}`;
 	const liLink = `https://www.linkedin.com/sharing/share-offsite/?url=${permalink}`;
 
 	const openSocial = (e, network) => {
 		e.preventDefault();
-		let socialUrl="";
+		let socialUrl = "";
 		switch (network) {
 			case 'twitter':
 				socialUrl = twLink;

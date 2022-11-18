@@ -66,4 +66,4 @@ I'm not using a ton of software, but here's the rundown:
 
 That's the current run-down. I hope to expound more on my findings as I work to improve the audio/video production of the stream so future streamers can get there faster. In all, I've really enjoyed live-coding on stream. More than anything I've really gotten a lot from the relationships formed and am constantly amazed at the friendliness &amp; helpfulness of all those involved.
 
-Got any suggestions to improve my stream or other hardware/audio/video ideas? Leave me a comment or find me on Twitter [@baldbeardbuild](https://twitter.com/baldbeardbuild) or Twitch [baldbeardedbuilder](https://twitch.tv/BaldBeardedBuilder).
+Got any suggestions to improve my stream or other hardware/audio/video ideas? Leave me a comment or find me on Twitter [@michaeljolley](https://twitter.com/michaeljolley) or Twitch [baldbeardedbuilder](https://twitch.tv/BaldBeardedBuilder).

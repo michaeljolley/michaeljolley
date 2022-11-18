@@ -88,4 +88,4 @@ Once you're in, I highly recommend using the steps above to expand your bubble
 and amplify the amazing content you find.
 
 How do you actively combat your unconscious biases? Hit me up on
-[Twitter](https://twitter.com/baldbeardbuild) and let me know.
+[Twitter](https://twitter.com/michaeljolley) and let me know.

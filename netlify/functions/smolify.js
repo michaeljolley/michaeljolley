@@ -1,4 +1,4 @@
-import { Client, query } from 'faunadb';
+const { Client, query } = require('faunadb')
 require('dotenv').config()
 
 const client = new Client({
