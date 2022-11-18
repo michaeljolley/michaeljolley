@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
+      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
   </tr>
