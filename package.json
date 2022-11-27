@@ -30,6 +30,7 @@
     "lodash": "^4.17.21",
     "mustache": "^4.2.0",
     "netlify-cli": "^12.2.7",
+    "netlify-plugin-cache-folder": "^0.0.8",
     "node-html-parser": "^6.1.4",
     "prettier": "^2.8.0",
     "prettier-plugin-astro": "^0.7.0",
