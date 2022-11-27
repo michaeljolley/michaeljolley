@@ -3,8 +3,8 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-07-18
 title: "Creating Short URLs with Netlify Functions and FaunaDb"
 description: Creating a personalized short URL service using Netlify functions and FaunaDb.
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669587484/blog/using-netlify-functions-faunadb-for-short-urls/netlify-fauna_icpva9.png
+image_alt: Michaels office with Netlify and Fauna logos
 tags: ["netlify", "faunadb", "serverless"] 
 category: Tutorials
 summary: Personalized short URLs are cool. So I decided to see if I could use a serverless function to do it for me.

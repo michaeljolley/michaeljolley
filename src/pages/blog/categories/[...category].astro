@@ -65,7 +65,7 @@ const title = `Writings About ${latestPost.category}`;
   >
     <div>
       <div>
-        <div>
+        <a href={latestPost.url}>
           <h1>Latest {latestPost.category} Post</h1>
           <section>
             <img src={latestPost.image} alt={latestPost.imageAlt} />
@@ -79,7 +79,7 @@ const title = `Writings About ${latestPost.category}`;
               />
             </aside>
           </section>
-        </div>
+        </a>
       </div>
     </div>
   </Panel>
@@ -106,7 +106,7 @@ const title = `Writings About ${latestPost.category}`;
         @apply w-full;
         @apply lg:max-w-4xl xl:max-w-6xl;
 
-        > div {
+        > a {
           @apply flex flex-col items-center;
           @apply w-full;
 

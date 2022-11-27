@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-03-12
 title: 'Using Apollo to Query GraphQL from Node.js'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586325/blog/using-apollo-to-query-graph-ql-from-node-js/cover-image_wv8ags.png
+image_alt: Node.js, Apollo, and GraphQL logos
 description: In this tutorial, we will use the apollo-client NPM package within Node.js to query and mutate third-party GraphQL endpoints.
 tags: [apollo, nodejs, graphql, opentok, vonage-video-api]
 category: Tutorials

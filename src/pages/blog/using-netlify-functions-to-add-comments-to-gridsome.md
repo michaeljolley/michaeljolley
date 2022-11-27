@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-06-14
 title: 'Using Netlify Functions to Add Comments to Gridsome'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586486/blog/using-netlify-functions-to-add-comments-to-gridsome/cover-image_vmjm5a.png
+image_alt: Terminal window with the title of the post and the Netlify and Gridsome logos
 description: Netlify provides serverless functions to process information, while Gridsome provides a Vue.js based static-site generation. In this post we combine the two allowing visitors to leave comments on our posts.
 tags: [netlify, gridsome, functions, serverless, vuejs]
 category: Tutorials

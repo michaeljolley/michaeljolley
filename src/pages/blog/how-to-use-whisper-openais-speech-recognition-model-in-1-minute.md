@@ -3,8 +3,8 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-09-29
 title: "Try Whisper: OpenAI's Speech Recognition Model in 1 Minute"
 description: Deepgram has made testing OpenAI's new open-sourced Whisper speech recognition model easy as copy and paste. Try it today!
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586133/blog/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/2209-How-to-Use-Whisper-blog_2x_qb1eah_ofhvpw.webp
+image_alt: Stopwatch set to one minute and the Deepgram and OpenAI logos
 tags: ["machine-learning", "whisper", "openai"] 
 category: Tutorials
 summary: Deepgram has made testing OpenAI's new open-sourced Whisper speech recognition model easy as copy and paste.

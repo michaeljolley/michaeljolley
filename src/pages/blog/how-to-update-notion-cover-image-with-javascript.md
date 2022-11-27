@@ -3,8 +3,8 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-05-02
 title: Updating Notion Cover Images with Pipedream and JavaScript
 description: Using JavaScript and Pipedream to automate changing my Notion cover image each night.
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: 
+image_alt: 
 tags: ["notion", "javascript", "pipedream"] 
 category: Tutorials
 summary: Using JavaScript and Pipedream to automate changing my Notion cover image each night.

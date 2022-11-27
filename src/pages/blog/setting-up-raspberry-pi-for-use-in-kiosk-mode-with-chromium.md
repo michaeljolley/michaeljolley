@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2018-11-13
 title: 'Setting up Raspberry Pi for use in kiosk mode with Chromium'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586288/blog/setting-up-raspberry-pi-for-use-in-kiosk-mode-with-chromium/48371127-af891880-e680-11e8-89aa-2dec4de4ef8a_xwpry3_jmkrsn.jpg
+image_alt: Raspberry Pi and Chromium logos
 description: Using Chromium on a Raspberry Pi to provide a kiosk experience for users.
 tags: [raspberry-pi, iot]
 category: Tutorials

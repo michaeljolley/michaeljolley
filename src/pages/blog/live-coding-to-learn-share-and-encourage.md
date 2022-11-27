@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-04-12
 title: 'Live-Coding to Learn, Share and Encourage'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586200/blog/live-coding-to-learn-share-and-encourage/cover-image_ou9x6t.png
+image_alt: Various images during streams through 2020
 description: A reflection on one year of coding live on Twitch to learn new technologies, share what I know, and encourage others to grow personally & professionally.
 tags: [live, coding, teach, twitch, learn]
 category: Developer Life

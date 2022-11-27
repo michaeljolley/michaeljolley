@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2018-11-10
 title: 'Automating release notes with GitHub, AppVeyor and Octopus Deploy'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585495/blog/automating-release-notes-with-git-hub-app-veyor-and-octopus-deploy/48307028-d709a500-e509-11e8-9bd6-b7cd12cbce90_qlqkfx_kmf3dk.jpg
+image_alt: Burger pic with Powershell, AppVeyor, Octopus Deploy and GitHub logos.
 description: Utilizing a custom PowerShell script to generate deployment release notes with GitHub, AppVeyor & Octopus Deploy
 tags: [devops, appveyor, octopus-deploy]
 category: Tutorials

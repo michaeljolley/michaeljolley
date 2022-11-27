@@ -1,8 +1,8 @@
 ---
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-11-18
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
+image_alt: Twilio & Pipedream logos with Phonecall turning into text
 title: How to Email Phone Call Transcripts with Twilio Studio and Pipedream
 description: Learn how to build a workflow that allows people to call & leave a message that will automatically be transcribed and emailed, using Twilio Studio, Pipedream, and Deepgram.
 tags: ["twilio", "pipedream"] 

@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-02-23
 title: 'Current Twitch live-coding stream setup'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585907/blog/current-twitch-live-coding-stream-setup/53290137-aa4e6600-3765-11e9-8115-961de3633562_mxq7og_mswtoq.jpg
+image_alt: Old BBB logo
 description: Hardware & software setup for live-coding streams
 tags: [twitch, stream, setup]
 category: Developer Life

@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-12-24
 title: Choosing Between Blazor Server or WebAssembly
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585696/blog/choosing-between-blazor-server-or-web-assembly/cover_fkbwo8.png
+image_alt: Picture of Michael in his office with the words Server? WASM?
 description: What are the differences between Blazor Server and WebAssembly (WASM)? When should you use each and why?
 tags: [blazor, csharp, wasm, server, dotnet, aspnet]
 category: Tutorials

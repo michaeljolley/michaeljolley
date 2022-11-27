@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-05-13
-title: 'Adding command aliases to PowerShell'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+title: 'Adding command aliases to Powershell'
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585413/blog/adding-command-aliases-to-power-shell/57646611-96591a00-7586-11e9-8b7a-68f7736e2c28_vc6upr_j5me5q.jpg
+image_alt: Powershell terminal with the devtools module logo.
 description: How to make your life easier by adding aliases for commands you run frequently in PowerShell.
 tags: [powershell, alias]
 category: Tutorials

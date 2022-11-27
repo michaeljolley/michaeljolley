@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2021-01-18
 title: 'Adiós 2020. Setting Goals for 2021.'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586065/blog/goals-for-2021/cover_tgzhck.png
+image_alt: Michaels office with social logos
 description: 2020 was a rough year for everyone. Let's look back at my start of the year goals and see how I did and then set goals for 2021.
 tags: [review, goals, planning]
 category: Developer Life

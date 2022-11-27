@@ -3,8 +3,8 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-03-10
 title: Building 404 Pages That Bring Joy
 description: How we transformed the bad experience of landing on a 404 page into an enjoyable experience with a game.
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585549/blog/building-404-pages-that-bring-joy/Turning-Our-404-Page-Into-a-Game_2x_f4bhg4.webp
+image_alt: Old computer terminal with 404 text
 tags: ["developer-experience", "nuxtjs"] 
 category: Tutorials
 summary: How we transformed the bad experience of landing on a 404 page into an enjoyable experience with a game.

@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-01-13
 title: 'Using AutoMapper with ASP.NET Core 3'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586378/blog/using-auto-mapper-with-asp-net-core-3/cover-image_e3xnol.png
+image_alt: Catepillar turning into butterfly with the .NET Core and AutoMapper logos
 description: How to map objects to one another in ASP.NET Core 3 applications with AutoMapper.
 tags: [csharp, automapper, dotnet, aspnetcore]
 category: Tutorials

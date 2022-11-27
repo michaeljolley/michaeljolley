@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-07-03
 title: 'Using SQL Server in Docker containers for basic tasks'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586584/blog/using-sql-server-in-docker-containers-for-basic-tasks/60616825-fbb3d500-9d97-11e9-8214-d3b90aecafe9_ebpx8l_cuu00x.jpg
+image_alt: Terminal window with Docker, Linux and SQL Server logos
 description: Don't want to install SQL instances on your personal or work machine?  No problem, because you no longer need to.  Let's learn how to spin up a Docker container and access it with SQL Management Studio.
 tags: [docker, sql, linux, devops]
 category: Tutorials

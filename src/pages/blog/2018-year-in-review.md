@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-01-01
 title: 'Reviewing 2018 and plans for 2019'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585327/blog/2018-year-in-review/50575938-07184a80-0dcd-11e9-998f-59865d568263_cckgjo_x6ghr8.jpg
+image_alt: Fireworks with Michael's head and a Happy New Year cap.
 description: Looking back at 2018 and setting goals for 2019.
 tags: [review]
 category: Developer Life

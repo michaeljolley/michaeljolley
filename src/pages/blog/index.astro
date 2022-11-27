@@ -61,7 +61,7 @@ const devlifePosts = posts
   >
     <div>
       <div>
-        <div>
+        <a href={latestPost.url}>
           <h1>Latest Post</h1>
           <section>
             <img src={latestPost.image} alt={latestPost.imageAlt} />
@@ -75,7 +75,7 @@ const devlifePosts = posts
               />
             </aside>
           </section>
-        </div>
+        </a>
       </div>
     </div>
   </Panel>
@@ -113,7 +113,7 @@ const devlifePosts = posts
         @apply w-full;
         @apply lg:max-w-4xl xl:max-w-6xl;
 
-        > div {
+        > a {
           @apply flex flex-col items-center;
           @apply w-full;
 

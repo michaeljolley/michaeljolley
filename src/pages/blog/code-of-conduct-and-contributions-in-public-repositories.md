@@ -2,8 +2,8 @@
 layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-05-20
 title: 'Using a CONTRIBUTING & CODE_OF_CONDUCT to assist others in contributing to public repositories'
-image: https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png
-image_alt: Twilio and Pipedream logos with a phone ringing
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585740/blog/code-of-conduct-and-contributions-in-public-repositories/58047500-f400df80-7b0d-11e9-917c-b4b1cd4a8d2b_b3iim4_ieutfd.jpg
+image_alt: Girl with a laptop sitting in front of brick wall
 description: Helping other contribute to public repositories on GitHub by providing contributing and code of conduct guidelines.
 tags: [github, contributions, code-of-conduct]
 category: Developer Life
