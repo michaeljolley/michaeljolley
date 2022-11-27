@@ -1,10 +1,11 @@
-const Parser = require('rss-parser');
-const Mustache = require('mustache');
-const fs = require('fs/promises');
-const matter = require('gray-matter');
-const qs = require('querystring');
-const axios = require('axios');
-require('dotenv').config();
+import Parser from 'rss-parser';
+import Mustache from 'mustache';
+import fs from 'fs/promises';
+import matter from 'gray-matter';
+import qs from 'querystring';
+import axios from 'axios';
+import dotenv from 'dotenv';
+dotenv.config();
 
 async function main() {
 	try {
