@@ -1,0 +1,94 @@
+---
+import Icon from "./Icon.astro";
+
+const { title, description, tags, permalink } = Astro.props;
+---
+
+<section>
+  <aside>
+    <div><span>Share</span><Icon icon="ArrowDown" class={"w-4"} /></div>
+    <ul>
+      <li>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${title}&url=${permalink}&hashtags=${
+            tags ? tags.join(",") : ""
+          }&via=michaeljolley`}
+          title="Share on Twitter"
+          target="_blank"
+          ><span>Twitter</span><Icon icon="Twitter" class={"w-4"} />
+        </a>
+      </li>
+      <li>
+        <a
+          href={`https://www.linkedin.com/sharing/share-offsite/?url=${permalink}`}
+          title="Share on LinkedIn"
+          target="_blank"
+          ><span>LinkedIn</span><Icon icon="LinkedIn" class={"w-4"} />
+        </a>
+      </li>
+      <li>
+        <a
+          href={`https://www.facebook.com/sharer/sharer.php?u=${permalink}&title=${title}&description=${description}&quote=${description}&hashtag=%23${
+            tags ? tags.join(",%23") : ""
+          }`}
+          title="Share on Facebook"
+          target="_blank"
+          ><span>Facebook</span><Icon icon="Facebook" class={"w-4"} />
+        </a>
+      </li>
+      <li>
+        <a
+          href={`https://www.reddit.com/submit?url=${permalink}&title=${title}`}
+          title="Share on Reddit"
+          target="_blank"
+          ><span>Reddit</span><Icon icon="Reddit" class={"w-4"} />
+        </a>
+      </li>
+    </ul>
+  </aside>
+</section>
+
+<style lang="scss">
+  section {
+    @apply flex flex-col;
+
+    div {
+      @apply flex justify-between items-center;
+      @apply bg-pink text-white;
+      @apply px-5 py-3;
+      @apply font-bold;
+      @apply w-40;
+      @apply cursor-pointer;
+    }
+    ul {
+      @apply hidden flex-col;
+      @apply absolute;
+
+      li {
+        @apply w-40;
+        @apply bg-pinkTransparent;
+        @apply px-5 py-3;
+        @apply font-bold;
+
+        &:hover {
+          @apply bg-white;
+          a {
+            @apply text-pink fill-pink;
+          }
+        }
+
+        a {
+          @apply flex justify-between items-center text-white fill-white;
+        }
+      }
+    }
+    aside,
+    ul {
+      &:hover {
+        ul {
+          @apply flex;
+        }
+      }
+    }
+  }
+</style>

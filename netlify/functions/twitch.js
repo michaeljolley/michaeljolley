@@ -1,8 +1,37 @@
-const qs = require('querystring')
-const axios = require('axios')
-require('dotenv').config()
+import { Context } from "https://edge.netlify.com";
+import qs from "querystring";
+import axios from "axios";
+import dotenv from "dotenv";
+dotenv.config();
 
-exports.handler = async (event, context, callback) => {
+export default async (request, context) => {
+
+  console.log("Check streaming status");
+
+  const response = await context.next();
+  const page = await response.text();
+
+  // Search for the placeholder
+  const regex = /<!-- TWITCH_STATUS -->/i;
+
+  // Replace the content
+  let twitchEmbed = "";
+
+  const isLive = await isLiveOnTwitch();
+  if (!isLive) {
+    twitchEmbed = `<div class="twitchEmbed">
+      <iframe
+        src="https://player.twitch.tv/?channel=baldbeardedbuilder&parent=baldbeardedbuilder.com&autoplay=true"
+        scrolling="no" allow="autoplay" allowfullscreen="false">
+      </iframe>
+    </div>`;
+  }
+
+  const updatedPage = page.replace(regex, twitchEmbed);
+  return new Response(updatedPage, response);
+};
+
+const isLiveOnTwitch = async () => {
   const opts = {
     client_id: process.env.TWITCH_CLIENT_ID,
     client_secret: process.env.TWITCH_CLIENT_SECRET,
@@ -27,12 +56,5 @@ exports.handler = async (event, context, callback) => {
     }
   )
 
-  callback(null, {
-    statusCode: 200,
-    headers: {
-      'Content-Type': 'application/json',
-      'Cache-Control': 'max-age=1800, immutable',
-    },
-    body: JSON.stringify({ isOnline: !!streams.length }),
-  })
+  return !!streams.length
 }

@@ -1,0 +1,11 @@
+---
+export interface Props {
+  content?: string | URL;
+  name?: string;
+  property?: string;
+  charset?: string;
+}
+const { content, ...rest } = Astro.props;
+---
+
+<meta {...rest} content={content} />

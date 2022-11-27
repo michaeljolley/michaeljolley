@@ -1,0 +1,64 @@
+---
+import Avatars from "./Avatars.astro";
+import ImageSrcSet from "./ImageSrcSet.astro";
+import Panel from "./Panel.astro";
+
+const { post } = Astro.props;
+const { title, description, path, image, imageAlt, mentions } = post;
+---
+
+<Panel class="latest-post bg-gradient-to-b from-pink to-pinkTransparent">
+  <section>
+    <h2>Latest Post</h2>
+    <a href={path}>
+      <ImageSrcSet filename={image} alt={imageAlt} />
+      <aside>
+        <h3>
+          {title}
+        </h3>
+        <p>
+          {description}
+        </p>
+        <Avatars
+          displayMessage={true}
+          displayQuantity={8}
+          mentions={mentions}
+        />
+      </aside>
+    </a>
+  </section>
+</Panel>
+
+<style lang="scss">
+  .latest-post {
+    > section {
+      @apply flex flex-col gap-8;
+      @apply text-white font-raleway;
+      @apply mx-auto;
+      @apply px-8 lg:px-4;
+      @apply w-full;
+      @apply lg:max-w-4xl xl:max-w-6xl;
+      @apply my-12;
+
+      h2 {
+        @apply font-bold font-worksans;
+        @apply text-3xl sm:text-4xl xl:text-5xl;
+      }
+
+      a {
+        @apply grid gap-8 grid-cols-1 md:grid-cols-2;
+
+        img {
+          @apply shadow-2xl;
+        }
+
+        aside {
+          @apply flex flex-col gap-2;
+          h3 {
+            @apply font-bold font-worksans text-2xl xl:text-4xl;
+          }
+        }
+      }
+    }
+  }
+</style>

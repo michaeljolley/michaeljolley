@@ -1,36 +1,171 @@
 ---
-import Layout from '../../layouts/Default.astro'
-import BlogCard from '../../components/BlogCard.astro';
-import Topper from '../../components/Topper.astro';
+import Layout from "../../layouts/Default.astro";
+import Panel from "../../components/Panel.astro";
+import CardList from "../../components/CardList.astro";
+import Avatars from "../../components/Avatars.astro";
+import { getMentions } from "../../scripts/webmentions";
+import Icon from "../../components/Icon.astro";
 
-let title = "I'm Still Learning. Then Writing About It.";
-let description = 'All blog posts written by Michael Jolley';
-let permalink = 'https://baldbeardedbuilder.com/blog/';
-let tags = ['dotnet', 'javascript', 'developer-experience', 'learn-in-public'];
+let title = "Michael Jolley is the Bald Bearded Builder";
+let description =
+  "Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.";
+let permalink = "https://baldbeardedbuilder.com/";
+let tags = ["dotnet", "javascript", "developer-experience", "learn-in-public"];
 
-const allPosts = await Astro.glob('../../content/blog/**/*.md');
-const sortedPosts = allPosts.filter(f => !f.frontmatter.draft || f.frontmatter.draft !== true)
-                            .sort((a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate));
+const allPosts = await Astro.glob("./*.md");
+const sortedPosts = allPosts
+  .filter((f) => !f.frontmatter.draft || f.frontmatter.draft !== true)
+  .sort(
+    (a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate)
+  );
+
+const latestPostRaw = sortedPosts.splice(0, 1)[0];
+const latestMentions = await getMentions(latestPostRaw.url);
+const latestPost = {
+  title: latestPostRaw.frontmatter.title,
+  path: latestPostRaw.url,
+  description: latestPostRaw.frontmatter.description,
+  date: latestPostRaw.frontmatter.pubDate,
+  image: latestPostRaw.frontmatter.image,
+  imageAlt: latestPostRaw.frontmatter.image_alt,
+  mentions: latestMentions,
+};
+
+const posts = await Promise.all(
+  sortedPosts.map(async (post) => {
+    const mentions = await getMentions(post.url);
+    return {
+      title: post.frontmatter.title,
+      path: post.url,
+      description: post.frontmatter.description,
+      date: post.frontmatter.pubDate,
+      image: post.frontmatter.image,
+      imageAlt: post.frontmatter.image_alt,
+      category: post.frontmatter.category,
+      mentions,
+    };
+  })
+);
+
+const tutorialPosts = posts
+  .filter((p) => p.category === "Tutorials")
+  .slice(0, 6);
+const devlifePosts = posts
+  .filter((p) => p.category === "Developer Life")
+  .slice(0, 6);
 ---
 
 <Layout {title} {description} {permalink} {tags}>
-  <article>
-    <Topper>
-      <h1>I'm Still <span>Learning</span>.</h1>
-      <p>After 22 years, the only thing I know for sure is there's a ton I don't 
-        know. Here are some things I've picked up over the years. Hopefully they
-        help.</p>
-    </Topper>
-    <div class="cardList full">
-      <ul>
-				{
-					sortedPosts.map((post) => 
-						<li>
-							<BlogCard post={post} />
-						</li>
-					)
-				}
-      </ul>
+  <Panel
+    class="top-panel bg-gradient-to-b from-darkBlue to-darkBlueTransparent"
+  >
+    <div>
+      <div>
+        <div>
+          <h1>Latest Post</h1>
+          <section>
+            <img src={latestPost.image} alt={latestPost.imageAlt} />
+            <aside>
+              <h2>{latestPost.title}</h2>
+              <p>{latestPost.description}</p>
+              <Avatars
+                displayMessage={true}
+                mentions={latestPost.mentions}
+                displayQuantity={10}
+              />
+            </aside>
+          </section>
+        </div>
+      </div>
     </div>
-  </article>
+  </Panel>
+
+  <section class="cards">
+    <header>
+      <h2>Tutorials</h2>
+      <a href="/blog/categories/tutorials/">View All <Icon icon="Arrow" /></a>
+    </header>
+    <CardList items={tutorialPosts} alt={false} />
+  </section>
+
+  <section class="cards">
+    <header>
+      <h2>Developer Life</h2>
+      <a href="/blog/categories/developer-life/"
+        >View All <Icon icon="Arrow" />
+      </a>
+    </header>
+    <CardList items={devlifePosts} alt={false} />
+  </section>
 </Layout>
+
+<style lang="scss">
+  .top-panel {
+    > div {
+      @apply mb-24;
+
+      > div {
+        @apply flex justify-end;
+        @apply pt-12 xl:pt-24;
+        @apply text-white font-raleway;
+        @apply mx-auto;
+        @apply px-8 lg:px-4;
+        @apply w-full;
+        @apply lg:max-w-4xl xl:max-w-6xl;
+
+        > div {
+          @apply flex flex-col items-center;
+          @apply w-full;
+
+          h1 {
+            @apply font-worksans font-bold text-5xl xl:text-7xl;
+            @apply mb-12;
+            span {
+              @apply text-pink;
+            }
+          }
+          section {
+            @apply grid gap-8 grid-cols-1 md:grid-cols-2;
+            img {
+            }
+            aside {
+              @apply flex flex-col;
+              h2 {
+                @apply font-worksans font-bold text-2xl xl:text-4xl;
+              }
+              p {
+                @apply my-3 xl:my-4;
+                @apply w-4/5 text-sm xl:text-base;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .cards {
+    @apply flex flex-col;
+    @apply my-16 md:my-24 mx-auto;
+    @apply px-4;
+    @apply w-full;
+    @apply lg:max-w-4xl xl:max-w-6xl;
+
+    header {
+      @apply flex justify-between items-center;
+      @apply border-b border-dashed border-pink;
+      @apply mb-4;
+      h2 {
+        @apply font-bold font-worksans text-pink;
+        @apply text-3xl sm:text-4xl xl:text-5xl;
+      }
+      a {
+        @apply flex flex-row;
+        @apply text-pink font-worksans font-bold;
+        svg {
+          @apply ml-2 w-3;
+        }
+      }
+    }
+  }
+</style>

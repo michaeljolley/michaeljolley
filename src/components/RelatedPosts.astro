@@ -1,5 +1,5 @@
 ---
-import BlogCard from './BlogCard.astro';
+import BlogCard from "./BlogCard.astro";
 
 const { post } = Astro.props;
 const relatedPosts = [];
@@ -10,25 +10,21 @@ const relatedPosts = [];
 //                               f.frontmatter.tags.find(t => post.frontmatter.tags.find(p => p === t))
 //                             )
 //                             .slice(0, 3);
-
 ---
 
-{ relatedPosts.length > 0 && (
-
-<section class="relatedPosts">
-	<div class="cardList">
-		<h2>Related Posts</h2>
-		<ul>
-			{
-			relatedPosts.map((post) =>
-			<li>
-				<BlogCard post={post} />
-			</li>
-			)
-			}
-		</ul>
-	</div>
-</section>
-
-)
+{
+  relatedPosts.length > 0 && (
+    <section class="relatedPosts">
+      <div class="cardList">
+        <h2>Related Posts</h2>
+        <ul>
+          {relatedPosts.map((post) => (
+            <li>
+              <BlogCard post={post} />
+            </li>
+          ))}
+        </ul>
+      </div>
+    </section>
+  )
 }

@@ -1,70 +1,90 @@
 ---
-import '../styles/main.scss';
-import titleCase from 'ap-style-title-case'
+import Meta from "./meta/Meta.astro";
+import Link from "./meta/Link.astro";
 
-export interface Props {
-	title: string;
-	description: string;
-	permalink: string;
-	tags: string[];
-  canonicalUrl?: string;
-}
-const { title, description, permalink, tags, canonicalUrl } = Astro.props;
-const keywords = tags.join(',');
-
-const titleString = `/l_text:Cairo_56_bold_line_spacing_-45:${encodeURI(titleCase(title))},g_north_west,x_65,y_255,w_900,c_fit,co_rgb:FFFFFF`;
-const tagString = tags ? `/l_text:Cairo_24_regular_letter_spacing_4:${tags.map((t) => `%23${t.toLowerCase()}`).join('%20')},g_north_west,x_65,y_215,co_rgb:0AC2C2` : '';
-
-const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tagString}${titleString}/ograph-base.png`
+const title = "Michael Jolley is the Bald Bearded Builder";
+const description =
+  "Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.";
+const ograph =
+  "https://res.cloudinary.com/dk3rdh3yo/image/upload/w_auto,c_scale/v1669516284/blog/email-phone-call-transcripts-with-twilio-studio-and-pipedream/m_lxbxkr.png";
 ---
 
 <!-- Global Metadata -->
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="/mstile-150x150.png">
-<meta name="theme-color" content="#ffffff">
-<meta name="robots" content="index, follow">
-<link rel="manifest" href="/site.webmanifest">
+<Meta charset="utf-8" />
+<Meta
+  name="viewport"
+  content="width=device-width,initial-scale=1,viewport-fit=cover"
+/>
+<Link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<Link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<Link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<Link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+<Meta name="msapplication-TileColor" content="#ffffff" />
+<Meta name="msapplication-TileImage" content="/mstile-150x150.png" />
+<Meta name="theme-color" content="#ffffff" />
+<Meta name="robots" content="index, follow" />
+<Link rel="manifest" href="/site.webmanifest" />
 
 <!-- Primary Meta Tags -->
-<title>{title}</title>
-<meta name="title" content={title} />
-<meta name="description" content={description} />
-<meta name="keywords" content={keywords} />
+<slot name="head:title">
+  <title>{title}</title>
+  <meta name="title" content={title} />
+</slot>
+<slot name="head:description">
+  <meta name="description" content={description} />
+</slot>
+<slot name="head:canonical" />
 
 <!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content={permalink} />
-<meta property="og:title" content={title} />
-<meta property="og:description" content={description} />
-<meta property="og:image" content={ograph} />
+<slot name="head:og">
+  <Meta property="og:url" content={Astro.url} />
+  <Meta property="og:title" content={title} />
+  <Meta property="og:description" content={description} />
+  <Meta property="og:image" content={ograph} />
+  <Meta property="og:image:alt" content={description} />
+</slot>
+<Meta property="og:type" content="website" />
+<Meta property="og:locale" content="en_US" />
+<Meta property="og:type" content="website" />
+<Meta property="og:image:type" content="image/png" />
+<Meta property="og:image:width" content="1200" />
+<Meta property="og:image:height" content="600" />
 
 <!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={permalink} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={ograph} />
+<slot name="head:og:twitter">
+  <Meta property="twitter:url" content={Astro.url} />
+  <Meta property="twitter:title" content={title} />
+  <Meta property="twitter:description" content={description} />
+  <Meta property="twitter:image" content={ograph} />
+</slot>
+<Meta property="twitter:card" content="summary_large_image" />
+<Meta property="twitter:site" content="@michaeljolley" />
 
 <!-- Fonts & Images -->
-<link rel="dns-prefetch" href="//res.cloudinary.com">
-<link rel="preconnect" href="https://res.cloudinary.com">
-<link rel="prerender" href="https://baldbeardedbuilder.com/blog/">
+<link rel="dns-prefetch" href="//res.cloudinary.com" />
+<link rel="preconnect" href="https://res.cloudinary.com" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Work+Sans:wght@700&display=swap"
+  rel="stylesheet"
+/>
 
 <!-- Feeds -->
-<link rel="alternative" type="application/rss+xml" href="/feed.xml" title="RSS">
+<Link rel="sitemap" href="/sitemap-index.xml" />
+<Link
+  rel="alternative"
+  type="application/rss+xml"
+  href="/rss.xml"
+  title="RSS"
+/>
 
 <!-- Web Mentions -->
-<link rel="webmention" href="https://webmention.io/baldbeardedbuilder.com/webmention" />
-<link rel="pingback" href="https://webmention.io/baldbeardedbuilder.com/xmlrpc" />
-
-{
-  canonicalUrl &&
-  <!-- Canonical link -->
-  <link rel="canonical" href={canonicalUrl} />
-}
+<link
+  rel="webmention"
+  href="https://webmention.io/baldbeardedbuilder.com/webmention"
+/>
+<link
+  rel="pingback"
+  href="https://webmention.io/baldbeardedbuilder.com/xmlrpc"
+/>

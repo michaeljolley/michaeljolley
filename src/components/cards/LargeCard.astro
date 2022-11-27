@@ -1,0 +1,52 @@
+---
+import Avatars from "../Avatars.astro";
+import ImageSrcSet from "../ImageSrcSet.astro";
+
+export interface Props {
+  title: string;
+  description: string;
+  mentions: Array<any>;
+  path: string | URL;
+  image: string;
+  imageAlt: string;
+  displayQuantity: number;
+}
+
+const {
+  title,
+  description,
+  mentions,
+  path,
+  image,
+  imageAlt,
+  displayQuantity,
+  ...rest
+} = Astro.props as Props;
+---
+
+<a href={path} {...rest}>
+  <ImageSrcSet filename={image} alt={imageAlt} />
+  <h3>{title}</h3>
+  <p>{description}</p>
+  <Avatars mentions={mentions} displayQuantity={displayQuantity} />
+</a>
+
+<style lang="scss">
+  a {
+    @apply bg-gray-100;
+    @apply border border-gray-100;
+    @apply shadow-xl;
+    @apply flex flex-col gap-2;
+    @apply p-3;
+    h3 {
+      @apply font-worksans font-bold text-2xl;
+    }
+    p {
+      @apply font-raleway text-base;
+    }
+
+    &:hover {
+      @apply bg-darkBlueLighter;
+    }
+  }
+</style>
