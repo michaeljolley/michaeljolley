@@ -5,7 +5,7 @@ import sitemap from "@astrojs/sitemap";
 import preact from "@astrojs/preact";
 
 export default defineConfig({
-  site: process.env.DEPLOY_URL,
+  site: 'https://baldbeardedbuilder.com',
   integrations: [
     preact(),
     sitemap({
