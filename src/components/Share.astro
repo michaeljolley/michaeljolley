@@ -1,7 +1,7 @@
 ---
 import Icon from "./Icon.astro";
 
-const { title, description, tags, permalink } = Astro.props;
+const { title, summary, tags, url: permalink } = Astro.props;
 ---
 
 <section>
@@ -28,7 +28,7 @@ const { title, description, tags, permalink } = Astro.props;
       </li>
       <li>
         <a
-          href={`https://www.facebook.com/sharer/sharer.php?u=${permalink}&title=${title}&description=${description}&quote=${description}&hashtag=%23${
+          href={`https://www.facebook.com/sharer/sharer.php?u=${permalink}&title=${title}&description=${summary}&quote=${summary}&hashtag=%23${
             tags ? tags.join(",%23") : ""
           }`}
           title="Share on Facebook"

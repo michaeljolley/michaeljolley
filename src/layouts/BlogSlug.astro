@@ -7,8 +7,16 @@ import Share from "../components/Share.astro";
 import ImageSrcSet from "../components/ImageSrcSet.astro";
 
 const { frontmatter } = Astro.props;
-const { title, description, summary, url, image, image_alt, canonical_url } =
-  frontmatter;
+const {
+  title,
+  description,
+  tags,
+  summary,
+  url,
+  image,
+  image_alt,
+  canonical_url,
+} = frontmatter;
 
 const mentions = await getMentions(url);
 ---
@@ -29,7 +37,7 @@ const mentions = await getMentions(url);
             displayLink={true}
           />
         </aside>
-        <aside><Share {title} /></aside>
+        <aside><Share {title} {summary} {url} {tags} /></aside>
       </section>
     </div>
   </Panel>
