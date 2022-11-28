@@ -4,7 +4,6 @@ import Panel from "../../../components/Panel.astro";
 import CardList from "../../../components/CardList.astro";
 import Avatars from "../../../components/Avatars.astro";
 import { getMentions } from "../../../scripts/webmentions";
-import Icon from "../../../components/Icon.astro";
 
 export async function getStaticPaths() {
   const allPosts = await Astro.glob("../*.md");

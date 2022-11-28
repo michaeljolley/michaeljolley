@@ -2,6 +2,8 @@
 import BaseHead from "../components/BaseHead.astro";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
+
+const { title, description, tags, canonicalUrl } = Astro.props;
 ---
 
 <style lang="scss">
@@ -27,7 +29,7 @@ import Footer from "../components/Footer.astro";
 
 <html class="no-js" lang="en" dir="ltr">
   <head>
-    <BaseHead />
+    <BaseHead {title} {description} {tags} {canonicalUrl} />
   </head>
   <body>
     <Header />

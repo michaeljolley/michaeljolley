@@ -15,13 +15,13 @@ const {
   url,
   image,
   image_alt,
-  canonical_url,
+  canonical_url: canonicalUrl,
 } = frontmatter;
 
 const mentions = await getMentions(url);
 ---
 
-<Layout>
+<Layout {title} {description} {tags} {canonicalUrl}>
   <Panel
     class="top-panel bg-gradient-to-b from-darkBlue to-darkBlueTransparent"
   >

@@ -23,6 +23,7 @@
     "@astrojs/sitemap": "^1.0.0",
     "@astrojs/tailwind": "^2.1.2",
     "@tailwindcss/typography": "^0.5.8",
+    "ap-style-title-case": "^2.0.0",
     "astro": "^1.6.10",
     "autoprefixer": "^10.4.13",
     "dotenv": "^16.0.3",

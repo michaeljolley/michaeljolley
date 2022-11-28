@@ -1,7 +1,8 @@
 ---
 import Icon from "./Icon.astro";
 
-const { title, summary, tags, url: permalink } = Astro.props;
+const { title, summary, tags, permalink } = Astro.props;
+const url = `https://baldbeardedbuilder.com${permalink}`;
 ---
 
 <section>
