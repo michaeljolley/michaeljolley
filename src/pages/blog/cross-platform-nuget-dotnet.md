@@ -4,7 +4,7 @@ pubDate: 2021-12-23
 title: Building a Cross Platform NuGet Package
 description: Learning to build a NuGet package by building a .NET SDK for the Deepgram API, while ensuring it's compatible with as many versions of the .NET Framework and as many platforms as possible.
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586688/blog/cross-platform-nuget-dotnet/Building-Cross-Platform-NuGet-Package_2x_mtkxyg.webp
-image_alt: Toolbox with Microsoft, Linux, and Apple logos
+image_alt: "Toolbox with Microsoft, Linux, and Apple logos"
 tags: [dotnet, nuget, sdk]
 category: Tutorials
 summary: Learning to build a NuGet package by building a .NET SDK for the Deepgram API, while ensuring it's compatible with as many versions of the .NET Framework and as many platforms as possible.

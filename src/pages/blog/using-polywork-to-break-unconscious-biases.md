@@ -4,7 +4,7 @@ pubDate: 2021-07-19
 title: 'Using Polywork to Break My Unconscious Biases'
 slug: using-polywork-to-break-unconscious-biases
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586540/blog/using-polywork-to-break-unconscious-biases/cover_x6xjzv.png
-image_alt: Polywork UI with the Polywork logo
+image_alt: "Polywork UI with the Polywork logo"
 description: How I use Polywork to break unconscious biases in the content creators I follow on social platforms.
 tags: [polywork, diversity, inclusion]
 category: Developer Life

@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-12-29
 title: 'Cheers to 2019! Bring on 2020!'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585366/blog/2019-year-in-review/Artboard_2_k3mgba_gpziem.png
-image_alt: Fireworks with the Vulcan statue in Birmingham
+image_alt: "Fireworks with the Vulcan statue in Birmingham"
 description: Reviewing the goals I had for 2019 and how many I accomplished. Then start setting goals for 2020.
 tags: [review]
 category: Developer Life

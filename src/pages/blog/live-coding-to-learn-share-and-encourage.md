@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-04-12
 title: 'Live-Coding to Learn, Share and Encourage'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586200/blog/live-coding-to-learn-share-and-encourage/cover-image_ou9x6t.png
-image_alt: Various images during streams through 2020
+image_alt: "Various images during streams through 2020"
 description: A reflection on one year of coding live on Twitch to learn new technologies, share what I know, and encourage others to grow personally & professionally.
 tags: [live, coding, teach, twitch, learn]
 category: Developer Life

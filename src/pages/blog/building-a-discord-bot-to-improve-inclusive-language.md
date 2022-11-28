@@ -4,7 +4,7 @@ pubDate: 2021-08-22
 title: 'Building a Discord Bot to Improve Inclusive Language'
 slug: building-a-discord-bot-to-improve-inclusive-language
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585592/blog/building-a-discord-bot-to-improve-inclusive-language/cover_q2lal8.png
-image_alt: Picture of Discord server with the Discord logo
+image_alt: "Picture of Discord server with the Discord logo"
 description: Helping Discord members use more inclusive language by building a bot using JavaScript & Fauna and hosted by Azure in a Docker container.
 tags: [discord, inclusion, fauna, azure]
 category: Tutorials

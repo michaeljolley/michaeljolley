@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2020-01-27
 title: "I See What You're Saying: Sentiment Analysis With OpenTok and Azure Face API"
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586241/blog/sentiment-analysis-with-opentok-and-azure-face-api/cover-image_l51tpn.jpg
-image_alt: Computer with the title of the post
+image_alt: "Computer with the title of the post"
 description: In this tutorial, we will build a multi-party video conference that allows us to analyze the sentiment of each participant based on their facial expression. Then we'll display that sentiment as an emoji over their video.
 tags: [csharp, automapper, dotnet, aspnetcore]
 category: Tutorials

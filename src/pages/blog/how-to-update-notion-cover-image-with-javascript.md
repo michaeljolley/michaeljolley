@@ -4,7 +4,7 @@ pubDate: 2022-05-02
 title: Updating Notion Cover Images with Pipedream and JavaScript
 description: Using JavaScript and Pipedream to automate changing my Notion cover image each night.
 image: 
-image_alt: 
+image_alt: ""
 tags: ["notion", "javascript", "pipedream"] 
 category: Tutorials
 summary: Using JavaScript and Pipedream to automate changing my Notion cover image each night.

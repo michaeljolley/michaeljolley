@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-12-25
 title: 'Adding HATEOAS to an ASP.NET Core API'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585461/blog/adding-hateoas-to-an-asp-net-core-api/71390264-4256ef00-25c5-11ea-890b-6614ed7fd9a9_xjzxer_gseuql.jpg
-image_alt: Christmas tree ornaments and the words ASP.NET Core
+image_alt: "Christmas tree ornaments and the words ASP.NET Core"
 description: Implement simple JSON HATEOAS support to an ASP.NET Core web API
 tags: [aspnetcore, hateoas, api, json, dotnet, csharp]
 category: Tutorials

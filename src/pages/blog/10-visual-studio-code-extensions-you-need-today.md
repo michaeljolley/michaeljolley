@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2021-03-29
 title: '10 VS Code Extensions You Need Today'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585268/blog/10-visual-studio-code-extensions-you-need-today/cover_vente0.png
-image_alt: Image of VS Code with the words Top 10
+image_alt: "Image of VS Code with the words Top 10"
 description: Building in Visual Studio Code is amazing and it's made even better by extensions. In this post, we talk about the top 10 VS Code extensions you should be using in 2021.
 category: Developer Life
 tags: [vscode, extensions, productivity]

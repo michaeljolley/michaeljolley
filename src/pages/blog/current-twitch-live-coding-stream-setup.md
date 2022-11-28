@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-02-23
 title: 'Current Twitch live-coding stream setup'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585907/blog/current-twitch-live-coding-stream-setup/53290137-aa4e6600-3765-11e9-8115-961de3633562_mxq7og_mswtoq.jpg
-image_alt: Old BBB logo
+image_alt: "Old BBB logo"
 description: Hardware & software setup for live-coding streams
 tags: [twitch, stream, setup]
 category: Developer Life

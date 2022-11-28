@@ -3,7 +3,7 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2019-02-16
 title: 'Communication between containers using docker compose in Windows'
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585785/blog/communication-between-containers-using-docker-compose-in-windows/52905302-082afd00-31fe-11e9-9f0d-e1e02f2e58e9_uysuaw_tlbsfz.jpg
-image_alt: VS Code IDE with Octopus holding containers and the Windows logo
+image_alt: "VS Code IDE with Octopus holding containers and the Windows logo"
 description: Using docker compose to start containers that can communicate with one another in Windows
 tags: [docker, vscode, windows, compose]
 category: Tutorials

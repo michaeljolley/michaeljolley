@@ -4,7 +4,7 @@ pubDate: 2022-05-07
 title: "Making a Man: Lessons Learned from My Single Mother"
 description: Remembering the integrity and tenacity my mom displayed in her life and the lessons she worked to instill in me.
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669587562/blog/making-a-man-lessons-learned-from-my-single-mother/elaine_rc9o7h.png
-image_alt: Picture of my mother, Elaine Jolley
+image_alt: "Picture of my mother, Elaine Jolley"
 tags: ["family-values", "parenting"] 
 category: Developer Life
 summary: Remembering the integrity and tenacity my mom displayed in her life and the lessons she worked to instill in me.

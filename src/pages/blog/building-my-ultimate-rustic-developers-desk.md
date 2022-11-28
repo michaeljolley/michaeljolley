@@ -4,7 +4,7 @@ pubDate: 2020-08-03
 title: 'Building my Ultimate Rustic Developers Desk'
 slug: building-my-ultimate-rustic-developers-desk
 image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669585638/blog/building-my-ultimate-rustic-developers-desk/cover-image_sftozk.png
-image_alt: Picture of Michael's desk and the words Building my Ultimate Rustic Developers Desk
+image_alt: "Picture of Michaels desk and the words Building my Ultimate Rustic Developers Desk"
 description: Since I started woodworking, I've had the goal of building my own desk, complete with a wireless charger and built-in USB hub.
 tags: [diy, desk, setup, woodworking]
 category: Developer Life
