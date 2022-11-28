@@ -3,9 +3,9 @@ layout: ../../layouts/BlogSlug.astro
 pubDate: 2022-05-02
 title: Updating Notion Cover Images with Pipedream and JavaScript
 description: Using JavaScript and Pipedream to automate changing my Notion cover image each night.
-image: 
-image_alt: ""
-tags: ["notion", "javascript", "pipedream"] 
+image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669598978/blog/how-to-update-notion-cover-image-with-javascript/notion-pipedream_wbm188.png
+image_alt: "Notion dashboard with the Pipedream logo"
+tags: ["notion", "javascript", "pipedream"]
 category: Tutorials
 summary: Using JavaScript and Pipedream to automate changing my Notion cover image each night.
 ---
@@ -122,22 +122,21 @@ module.exports = defineComponent({
     notion: {
       type: "app",
       app: "notion",
-    }
+    },
   },
-  async run({steps, $}) {
+  async run({ steps, $ }) {
     try {
-      
       const pageId = "YOUR_NOTION_PAGE_ID";
-      
+
       const data = {
-        "cover": {
-          "type": "external",
-          "external": {
-            "url": `https://picsum.photos/1500/600?v=${Date.now()}`
-          }
+        cover: {
+          type: "external",
+          external: {
+            url: `https://picsum.photos/1500/600?v=${Date.now()}`,
+          },
         },
       };
-      
+
       await require("@pipedreamhq/platform").axios(this, {
         url: `https://api.notion.com/v1/pages/${pageId}`,
         headers: {
@@ -145,15 +144,14 @@ module.exports = defineComponent({
           "Notion-Version": `2021-08-16`,
         },
         method: "PATCH",
-        data
+        data,
       });
-
-    } catch(error) {
-      console.log(error)
+    } catch (error) {
+      console.log(error);
       throw error;
     }
   },
-})
+});
 ```
 
 The code above updates the page to use an external url. That external url is a

@@ -24,9 +24,7 @@ async function fetchWebMentions(since, perPage = 10000) {
 
   if (response.status === 200 && response.data) {
     const feed = response.data;
-    console.log(
-      `>>> ${feed.children.length} new webmentions fetched from ${API}`
-    );
+
     return feed;
   }
   return null;
@@ -62,31 +60,25 @@ function readFromCache() {
 }
 
 async function getWebMentions() {
-  console.log(">>> Reading webmentions from cache...");
   const cache = readFromCache();
-  if (cache.children) {
-    console.log(`>>> ${cache.children.length} webmentions loaded from cache`);
-  }
-  // Only fetch new mentions in production
-  // if (process.env.NODE_ENV === 'production') {
-  const shouldFetch =
-    cache.lastFetched == null || new Date(cache.lastFetched) < fiveMinutesAgo;
 
-  if (shouldFetch) {
-    console.log(">>> Checking for new webmentions...");
-    const feed = await fetchWebMentions(cache.lastFetched);
-    if (feed) {
-      const webmentions = {
-        lastFetched: new Date().toISOString(),
-        children: mergeWebmentions(cache, feed),
-      };
-      writeToCache(webmentions);
-      return webmentions;
+  // Only fetch new mentions in production
+  if (process.env.NODE_ENV === 'production') {
+    const shouldFetch =
+      cache.lastFetched == null || new Date(cache.lastFetched) < fiveMinutesAgo;
+
+    if (shouldFetch) {
+      const feed = await fetchWebMentions(cache.lastFetched);
+      if (feed) {
+        const webmentions = {
+          lastFetched: new Date().toISOString(),
+          children: mergeWebmentions(cache, feed),
+        };
+        writeToCache(webmentions);
+        return webmentions;
+      }
     }
-  } else {
-    console.log(`>>> Last fetch was less than 5 minutes ago. Skipping fetch.`);
   }
-  //}
   return cache;
 }
 
