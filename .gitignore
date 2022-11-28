@@ -2,6 +2,7 @@
 dist/
 .output/
 _cache/
+src/content/
 
 # dependencies
 node_modules/
