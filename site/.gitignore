@@ -2,7 +2,8 @@
 dist/
 .output/
 _cache/
-src/content/
+content/
+lambda/
 
 # dependencies
 node_modules/

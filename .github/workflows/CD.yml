@@ -42,8 +42,8 @@ jobs:
 
       - name: Install dependencies & prep data
         run: |
+          cd site
           npm install
-          node ./readme/index.js
 
       - name: Build site
         run: |
@@ -56,9 +56,9 @@ jobs:
           production-branch: main
           github-token: ${{ secrets.GITHUB_TOKEN }}
           deploy-message: ${{ env.DEPLOY_MESSAGE }}
-          enable-pull-request-comment: false                  # default: true
-          enable-commit-comment: true                         # default: true
-          overwrites-pull-request-comment: false              # default: true
+          enable-pull-request-comment: false # default: true
+          enable-commit-comment: true # default: true
+          overwrites-pull-request-comment: false # default: true
           production-deploy: ${{ env.IS_PRODUCTION }}
           functions-dir: ${{ env.BUILD_PATH }}netlify/functions/
           alias: ${{ env.BUILD_ALIAS }}

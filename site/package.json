@@ -1,5 +1,5 @@
 {
-  "name": "michaeljolley",
+  "name": "@michaeljolley/site",
   "type": "module",
   "version": "3.0.0",
   "private": true,
@@ -27,9 +27,7 @@
     "astro": "^1.6.10",
     "autoprefixer": "^10.4.13",
     "dotenv": "^16.0.3",
-    "gray-matter": "^4.0.3",
     "lodash": "^4.17.21",
-    "mustache": "^4.2.0",
     "netlify-cli": "^12.2.7",
     "netlify-plugin-cache-folder": "^0.0.8",
     "node-html-parser": "^6.1.4",

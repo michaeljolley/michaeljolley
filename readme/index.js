@@ -2,7 +2,6 @@ import Parser from 'rss-parser';
 import Mustache from 'mustache';
 import fs from 'fs/promises';
 import matter from 'gray-matter';
-import qs from 'querystring';
 import axios from 'axios';
 import dotenv from 'dotenv';
 dotenv.config();
@@ -77,16 +76,16 @@ async function _generateYTData() {
 	)
 
 	try {
-		await fs.opendir('./src/content/videos');
+		await fs.opendir('videos');
 	}
 	catch (err) {
-		await fs.mkdir('./src/content/videos');
+		await fs.mkdir('videos');
 	}
 
 	// Save md files for site build
 	for (i = 0; i < feed.items.length; i++) {
 		const video = feed.items[i];
-		await fs.writeFile(`./src/content/videos/${video.id.replace('yt:video:', '')}.md`,
+		await fs.writeFile(`videos/${video.id.replace('yt:video:', '')}.md`,
 			`---
 title: ${video.title}
 link: ${video.link}
@@ -110,13 +109,13 @@ ${video['media:group']['media:description'][0]}
 }
 
 async function _generateTwitchData() {
-	const opts = {
+	const opts = new URLSearchParams({
 		client_id: process.env.TWITCH_CLIENT_ID,
 		client_secret: process.env.TWITCH_CLIENT_SECRET,
 		grant_type: 'client_credentials'
-	}
+	})
 
-	const params = qs.stringify(opts)
+	const params = opts.toString()
 
 	const { data } = await axios.post(
 		`https://id.twitch.tv/oauth2/token?${params}`
@@ -198,14 +197,14 @@ async function _generateBlogData() {
 		return posts;
 	}
 
-	const posts = await getPosts('./src/pages/blog/*.md')
+	const posts = await getPosts('../site/src/pages/blog/*.md')
 	return posts
 		.sort((a, b) => b.pubDate - a.pubDate)
 		.slice(0, 3);
 }
 
 async function getTemplate() {
-	return await fs.readFile("./readme/_template.md", "utf-8")
+	return await fs.readFile("_template.md", "utf-8")
 }
 
 async function saveReadMe(newReadMe) {
