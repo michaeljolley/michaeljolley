@@ -1,0 +1,93 @@
+---
+import Icon from "./Icon.astro";
+---
+
+<ul>
+  <li>
+    <a
+      href="https://twitter.com/michaeljolley"
+      rel="me"
+      target="_blank"
+      class="twitter"
+      title="Follow the musings on Twitter"
+    >
+      <Icon icon="Twitter" class="w-4" />
+    </a>
+  </li>
+  <li>
+    <a
+      href="https://twitch.tv/baldbeardedbuilder"
+      rel="me"
+      target="_blank"
+      class="twitch"
+      title="Check out the live streams on Twitch"
+    >
+      <Icon icon="Twitch" class="w-4" />
+    </a>
+  </li>
+  <li>
+    <a
+      href="https://youtube.com/baldbeardedbuilder"
+      rel="me"
+      target="_blank"
+      class="youtube"
+      title="Subscribe, like & comment on YouTube videos"
+    >
+      <Icon icon="YouTube" class="w-4" />
+    </a>
+  </li>
+  <li>
+    <a
+      href="https://www.instagram.com/baldbeardedbuilder/"
+      rel="me"
+      target="_blank"
+      class="instagram"
+      title="Follow the fun on Instagram"
+    >
+      <Icon icon="Instagram" class="w-4" />
+    </a>
+  </li>
+  <li>
+    <a
+      href="https://www.linkedin.com/in/michaelwjolley/"
+      rel="me"
+      target="_blank"
+      class="linkedin"
+      title="Get professional on LinkedIn"
+    >
+      <Icon icon="LinkedIn" class="w-4" />
+    </a>
+  </li>
+  <li>
+    <a
+      href="https://discord.gg/XSG7HJm"
+      rel="noreferrer"
+      target="_blank"
+      class="discord"
+      title="Join the Discord community"
+    >
+      <Icon icon="Discord" class="w-4" />
+    </a>
+  </li>
+</ul>
+
+<style lang="scss">
+  ul {
+    @apply flex gap-8 items-center;
+    @apply text-xl;
+    @apply mt-4;
+
+    li {
+      @apply flex justify-center;
+
+      a {
+        @apply fill-pink text-pink;
+
+        &:hover,
+        &:active {
+          @apply fill-white text-white;
+        }
+      }
+    }
+  }
+</style>

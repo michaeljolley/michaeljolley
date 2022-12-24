@@ -1,0 +1,31 @@
+---
+import Logo from "./Logo.astro";
+import Navigation from "./Navigation.astro";
+---
+
+<header>
+  <main>
+    <Logo />
+    <Navigation />
+  </main>
+</header>
+
+<style lang="scss">
+  header {
+    @apply flex;
+    @apply w-full;
+    @apply md:px-8 lg:px-4;
+    @apply py-4;
+
+    @apply bg-darkBlue;
+    @apply h-20;
+
+    main {
+      @apply flex justify-between items-center;
+      @apply mx-auto;
+      @apply px-8 lg:px-4;
+      @apply w-full;
+      @apply lg:max-w-4xl xl:max-w-6xl;
+    }
+  }
+</style>

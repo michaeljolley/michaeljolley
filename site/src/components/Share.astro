@@ -5,9 +5,9 @@ const { title, summary, tags, url } = Astro.props;
 const permalink = `https://baldbeardedbuilder.com${url}`;
 ---
 
-<section>
+<section class="share">
   <aside>
-    <div><span>Share</span><Icon icon="ArrowDown" class={"w-4"} /></div>
+    <div><span>Share</span><Icon icon="ArrowDown" style="width:1rem;" /></div>
     <ul>
       <li>
         <a
@@ -16,7 +16,7 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
           }&via=michaeljolley`}
           title="Share on Twitter"
           target="_blank"
-          ><span>Twitter</span><Icon icon="Twitter" class={"w-4"} />
+          ><span>Twitter</span><Icon icon="Twitter" style="width:1rem;" />
         </a>
       </li>
       <li>
@@ -24,7 +24,7 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
           href={`https://www.linkedin.com/sharing/share-offsite/?url=${permalink}`}
           title="Share on LinkedIn"
           target="_blank"
-          ><span>LinkedIn</span><Icon icon="LinkedIn" class={"w-4"} />
+          ><span>LinkedIn</span><Icon icon="LinkedIn" style="width:1rem;" />
         </a>
       </li>
       <li>
@@ -34,7 +34,7 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
           }`}
           title="Share on Facebook"
           target="_blank"
-          ><span>Facebook</span><Icon icon="Facebook" class={"w-4"} />
+          ><span>Facebook</span><Icon icon="Facebook" style="width:1rem;" />
         </a>
       </li>
       <li>
@@ -42,54 +42,9 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
           href={`https://www.reddit.com/submit?url=${permalink}&title=${title}`}
           title="Share on Reddit"
           target="_blank"
-          ><span>Reddit</span><Icon icon="Reddit" class={"w-4"} />
+          ><span>Reddit</span><Icon icon="Reddit" style="width:1rem;" />
         </a>
       </li>
     </ul>
   </aside>
 </section>
-
-<style lang="scss">
-  section {
-    @apply flex flex-col;
-
-    div {
-      @apply flex justify-between items-center;
-      @apply bg-pink text-white;
-      @apply px-5 py-3;
-      @apply font-bold;
-      @apply w-40;
-      @apply cursor-pointer;
-    }
-    ul {
-      @apply hidden flex-col;
-      @apply absolute;
-
-      li {
-        @apply w-40;
-        @apply bg-pinkTransparent;
-        @apply px-5 py-3;
-        @apply font-bold;
-
-        &:hover {
-          @apply bg-white;
-          a {
-            @apply text-pink fill-pink;
-          }
-        }
-
-        a {
-          @apply flex justify-between items-center text-white fill-white;
-        }
-      }
-    }
-    aside,
-    ul {
-      &:hover {
-        ul {
-          @apply flex;
-        }
-      }
-    }
-  }
-</style>

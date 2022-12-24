@@ -13,13 +13,11 @@ const { mentions, displayQuantity, displayLink, displayMessage } = Astro.props;
 const avatars = [
   ...new Set(
     mentions
-      .sort((a, b) =>
-        new Date(a["wm-received"]) < new Date(b["wm-received"]) ? 1 : -1
-      )
+      .sort((a, b) => (new Date(a.published) < new Date(b.published) ? 1 : -1))
       .map((f) => {
         return {
           avatar: f.author.photo,
-          url: f.url,
+          url: f.source,
           name: f.author.name,
         };
       })

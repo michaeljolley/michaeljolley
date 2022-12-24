@@ -1,0 +1,117 @@
+---
+import Community from "../components/Community.astro";
+import LatestPost from "../components/LatestPost.astro";
+import LatestTutorials from "../components/LatestTutorials.astro";
+import Panel from "../components/Panel.astro";
+import Layout from "../layouts/Default.astro";
+import { getMentions } from "../scripts/webmentions";
+
+let title = "Michael Jolley is the Bald Bearded Builder";
+let description =
+  "Home of Michael Jolley, the bald bearded builder, this site contains a collection of all blog posts, YouTube videos, Twitch streams, conference talks and more that Michael has generated.";
+let permalink = "https://baldbeardedbuilder.com/";
+let tags = ["dotnet", "javascript", "developer-experience", "learn-in-public"];
+
+const allPosts = await Astro.glob("./blog/*.md");
+const sortedPosts = allPosts
+  .filter((f) => !f.frontmatter.draft || f.frontmatter.draft !== true)
+  .sort(
+    (a, b) => new Date(b.frontmatter.pubDate) - new Date(a.frontmatter.pubDate)
+  );
+
+const latestPostRaw = sortedPosts.splice(0, 1)[0];
+const latestMentions = await getMentions(latestPostRaw.url);
+const latestPost = {
+  title: latestPostRaw.frontmatter.title,
+  path: latestPostRaw.url,
+  description: latestPostRaw.frontmatter.description,
+  date: latestPostRaw.frontmatter.pubDate,
+  image: latestPostRaw.frontmatter.image,
+  imageAlt: latestPostRaw.frontmatter.image_alt,
+  mentions: latestMentions,
+};
+
+const posts = await Promise.all(
+  sortedPosts
+    .filter((f) => f.frontmatter.category === "Tutorials")
+    .slice(0, 3)
+    .map(async (post) => {
+      const mentions = await getMentions(post.url);
+      return {
+        title: post.frontmatter.title,
+        path: post.url,
+        description: post.frontmatter.description,
+        date: post.frontmatter.pubDate,
+        image: post.frontmatter.image,
+        imageAlt: post.frontmatter.image_alt,
+        mentions,
+      };
+    })
+);
+---
+
+<Layout {title} {description} {permalink} {tags}>
+  <Panel
+    class="top-panel bg-gradient-to-b from-darkBlue to-darkBlueTransparent"
+  >
+    <div>
+      <div>
+        <div>
+          <h1>Hi! I'm <span>Michael</span>.</h1>
+          <p>
+            I'm a software developer, speaker, and writer. I'm passionate about
+            developer experience, learning in public, and building great
+            software.
+          </p>
+        </div>
+      </div>
+    </div>
+  </Panel>
+  <LatestTutorials items={posts} alt={true} />
+  <LatestPost post={latestPost} />
+  <Community />
+</Layout>
+
+<style lang="scss">
+  .top-panel {
+    > div {
+      @apply h-80;
+
+      @screen sm {
+        height: 32rem;
+        @apply bg-bottom bg-cover;
+        background-image: url("/images/mj.png");
+        @apply bg-blend-luminosity;
+      }
+      @screen xl {
+        height: 44rem;
+      }
+
+      > div {
+        @apply flex justify-end;
+        @apply pt-24 xl:pt-36;
+        @apply text-white font-raleway;
+        @apply mx-auto;
+        @apply px-4;
+        @apply w-full;
+        @apply lg:max-w-4xl xl:max-w-6xl;
+
+        > div {
+          @apply flex flex-col items-center;
+          @apply w-full sm:w-3/5;
+
+          h1 {
+            @apply font-worksans font-bold text-5xl xl:text-7xl;
+            span {
+              @apply text-pink;
+            }
+          }
+          p {
+            @apply mt-3 xl:mt-4;
+            @apply w-4/5 text-sm xl:text-base text-center;
+          }
+        }
+      }
+    }
+  }
+</style>

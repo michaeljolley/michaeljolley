@@ -1,28 +1,26 @@
 ---
-import Layout from "./Default.astro";
-import { getMentions } from "../scripts/webmentions";
-import Panel from "../components/Panel.astro";
+import Layout from "./Layout.astro";
+import { getWebMentionsByTarget } from "../scripts/webmentions";
 import Avatars from "../components/Avatars.astro";
 import Share from "../components/Share.astro";
 import ImageSrcSet from "../components/ImageSrcSet.astro";
 
-const { frontmatter } = Astro.props;
+const { url, frontmatter } = Astro.props;
 const {
   title,
   description,
   tags,
   summary,
-  url,
   image,
   image_alt,
   canonical_url: canonicalUrl,
 } = frontmatter;
 
-const mentions = await getMentions(url);
+const mentions = await getWebMentionsByTarget(url);
 ---
 
 <Layout {title} {description} {tags} {canonicalUrl}>
-  <Panel
+  <section
     class="top-panel bg-gradient-to-b from-darkBlue to-darkBlueTransparent"
   >
     <div>
@@ -40,88 +38,12 @@ const mentions = await getMentions(url);
         <aside><Share {title} {summary} {url} {tags} /></aside>
       </section>
     </div>
-  </Panel>
+  </section>
 
-  <Panel class="main">
+  <section class="main">
     <ImageSrcSet filename={image} alt={image_alt} class="w-full" />
     <article class="prose sm:prose-sm md:prose-md lg:prose-lg xl:prose-xl">
       <slot />
     </article>
-  </Panel>
+  </section>
 </Layout>
-
-<style lang="scss">
-  .top-panel {
-    > div {
-      @apply flex flex-col items-center gap-6 md:gap-8;
-      @apply pt-12 xl:pt-24;
-      @apply text-white font-raleway;
-      @apply mx-auto;
-      @apply px-8 lg:px-4;
-      @apply w-full;
-      @apply lg:max-w-4xl xl:max-w-6xl;
-      @apply mb-40;
-
-      h1 {
-        @apply text-center;
-        @apply font-worksans font-bold text-4xl md:text-5xl xl:text-6xl;
-        @apply w-full sm:w-5/6 md:w-5/6;
-      }
-      summary {
-        @apply text-center;
-        @apply w-full sm:w-4/5 md:w-4/5;
-        @apply list-none text-gray-400;
-      }
-
-      section {
-        @apply w-full justify-center items-center;
-        @apply w-full sm:w-4/5 md:w-4/5;
-        @apply flex flex-col md:flex-row justify-between gap-8;
-
-        aside {
-          @apply flex flex-col;
-
-          &:first-child() {
-            @apply text-gray-400;
-          }
-
-          h2 {
-            @apply font-worksans font-bold text-2xl xl:text-4xl;
-          }
-          p {
-            @apply my-3 xl:my-4;
-            @apply w-4/5 text-sm xl:text-base;
-          }
-        }
-      }
-    }
-  }
-
-  .main {
-    @apply flex flex-col mx-auto items-center;
-    @apply px-8 lg:px-4;
-    @apply w-full;
-    @apply lg:max-w-4xl xl:max-w-6xl;
-    @apply mx-auto;
-    @apply px-8 lg:px-4;
-    @apply w-full;
-    @apply lg:max-w-4xl xl:max-w-6xl;
-    @apply mb-24;
-
-    > picture {
-      @apply w-full sm:w-4/5 md:w-3/5;
-      @apply -mt-28;
-      @apply shadow-2xl;
-      @apply mb-20;
-    }
-
-    .prose {
-      @apply w-full md:max-w-2xl;
-      @apply lg:max-w-4xl xl:max-w-6xl;
-
-      pre {
-        @apply max-h-32;
-      }
-    }
-  }
-</style>

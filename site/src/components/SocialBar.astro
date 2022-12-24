@@ -2,7 +2,7 @@
 import Icon from "./Icon.astro";
 ---
 
-<ul>
+<ul class="socialBar">
   <li>
     <a
       href="https://twitter.com/michaeljolley"
@@ -11,7 +11,7 @@ import Icon from "./Icon.astro";
       class="twitter"
       title="Follow the musings on Twitter"
     >
-      <Icon icon="Twitter" class="w-4" />
+      <Icon icon="Twitter" style="width:1rem;" />
     </a>
   </li>
   <li>
@@ -22,7 +22,7 @@ import Icon from "./Icon.astro";
       class="twitch"
       title="Check out the live streams on Twitch"
     >
-      <Icon icon="Twitch" class="w-4" />
+      <Icon icon="Twitch" style="width:1rem;" />
     </a>
   </li>
   <li>
@@ -33,7 +33,7 @@ import Icon from "./Icon.astro";
       class="youtube"
       title="Subscribe, like & comment on YouTube videos"
     >
-      <Icon icon="YouTube" class="w-4" />
+      <Icon icon="YouTube" style="width:1rem;" />
     </a>
   </li>
   <li>
@@ -44,7 +44,7 @@ import Icon from "./Icon.astro";
       class="instagram"
       title="Follow the fun on Instagram"
     >
-      <Icon icon="Instagram" class="w-4" />
+      <Icon icon="Instagram" style="width:1rem;" />
     </a>
   </li>
   <li>
@@ -55,7 +55,7 @@ import Icon from "./Icon.astro";
       class="linkedin"
       title="Get professional on LinkedIn"
     >
-      <Icon icon="LinkedIn" class="w-4" />
+      <Icon icon="LinkedIn" style="width:1rem;" />
     </a>
   </li>
   <li>
@@ -66,28 +66,7 @@ import Icon from "./Icon.astro";
       class="discord"
       title="Join the Discord community"
     >
-      <Icon icon="Discord" class="w-4" />
+      <Icon icon="Discord" style="width:1rem;" />
     </a>
   </li>
 </ul>
-
-<style lang="scss">
-  ul {
-    @apply flex gap-8 items-center;
-    @apply text-xl;
-    @apply mt-4;
-
-    li {
-      @apply flex justify-center;
-
-      a {
-        @apply fill-pink text-pink;
-
-        &:hover,
-        &:active {
-          @apply fill-white text-white;
-        }
-      }
-    }
-  }
-</style>

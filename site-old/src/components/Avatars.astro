@@ -1,0 +1,110 @@
+---
+import Icon from "./Icon.astro";
+
+export interface Props {
+  mentions: Array<any>;
+  displayQuantity?: number;
+  displayLink?: boolean;
+  displayMessage?: boolean;
+}
+
+const { mentions, displayQuantity, displayLink, displayMessage } = Astro.props;
+
+const avatars = [
+  ...new Set(
+    mentions
+      .sort((a, b) =>
+        new Date(a["wm-received"]) < new Date(b["wm-received"]) ? 1 : -1
+      )
+      .map((f) => {
+        return {
+          avatar: f.author.photo,
+          url: f.url,
+          name: f.author.name,
+        };
+      })
+  ),
+];
+
+const uniqueAvatars = Array.from(new Set(avatars.map((s) => s.avatar))).map(
+  (avatar) => {
+    return {
+      avatar: avatar,
+      url: avatars.find((s) => s.avatar === avatar)?.url,
+      name: avatars.find((s) => s.avatar === avatar)?.name,
+    };
+  }
+);
+
+const displayedAvatars = uniqueAvatars.slice(0, displayQuantity);
+
+const remainingAvatars = uniqueAvatars.length - displayedAvatars.length;
+---
+
+<aside>
+  {
+    displayMessage && displayedAvatars.length > 0 && (
+      <p>
+        <Icon icon="ThumbsUp" /> Likes, retweets, & replies
+      </p>
+    )
+  }
+  <div class="avatars">
+    {
+      displayedAvatars.map((avatar: any) => (
+        <div class="avatar">
+          {displayLink && (
+            <a href={avatar.url} target="_blank">
+              <img src={avatar.avatar} alt={avatar.name} />
+            </a>
+          )}
+
+          {!displayLink && <img src={avatar.avatar} alt={avatar.name} />}
+        </div>
+      ))
+    }
+
+    {
+      remainingAvatars > 0 && (
+        <div class="extra">
+          <span>+{remainingAvatars}</span>
+        </div>
+      )
+    }
+  </div>
+</aside>
+
+<style lang="scss">
+  aside {
+    p {
+      @apply flex items-center;
+      @apply mb-2;
+      @apply font-bold font-worksans;
+      svg {
+        @apply w-4 mr-2;
+      }
+    }
+    .avatars {
+      @apply flex flex-row;
+
+      div {
+        @apply w-8 h-8;
+
+        &.avatar {
+          @apply w-8 h-8;
+          margin-left: -0.3rem;
+        }
+
+        img {
+          @apply w-8 h-8;
+          @apply rounded-full;
+        }
+
+        &.extra {
+          @apply flex items-center ml-2;
+          @apply text-base font-worksans font-bold;
+        }
+      }
+    }
+  }
+</style>

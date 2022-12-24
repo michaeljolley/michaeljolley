@@ -1,11 +1,12 @@
-import { defineConfig } from "astro/config";
+import { defineConfig } from 'astro/config';
 
-import tailwind from "@astrojs/tailwind";
-import sitemap from "@astrojs/sitemap";
 import preact from "@astrojs/preact";
+import sitemap from "@astrojs/sitemap";
+import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: 'https://baldbeardedbuilder.com',
+  trailingSlash: "always",
   integrations: [
     preact(),
     sitemap({
@@ -18,7 +19,5 @@ export default defineConfig({
       config: {
         applyAstroPreset: false,
       },
-    }),
-  ],
-  trailingSlash: "always",
+    }),],
 });

@@ -1,7 +1,13 @@
 ---
-import Meta from "./meta/Meta.astro";
-import Link from "./meta/Link.astro";
+import "../styles/main.scss";
 import { apStyleTitleCase } from "ap-style-title-case";
+
+export interface Props {
+	title?: string;
+	description?: string;
+	tags?: string[];
+  canonicalUrl?: string;
+}
 
 let { title, description, tags, canonicalUrl } = Astro.props;
 
@@ -16,52 +22,52 @@ const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tag
 ---
 
 <!-- Global Metadata -->
-<Meta charset="utf-8" />
-<Meta
+<meta charset="utf-8" />
+<meta
   name="viewport"
   content="width=device-width,initial-scale=1,viewport-fit=cover"
 />
-<Link rel="icon" type="image/x-icon" href="/favicon.ico" />
-<Link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
-<Link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
-<Link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
-<Meta name="msapplication-TileColor" content="#ffffff" />
-<Meta name="msapplication-TileImage" content="/mstile-150x150.png" />
-<Meta name="theme-color" content="#ffffff" />
-<Meta name="robots" content="index, follow" />
-<Link rel="manifest" href="/site.webmanifest" />
+<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="/mstile-150x150.png" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="robots" content="index, follow" />
+<meta rel="manifest" href="/site.webmanifest" />
 
 <!-- Primary Meta Tags -->
 <title>{title}</title>
-<Meta name="title" content={title} />
-<Meta name="description" content={description} />
+<meta name="title" content={title} />
+<meta name="description" content={description} />
 
 {
   canonicalUrl &&
   <!-- Canonical link -->
-  <Link rel="canonical" href={canonicalUrl} />
+  <link rel="canonical" href={canonicalUrl} />
 }
 
 <!-- Open Graph / Facebook -->
-<Meta property="og:url" content={Astro.url} />
-<Meta property="og:title" content={title} />
-<Meta property="og:description" content={description} />
-<Meta property="og:image" content={ograph} />
-<Meta property="og:image:alt" content={description} />
-<Meta property="og:type" content="website" />
-<Meta property="og:locale" content="en_US" />
-<Meta property="og:type" content="website" />
-<Meta property="og:image:type" content="image/png" />
-<Meta property="og:image:width" content="1200" />
-<Meta property="og:image:height" content="600" />
+<meta property="og:url" content={Astro.url} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ograph} />
+<meta property="og:image:alt" content={description} />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="600" />
 
 <!-- Twitter -->
-<Meta property="twitter:url" content={Astro.url} />
-<Meta property="twitter:title" content={title} />
-<Meta property="twitter:description" content={description} />
-<Meta property="twitter:image" content={ograph} />
-<Meta property="twitter:card" content="summary_large_image" />
-<Meta property="twitter:site" content="@michaeljolley" />
+<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={ograph} />
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:site" content="@michaeljolley" />
 
 <!-- Fonts & Images -->
 <link rel="dns-prefetch" href="//res.cloudinary.com" />
@@ -74,8 +80,8 @@ const ograph = `https://res.cloudinary.com/dk3rdh3yo/image/upload/b_rgb:000${tag
 />
 
 <!-- Feeds -->
-<Link rel="sitemap" href="/sitemap-index.xml" />
-<Link
+<link rel="sitemap" href="/sitemap-index.xml" />
+<link
   rel="alternative"
   type="application/rss+xml"
   href="/rss.xml"

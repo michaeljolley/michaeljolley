@@ -7,7 +7,7 @@ image: https://res.cloudinary.com/dk3rdh3yo/image/upload/v1669586133/blog/how-to
 image_alt: "Stopwatch set to one minute and the Deepgram and OpenAI logos"
 tags: ["machine-learning", "whisper", "openai"] 
 category: Tutorials
-summary: Deepgram has made testing OpenAI's new open-sourced Whisper speech recognition model easy as copy and paste.
+summary: "Deepgram has made testing OpenAI's new open-sourced Whisper speech recognition model easy as copy and paste."
 canonical_url: 'https://blog.deepgram.com/how-to-use-whisper-openais-speech-recognition-model-in-1-minute/'
 ---
 

@@ -2,8 +2,8 @@
 dist/
 .output/
 _cache/
-content/
 lambda/
+temp/
 
 # dependencies
 node_modules/
