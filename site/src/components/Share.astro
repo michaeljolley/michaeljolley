@@ -5,8 +5,8 @@ const { title, summary, tags, url } = Astro.props;
 const permalink = `https://baldbeardedbuilder.com${url}`;
 ---
 
-<section class="share">
-  <aside>
+<section id="share">
+  <div class="container">
     <div><span>Share</span><Icon icon="ArrowDown" style="width:1rem;" /></div>
     <ul>
       <li>
@@ -46,5 +46,5 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
         </a>
       </li>
     </ul>
-  </aside>
+  </div>
 </section>

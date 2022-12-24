@@ -15,9 +15,6 @@ export default defineConfig({
       lastmod: new Date(),
       filter: (page) => page !== "https://baldbeardedbuilder.com/thanks",
     }),
-    tailwind({
-      config: {
-        applyAstroPreset: false,
-      },
-    }),],
+    tailwind()
+  ],
 });

@@ -36,21 +36,27 @@ module.exports = {
 						},
 						h1: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						h2: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						h3: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						h4: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						h5: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						h6: {
 							"font-family": "Work Sans",
+							color: "#BDFF00",
 						},
 						pre: {
 							"max-height": "32rem"

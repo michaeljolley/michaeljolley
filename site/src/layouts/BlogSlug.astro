@@ -20,30 +20,30 @@ const mentions = await getWebMentionsByTarget(url);
 ---
 
 <Layout {title} {description} {tags} {canonicalUrl}>
-  <section
-    class="top-panel bg-gradient-to-b from-darkBlue to-darkBlueTransparent"
-  >
-    <div>
-      <h1>{title}</h1>
-      <summary>{summary}</summary>
-      <section>
-        <aside>
-          <Avatars
-            mentions={mentions}
-            displayMessage={true}
-            displayQuantity={10}
-            displayLink={true}
-          />
-        </aside>
-        <aside><Share {title} {summary} {url} {tags} /></aside>
-      </section>
-    </div>
-  </section>
+  <article class="blogpost">
+    <section class="top-panel">
+      <div>
+        <h1>{title}</h1>
+        <summary>{summary}</summary>
+        <section>
+          <aside>
+            <Avatars
+              mentions={mentions}
+              displayMessage={true}
+              displayQuantity={10}
+              displayLink={true}
+            />
+          </aside>
+          <aside><Share {title} {summary} {url} {tags} /></aside>
+        </section>
+      </div>
+    </section>
 
-  <section class="main">
-    <ImageSrcSet filename={image} alt={image_alt} class="w-full" />
-    <article class="prose sm:prose-sm md:prose-md lg:prose-lg xl:prose-xl">
-      <slot />
-    </article>
-  </section>
+    <section class="main">
+      <ImageSrcSet filename={image} alt={image_alt} class="w-full" />
+      <div class="prose sm:prose-sm md:prose-md lg:prose-lg xl:prose-xl">
+        <slot />
+      </div>
+    </section>
+  </article>
 </Layout>
