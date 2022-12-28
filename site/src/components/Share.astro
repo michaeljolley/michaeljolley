@@ -5,7 +5,7 @@ const { title, summary, tags, url } = Astro.props;
 const permalink = `https://baldbeardedbuilder.com${url}`;
 ---
 
-<section id="share">
+<section>
   <div class="container">
     <div><span>Share</span><Icon icon="ArrowDown" style="width:1rem;" /></div>
     <ul>
@@ -48,3 +48,56 @@ const permalink = `https://baldbeardedbuilder.com${url}`;
     </ul>
   </div>
 </section>
+
+<style lang="scss">
+  section {
+    @apply flex flex-col;
+
+    .container {
+      div {
+        @apply flex justify-between items-center;
+        @apply bg-neon text-darkGray;
+        @apply px-5 py-3;
+        @apply font-bold;
+        @apply w-40;
+        @apply cursor-pointer;
+      }
+      ul {
+        @apply hidden flex-col;
+        @apply absolute;
+
+        li {
+          @apply w-40;
+          @apply bg-neonTransparent;
+          @apply px-5 py-3;
+          @apply font-bold;
+          @apply border-x border-neon;
+
+          &:last-child {
+            @apply border-b;
+          }
+
+          &:hover {
+            @apply bg-darkGray;
+            a {
+              @apply text-neon fill-neon;
+            }
+          }
+
+          a {
+            @apply flex justify-between items-center text-white fill-white;
+          }
+        }
+      }
+    }
+
+    .container,
+    ul {
+      &:hover {
+        ul {
+          @apply flex;
+        }
+      }
+    }
+  }
+</style>

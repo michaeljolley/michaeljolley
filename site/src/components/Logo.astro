@@ -2,7 +2,26 @@
 import Icon from "./Icon.astro";
 ---
 
-<a href="/" class="logo" title="Return home">
+<a href="/" title="Return home">
   <Icon icon="BBB" style="width: 3rem;" />
   <span>Bald Bearded Builder</span>
 </a>
+
+<style lang="scss">
+  a {
+    @apply flex items-center;
+    @apply fill-neon;
+    @apply h-full;
+
+    svg {
+      @apply mr-4;
+    }
+
+    span {
+      @apply border-l border-neon;
+      @apply h-full max-h-9 pl-4;
+      @apply hidden md:flex items-center;
+      @apply font-worksans font-bold text-lg text-white;
+    }
+  }
+</style>

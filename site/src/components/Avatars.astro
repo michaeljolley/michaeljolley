@@ -39,7 +39,7 @@ const displayedAvatars = uniqueAvatars.slice(0, displayQuantity);
 const remainingAvatars = uniqueAvatars.length - displayedAvatars.length;
 ---
 
-<aside class="avatars">
+<aside>
   {
     displayMessage && displayedAvatars.length > 0 && (
       <p>
@@ -71,3 +71,40 @@ const remainingAvatars = uniqueAvatars.length - displayedAvatars.length;
     }
   </div>
 </aside>
+
+<style lang="scss">
+  aside {
+    @apply flex flex-col;
+    @apply w-full;
+    p {
+      @apply flex items-center;
+      @apply mb-2;
+      @apply font-bold font-worksans;
+      svg {
+        @apply w-4 mr-2;
+      }
+    }
+    .icons {
+      @apply flex flex-row;
+
+      div {
+        @apply w-8 h-8;
+
+        &.avatar {
+          @apply w-8 h-8;
+          margin-left: -0.3rem;
+        }
+
+        img {
+          @apply w-8 h-8;
+          @apply rounded-full;
+        }
+
+        &.extra {
+          @apply flex items-center ml-2;
+          @apply text-base font-worksans font-bold;
+        }
+      }
+    }
+  }
+</style>

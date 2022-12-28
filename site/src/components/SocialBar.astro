@@ -70,3 +70,24 @@ import Icon from "./Icon.astro";
     </a>
   </li>
 </ul>
+
+<style lang="scss">
+  ul {
+    @apply flex gap-8 items-center;
+    @apply text-xl;
+    @apply mt-4;
+
+    li {
+      @apply flex justify-center;
+
+      a {
+        @apply fill-neon text-neon;
+
+        &:hover,
+        &:active {
+          @apply fill-white text-white;
+        }
+      }
+    }
+  }
+</style>

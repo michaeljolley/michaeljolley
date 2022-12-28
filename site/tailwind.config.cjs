@@ -27,67 +27,7 @@ module.exports = {
 					youtube: "#e52d27",
 				},
 			},
-			typography: {
-				DEFAULT: {
-					css: {
-						a: {
-							color: "#BDFF00",
-							"text-decoration": "underline",
-						},
-						h1: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						h2: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						h3: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						h4: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						h5: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						h6: {
-							"font-family": "Work Sans",
-							color: "#BDFF00",
-						},
-						pre: {
-							"max-height": "32rem"
-						},
-						"p code": {
-							"background-color": "rgba(156, 163, 175,.3)",
-							"padding": "0 0.2rem",
-							"&:before": {
-								content: "none"
-							},
-							"&:after": {
-								content: "none"
-							}
-						},
-						"blockquote": {
-							"border": "solid 1px #BDFF00",
-							"background-color": "linear-gradient(to bottom, rgba(143, 255, 0, 1) rgba(143, 255, 0, .2)",
-							"padding": "0.2rem 0.4rem",
-							"p": {
-								"&:before": {
-									content: "none"
-								},
-								"&:after": {
-									content: "none"
-								}
-							}
-						}
-					}
-				}
-			}
-		},
+		}
 	},
-	plugins: [require("@tailwindcss/typography")],
-}
+	plugins: []
+};
