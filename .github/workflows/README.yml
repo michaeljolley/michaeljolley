@@ -19,7 +19,7 @@ jobs:
         run: |
           cd readme
           npm install
-          node readme/index.js
+          node index.js
       - name: Commit changes
         id: commit
         env:
