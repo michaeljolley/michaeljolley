@@ -197,7 +197,7 @@ async function _generateBlogData() {
 		return posts;
 	}
 
-	const posts = await getPosts('../site/src/pages/blog/*.md')
+	const posts = await getPosts('../site/src/pages/blog')
 	return posts
 		.sort((a, b) => b.pubDate - a.pubDate)
 		.slice(0, 3);
