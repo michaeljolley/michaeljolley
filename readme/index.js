@@ -208,7 +208,7 @@ async function getTemplate() {
 }
 
 async function saveReadMe(newReadMe) {
-	await fs.writeFile('/README.md', newReadMe);
+	await fs.writeFile('../README.md', newReadMe);
 }
 
 main();
