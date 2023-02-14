@@ -83,7 +83,7 @@ async function _generateYTData() {
 	}
 
 	// Save md files for site build
-	for (i = 0; i < feed.items.length; i++) {
+	for (let i = 0; i < feed.items.length; i++) {
 		const video = feed.items[i];
 		await fs.writeFile(`videos/${video.id.replace('yt:video:', '')}.md`,
 			`---
