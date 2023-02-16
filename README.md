@@ -37,18 +37,18 @@ that hopefully helps you become a better developer.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
   </tr>
