@@ -2,10 +2,7 @@
 
 I've been a developer for a little more than 20 years (yeah, that means I'm old,)
 but I **LOVE** this stuff! The best part of being a developer is constantly
-learning new things and sharing those with others. By day I'm the Head of
-Developer Relations at [Deepgram](https://deepgram.com) where I get to play with
-cool APIs and I spend a lot of time writing, recording, and streaming content
-that hopefully helps you become a better developer.
+learning new things and sharing those with others. 
 
 ## Find Me Everywhere!
 
