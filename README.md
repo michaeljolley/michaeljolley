@@ -12,7 +12,7 @@ learning new things and sharing those with others.
 
 <a href="https://www.twitch.tv/videos/1759388987" target="_blank">
   <h3>Housekeeping with TypeScript</h3>
-  <img src="https://vod-secure.twitch.tv/_404/404_processing_480x272.png" alt="Housekeeping with TypeScript"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/7041a52b95a53813bb02_baldbeardedbuilder_48098027597_1678304746//thumb/thumb0-480x272.jpg" alt="Housekeeping with TypeScript"/>
 </a>
 
 ---
@@ -34,8 +34,8 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
@@ -44,8 +44,8 @@ learning new things and sharing those with others.
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
