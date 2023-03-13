@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
   </tr>
