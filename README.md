@@ -10,9 +10,9 @@ learning new things and sharing those with others.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1759388987" target="_blank">
-  <h3>Housekeeping with TypeScript</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/7041a52b95a53813bb02_baldbeardedbuilder_48098027597_1678304746//thumb/thumb0-480x272.jpg" alt="Housekeeping with TypeScript"/>
+<a href="https://www.twitch.tv/videos/1765032329" target="_blank">
+  <h3>Definitely not using that garbage language TypeScript.  |  !discord !github</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5c312041de2161905371_baldbeardedbuilder_48132100925_1678813606//thumb/thumb0-480x272.jpg" alt="Definitely not using that garbage language TypeScript.  |  !discord !github"/>
 </a>
 
 ---
@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BlazingAmorphousNeanderthalBlargNaut-rsSl1GjliH0An5fY" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1103821159-preview-480x272.jpg" alt="BBB is building Tinder for VS Code themes!"/>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
   </tr>
