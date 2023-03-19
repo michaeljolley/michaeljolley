@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
