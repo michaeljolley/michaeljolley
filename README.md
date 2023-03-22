@@ -10,9 +10,9 @@ learning new things and sharing those with others.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1765961976" target="_blank">
-  <h3>Definitely not using that garbage language TypeScript.  |  !discord !github</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/34abe11b4c9fdcab7f99_baldbeardedbuilder_48137740125_1678899898//thumb/thumb0-480x272.jpg" alt="Definitely not using that garbage language TypeScript.  |  !discord !github"/>
+<a href="https://www.twitch.tv/videos/1771607956" target="_blank">
+  <h3>Machine Learning the crap outta VS Code  |  !discord !github</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/ef7e4dda7b02331e0b0c_baldbeardedbuilder_48172769421_1679418869//thumb/thumb0-480x272.jpg" alt="Machine Learning the crap outta VS Code  |  !discord !github"/>
 </a>
 
 ---
@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
   </tr>
