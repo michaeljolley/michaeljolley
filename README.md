@@ -10,9 +10,9 @@ learning new things and sharing those with others.
 
 ## 📽️ Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1773424290" target="_blank">
-  <h3>{Insert clickbait title here. Don&#39;t forget this time.}  |  !discord !github</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6aed01595729a3886425_baldbeardedbuilder_48183578077_1679594160//thumb/thumb0-480x272.jpg" alt="{Insert clickbait title here. Don&#39;t forget this time.}  |  !discord !github"/>
+<a href="https://www.twitch.tv/videos/1778221384" target="_blank">
+  <h3>Editing videos in Premiere {sneak peek} |  !discord !github</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/48cf2536db3d78e90d0a_baldbeardedbuilder_48213739069_1680026492//thumb/thumb0-480x272.jpg" alt="Editing videos in Premiere {sneak peek} |  !discord !github"/>
 </a>
 
 ---
@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
   </tr>
