@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
   </tr>
