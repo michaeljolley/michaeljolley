@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
   </tr>
