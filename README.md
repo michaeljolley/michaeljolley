@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
+      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/ComfortableYawningPepperoniCurseLit" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852899812-preview-480x272.jpg" alt="Say something nice about @whitep4nth3r"/>
       </a>
     </td>
   </tr>
