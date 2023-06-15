@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://clips.twitch.tv/BlazingAmorphousNeanderthalBlargNaut-rsSl1GjliH0An5fY" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1103821159-preview-480x272.jpg" alt="BBB is building Tinder for VS Code themes!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
@@ -58,11 +58,6 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=_osa3vgUiCg" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/_osa3vgUiCg/mqdefault.jpg" alt="I Built a LEGO NES and it Actually Works!"/>
-      </a>
-    </td>
-    <td>
       <a href="https://www.youtube.com/watch?v=9nXXWOHjU24" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/9nXXWOHjU24/mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
       </a>
@@ -70,6 +65,11 @@ learning new things and sharing those with others.
     <td>
       <a href="https://www.youtube.com/watch?v=OjkbonKOzec" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/OjkbonKOzec/mqdefault.jpg" alt="Lint YAML in VS Code | Extension Highlight"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=ZxNnOjWetH4" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ZxNnOjWetH4/mqdefault.jpg" alt="Spell Check in VS Code with Code Spell Checker | Extension Highlight"/>
       </a>
     </td>
   </tr>
