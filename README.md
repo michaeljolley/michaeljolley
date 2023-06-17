@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
