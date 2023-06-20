@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ComfortableYawningPepperoniCurseLit" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852899812-preview-480x272.jpg" alt="Say something nice about @whitep4nth3r"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
