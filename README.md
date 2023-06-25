@@ -34,18 +34,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
   </tr>
