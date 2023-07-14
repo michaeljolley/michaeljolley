@@ -1,18 +1,22 @@
-# 👋 Hi! I'm Michael.
-
-I've been a developer for a little more than 20 years (yeah, that means I'm old,)
-but I **LOVE** this stuff! The best part of being a developer is constantly
-learning new things and sharing those with others. 
-
 ## Find Me Everywhere!
 
 [![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Twitter Follow](https://img.shields.io/twitter/follow/michaeljolley?style=social)](https://twitter.com/michaeljolley) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
 
-## 📽️ Most Recent Live-stream
+# 👋 Hi! I'm Michael.
 
-<a href="https://www.twitch.tv/videos/1841105201" target="_blank">
-  <h3>Making Discord search engine friendly</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b0d4a2b9d6583d4dea72_baldbeardedbuilder_48635970573_1686247446//thumb/thumb0-480x272.jpg" alt="Making Discord search engine friendly"/>
+> AKA: The Bald Bearded Builder
+
+I've been a developer since... well, we didn't have CSS and no one was sure if JavaScript or VBScript was going to win the browser wars.
+
+After years of building and leading developers, I now spend my days creating workshops, live streams, demos and other content to help developers learn new skills and level up their careers.
+
+Here's a few of my recent ramblings:
+
+## 🚨 Most Recent Live-stream
+
+<a href="https://www.twitch.tv/videos/1871040480" target="_blank">
+  <h3>Work time. Adding nanostores to my Astro site</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/5e3124e09896967630a0_baldbeardedbuilder_48854418973_1689275551//thumb/thumb0-480x272.jpg" alt="Work time. Adding nanostores to my Astro site"/>
 </a>
 
 ---
@@ -20,12 +24,11 @@ learning new things and sharing those with others.
 
 ## 📝 Recent Blog Posts
 
-[How to Email Phone Call Transcripts with Twilio Studio and Pipedream](https://baldbeardedbuilder.com/blog/blog/)
+[Building a Discord Bot to Improve Inclusive Language](https://baldbeardedbuilder.com/blog/building-a-discord-bot-to-improve-inclusive-language/)
 
-[Try Whisper: OpenAI&#39;s Speech Recognition Model in 1 Minute](https://baldbeardedbuilder.com/blog/blog/)
+[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
 
-[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/blog/)
-
+[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
 ---
 
@@ -34,18 +37,18 @@ learning new things and sharing those with others.
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BlazingAmorphousNeanderthalBlargNaut-rsSl1GjliH0An5fY" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1103821159-preview-480x272.jpg" alt="BBB is building Tinder for VS Code themes!"/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
