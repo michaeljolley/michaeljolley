@@ -55,11 +55,9 @@ async function generateData() {
 
 	const videos = await _generateYTData();
 	const twitch = await _generateTwitchData();
-	const posts = await _generateBlogData();
 
 	return {
 		...twitch,
-		posts,
 		videos
 	};
 }
@@ -169,38 +167,6 @@ async function _generateTwitchData() {
 			}
 		})
 	};
-}
-
-async function _generateBlogData() {
-
-	const getPosts = async (path) => {
-		const files = await fs.readdir(path, { withFileTypes: true });
-		const posts = [];
-
-		for (let i = 0; i < files.length; i++) {
-			if (files[i].isDirectory()) {
-				posts.push(...(await getPosts(`${path}/${files[i].name}`)))
-			} else if (files[i].name.includes(".md")) {
-
-				const fileInfo = await fs.readFile(`${path}/${files[i].name}`, 'utf8');
-				const deets = matter(fileInfo)
-
-				posts.push({
-					title: deets.data.title,
-					pubDate: new Date(deets.data.pubDate),
-					description: deets.data.description,
-					tags: deets.data.tags,
-					link: `https://baldbeardedbuilder.com/blog/${path.split('/').slice(-1)}/`
-				})
-			}
-		}
-		return posts;
-	}
-
-	const posts = await getPosts('../site/src/pages/blog')
-	return posts
-		.sort((a, b) => b.pubDate - a.pubDate)
-		.slice(0, 3);
 }
 
 async function getTemplate() {
