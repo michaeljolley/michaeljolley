@@ -14,9 +14,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1881451429" target="_blank">
-  <h3>Changing my channel name to BBBX</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e3f4230b386d4d33795d_baldbeardedbuilder_48954977869_1690308569//thumb/thumb0-480x272.jpg" alt="Changing my channel name to BBBX"/>
+<a href="https://www.twitch.tv/videos/1883198493" target="_blank">
+  <h3>Learning some .NET Blazor</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/78ecd25af8d573259a7a_baldbeardedbuilder_48970933069_1690481081//thumb/thumb0-480x272.jpg" alt="Learning some .NET Blazor"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
+      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=AFrMhIvvGZU" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/AFrMhIvvGZU/mqdefault.jpg" alt=".NET Blazor movie trailer #dotnet #csharp #visualbasic #developer #programming #software"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=tgEBSuqD4w4" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/tgEBSuqD4w4/mqdefault.jpg" alt="I’ve Never Built this for a Client #vscode #javascript #twitch #reactjs #vuejs #dotnet"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=9nXXWOHjU24" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/9nXXWOHjU24/mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=OjkbonKOzec" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/OjkbonKOzec/mqdefault.jpg" alt="Lint YAML in VS Code | Extension Highlight"/>
       </a>
     </td>
   </tr>
