@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/DifficultSpikyTriangleDatSheffy" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C851979336-preview-480x272.jpg" alt="Let it go~ :D"/>
+      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ModernGorgeousParrotPupper" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C820515521-preview-480x272.jpg" alt="VJJ wets the bed"/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=A4hNd2AS_VI" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/A4hNd2AS_VI/mqdefault.jpg" alt="Spell checking your code is easy now! #vscode #dotnet #javascript #typescript #programming"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=AFrMhIvvGZU" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/AFrMhIvvGZU/mqdefault.jpg" alt=".NET Blazor movie trailer #dotnet #csharp #visualbasic #developer #programming #software"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=tgEBSuqD4w4" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/tgEBSuqD4w4/mqdefault.jpg" alt="I’ve Never Built this for a Client #vscode #javascript #twitch #reactjs #vuejs #dotnet"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=9nXXWOHjU24" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/9nXXWOHjU24/mqdefault.jpg" alt="Edit CSV with VS Code | Extension Highlight"/>
       </a>
     </td>
   </tr>
