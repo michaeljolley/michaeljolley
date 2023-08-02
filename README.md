@@ -37,13 +37,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=i4jsvC_mzPI" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/i4jsvC_mzPI/mqdefault.jpg" alt="What if AI takes developer jobs!? #javascript #programming #vscode"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=A4hNd2AS_VI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/A4hNd2AS_VI/mqdefault.jpg" alt="Spell checking your code is easy now! #vscode #dotnet #javascript #typescript #programming"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=AFrMhIvvGZU" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/AFrMhIvvGZU/mqdefault.jpg" alt=".NET Blazor movie trailer #dotnet #csharp #visualbasic #developer #programming #software"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=tgEBSuqD4w4" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/tgEBSuqD4w4/mqdefault.jpg" alt="I’ve Never Built this for a Client #vscode #javascript #twitch #reactjs #vuejs #dotnet"/>
       </a>
     </td>
   </tr>
