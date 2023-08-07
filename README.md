@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
   </tr>
@@ -62,7 +62,7 @@ Here's a few of my recent ramblings:
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=KQtYl4tIivI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="HTML the easy way! #vscode #code #developer #html #programming"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="You’re writing HTML wrong! #vscode #code #developer #html #programming"/>
       </a>
     </td>
     <td>
@@ -72,7 +72,7 @@ Here's a few of my recent ramblings:
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=A4hNd2AS_VI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/A4hNd2AS_VI/mqdefault.jpg" alt="Spell Checking in VS Code!? #vscode #dotnet #javascript #typescript #programming"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/A4hNd2AS_VI/mqdefault.jpg" alt="Stop spelling your code wrong! #vscode #dotnet #javascript #typescript #programming"/>
       </a>
     </td>
   </tr>
