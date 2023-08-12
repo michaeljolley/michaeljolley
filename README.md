@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
       <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=BGvYjLgo-Uk" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="Finally! Someone Codes As Hard As Me! #code #programming #vscode #javascript #python #golang"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=KQtYl4tIivI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="You’re writing HTML wrong! #vscode #code #developer #html #programming"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=i4jsvC_mzPI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/i4jsvC_mzPI/mqdefault.jpg" alt="What if AI takes developer jobs!? #javascript #programming #vscode"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=A4hNd2AS_VI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/A4hNd2AS_VI/mqdefault.jpg" alt="Stop spelling your code wrong! #vscode #dotnet #javascript #typescript #programming"/>
       </a>
     </td>
   </tr>
