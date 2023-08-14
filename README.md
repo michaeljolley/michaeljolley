@@ -14,9 +14,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1893512041" target="_blank">
-  <h3>OCAML is the new ActionScript</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/1edb87827abe44c14301_baldbeardedbuilder_49056035181_1691518042//thumb/thumb0-480x272.jpg" alt="OCAML is the new ActionScript"/>
+<a href="https://www.twitch.tv/videos/1895387540" target="_blank">
+  <h3>{Insert Clickbait Title... Don&#39;t forget to change before stream}</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/c9fb8ce5c825a3c0a788_baldbeardedbuilder_49069740045_1691701954//thumb/thumb0-480x272.jpg" alt="{Insert Clickbait Title... Don&#39;t forget to change before stream}"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
   </tr>
@@ -62,7 +62,7 @@ Here's a few of my recent ramblings:
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=BGvYjLgo-Uk" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="Who&#39;s Writing the Best Python? This Guy! #code #programming #vscode #javascript #python #developer"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="My code deserves some hype! #code #programming #vscode #python #javascript  #developer"/>
       </a>
     </td>
     <td>
