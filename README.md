@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=hF4rRRQDY1g" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/hF4rRRQDY1g/mqdefault.jpg" alt="Screen shot VSCode in seconds 📸 #vscode #programming #developer #javascript #dotnet #python"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=BGvYjLgo-Uk" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="My code deserves some hype! #code #programming #vscode #python #javascript  #developer"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=KQtYl4tIivI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="You’re writing HTML wrong! #vscode #code #developer #html #programming"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=i4jsvC_mzPI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/i4jsvC_mzPI/mqdefault.jpg" alt="What if AI takes developer jobs!? #javascript #programming #vscode"/>
       </a>
     </td>
   </tr>
