@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
@@ -62,17 +62,17 @@ Here's a few of my recent ramblings:
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=hF4rRRQDY1g" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/hF4rRRQDY1g/mqdefault.jpg" alt="Screen shot VSCode in seconds 📸 #vscode #programming #developer #javascript #dotnet #python"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/hF4rRRQDY1g/mqdefault.jpg" alt="Screenshot VS Code like a pro 📸 #vscode #programming #developer #javascript #dotnet #python"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=BGvYjLgo-Uk" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="My code deserves some hype! #code #programming #vscode #python #javascript  #developer"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="Bongo cat loves my code! #code #programming #vscode #python #javascript  #developer"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=KQtYl4tIivI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="You’re writing HTML wrong! #vscode #code #developer #html #programming"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/KQtYl4tIivI/mqdefault.jpg" alt="HTML in VS Code &#x3D; Easy Mode #vscode #code #developer #html #programming"/>
       </a>
     </td>
   </tr>
