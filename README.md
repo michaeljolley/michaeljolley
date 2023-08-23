@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=s7fK0owVO3s" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/s7fK0owVO3s/mqdefault.jpg" alt="I Tried NeoVIM #neovim #vscode #programming #developer #code #programmerhumor"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=nIq2YPPm6es" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/nIq2YPPm6es/mqdefault.jpg" alt="I Don&#39;t Hate YAML Anymore!  #vscode #programming #developer #code #yaml"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=hF4rRRQDY1g" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/hF4rRRQDY1g/mqdefault.jpg" alt="Screenshot VS Code like a pro 📸 #vscode #programming #developer #javascript #dotnet #python"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BGvYjLgo-Uk" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BGvYjLgo-Uk/mqdefault.jpg" alt="Bongo cat loves my code! #code #programming #vscode #python #javascript  #developer"/>
       </a>
     </td>
   </tr>
