@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
   </tr>
