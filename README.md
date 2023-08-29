@@ -14,9 +14,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1910881185" target="_blank">
-  <h3>JavaScript Developers Don&#39;t Exist</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/01400c51e86741297597_baldbeardedbuilder_49185824317_1693238629//thumb/thumb0-480x272.jpg" alt="JavaScript Developers Don&#39;t Exist"/>
+<a href="https://www.twitch.tv/videos/1911735617" target="_blank">
+  <h3>Learning to Test GoLang</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4ddadf1824d83aa23991_baldbeardedbuilder_49192632621_1693325460//thumb/thumb0-480x272.jpg" alt="Learning to Test GoLang"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
   </tr>
