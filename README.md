@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
-      </a>
-    </td>
-    <td>
       <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
