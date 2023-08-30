@@ -10,9 +10,7 @@ async function main() {
 	try {
 		const payload = await generateData();
 		const template = await getTemplate();
-
 		const newReadMe = Mustache.render(template, payload);
-
 		await saveReadMe(newReadMe);
 	}
 	catch (err) {
