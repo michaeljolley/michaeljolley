@@ -14,9 +14,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1911735617" target="_blank">
-  <h3>Learning to Test GoLang</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/4ddadf1824d83aa23991_baldbeardedbuilder_49192632621_1693325460//thumb/thumb0-480x272.jpg" alt="Learning to Test GoLang"/>
+<a href="https://www.twitch.tv/videos/1912607161" target="_blank">
+  <h3>Taking over the world Pinky</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/cf3ac49578cfc4d842e3_baldbeardedbuilder_49199341181_1693411391//thumb/thumb0-480x272.jpg" alt="Taking over the world Pinky"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
   </tr>
