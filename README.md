@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
   </tr>
