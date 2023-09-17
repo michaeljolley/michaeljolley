@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
   </tr>
