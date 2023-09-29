@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
   </tr>
