@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
