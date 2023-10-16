@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
   </tr>
