@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
