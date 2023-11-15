@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
+      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
   </tr>
@@ -61,6 +61,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=bKdu1eDFu04" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/bKdu1eDFu04/mqdefault.jpg" alt="Discover the Power of C# 12&#39;s New Primary Constructors"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=s7fK0owVO3s" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/s7fK0owVO3s/mqdefault.jpg" alt="I Tried NeoVIM #neovim #vscode #programming #developer #code #programmerhumor"/>
       </a>
@@ -68,11 +73,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=nIq2YPPm6es" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/nIq2YPPm6es/mqdefault.jpg" alt="I Don&#39;t Hate YAML Anymore!  #vscode #programming #developer #code #yaml"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=hF4rRRQDY1g" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/hF4rRRQDY1g/mqdefault.jpg" alt="Screenshot VS Code like a pro 📸 #vscode #programming #developer #javascript #dotnet #python"/>
       </a>
     </td>
   </tr>
