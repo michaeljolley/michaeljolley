@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
   </tr>
@@ -61,18 +61,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=0pA6c2Ua_7E" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/0pA6c2Ua_7E/mqdefault.jpg" alt="Now I Can Alias Anything in C#!?"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=bKdu1eDFu04" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/bKdu1eDFu04/mqdefault.jpg" alt="Discover the Power of C# 12&#39;s New Primary Constructors"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/bKdu1eDFu04/mqdefault.jpg" alt="They Changed C# Constructors!?"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=s7fK0owVO3s" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/s7fK0owVO3s/mqdefault.jpg" alt="I Tried NeoVIM #neovim #vscode #programming #developer #code #programmerhumor"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=nIq2YPPm6es" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/nIq2YPPm6es/mqdefault.jpg" alt="I Don&#39;t Hate YAML Anymore!  #vscode #programming #developer #code #yaml"/>
       </a>
     </td>
   </tr>
