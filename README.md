@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
   </tr>
@@ -61,18 +61,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=NNvuABk_XtY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/NNvuABk_XtY/mqdefault.jpg" alt="How has .NET not had this before!? #csharp #dotnet #developer #code #programming"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=87ZEZpCCyUw" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/87ZEZpCCyUw/mqdefault.jpg" alt="Better C# Anonymous Functions &amp; Lambdas"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/87ZEZpCCyUw/mqdefault.jpg" alt="Better C# Anonymous Functions &amp; Lambdas #csharp #dotnet #developer #code #programming"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=0pA6c2Ua_7E" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/0pA6c2Ua_7E/mqdefault.jpg" alt="Alias Any Type in C# 12?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=bKdu1eDFu04" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/bKdu1eDFu04/mqdefault.jpg" alt="They Changed C# Constructors!?"/>
       </a>
     </td>
   </tr>
