@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
   </tr>
@@ -72,7 +72,7 @@ Here's a few of my recent ramblings:
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=0pA6c2Ua_7E" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/0pA6c2Ua_7E/mqdefault.jpg" alt="Alias Any Type in C# 12?"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/0pA6c2Ua_7E/mqdefault.jpg" alt="Alias Any Type in C# 12"/>
       </a>
     </td>
   </tr>
