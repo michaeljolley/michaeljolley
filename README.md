@@ -14,9 +14,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/1941671470" target="_blank">
-  <h3>Back to my .NET roots for Hacktoberfest</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/8cdf6da35ea11af3819c_baldbeardedbuilder_49415667613_1696348855//thumb/thumb0-480x272.jpg" alt="Back to my .NET roots for Hacktoberfest"/>
+<a href="https://www.twitch.tv/videos/550912420" target="_blank">
+  <h3>Theme song</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/37606de398f7d29c9169_baldbeardedbuilder_11312504137_7568630569//thumb/thumb550912420-480x272.jpg" alt="Theme song"/>
 </a>
 
 ---
@@ -37,18 +37,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
