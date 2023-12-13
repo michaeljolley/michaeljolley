@@ -6,55 +6,23 @@
 
 > AKA: The Bald Bearded Builder
 
-I've been a developer since... well, we didn't have CSS and no one was sure if JavaScript or VBScript was going to win the browser wars.
+I've been a developer since... well, we didn't have CSS and you had to decide between JavaScript and VBScript for interactivity.
 
 After years of building and leading developers, I now spend my days creating workshops, live streams, demos and other content to help developers learn new skills and level up their careers.
 
 Here's a few of my recent ramblings:
 
-## 🚨 Most Recent Live-stream
-
-<a href="https://www.twitch.tv/videos/550912420" target="_blank">
-  <h3>Theme song</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/37606de398f7d29c9169_baldbeardedbuilder_11312504137_7568630569//thumb/thumb550912420-480x272.jpg" alt="Theme song"/>
-</a>
-
----
-
-
 ## 📝 Recent Blog Posts
 
-[Building a Discord Bot to Improve Inclusive Language](https://baldbeardedbuilder.com/blog/building-a-discord-bot-to-improve-inclusive-language/)
 
-[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
+[Alias any Type with C# 12](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;alias-any-type-in-csharp-12&#x2F;)
 
-[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
----
+[Using Primary Constructors in C# 12 &amp; .NET 8](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;primary-constructors-in-csharp-12-dotnet&#x2F;)
 
-## 📽️ Random Twitch Clips
 
-<table>
-  <tr>
-    <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
-      </a>
-    </td>
-  </tr>
-</table>
+[Integrating a Notion Database with an Astro Site](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;integrating-notion-with-astro-sites&#x2F;)
 
----
 
 ## 📺 Recent YouTube Videos
 
@@ -77,3 +45,40 @@ Here's a few of my recent ramblings:
     </td>
   </tr>
 </table>
+
+
+## 🚨 Most Recent Live-stream
+
+<a href="https://www.twitch.tv/videos/550912420" target="_blank">
+  <h3>Theme song</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/37606de398f7d29c9169_baldbeardedbuilder_11312504137_7568630569//thumb/thumb550912420-480x272.jpg" alt="Theme song"/>
+</a>
+
+---
+
+
+---
+
+## 📽️ Random Twitch Clips
+
+<table>
+  <tr>
+    <td>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
