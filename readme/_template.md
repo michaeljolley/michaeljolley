@@ -6,13 +6,36 @@
 
 > AKA: The Bald Bearded Builder
 
-I've been a developer since... well, we didn't have CSS and no one was sure if JavaScript or VBScript was going to win the browser wars.
+I've been a developer since... well, we didn't have CSS and you had to decide between JavaScript and VBScript for interactivity.
 
 After years of building and leading developers, I now spend my days creating workshops, live streams, demos and other content to help developers learn new skills and level up their careers.
 
 Here's a few of my recent ramblings:
 
+## 📝 Recent Blog Posts
+
+{{#posts}}
+
+[{{title}}]({{link}})
+
+{{/posts}}
+
+## 📺 Recent YouTube Videos
+
+<table>
+  <tr>
+    {{#videos}}
+    <td>
+      <a href="{{{link}}}" target="_blank">
+        <img style="align=center" src="{{{thumbnail}}}" alt="{{title}}"/>
+      </a>
+    </td>
+    {{/videos}}
+  </tr>
+</table>
+
 {{#streams}}
+
 ## 🚨 Most Recent Live-stream
 
 <a href="{{{url}}}" target="_blank">
@@ -23,14 +46,6 @@ Here's a few of my recent ramblings:
 ---
 
 {{/streams}}
-
-## 📝 Recent Blog Posts
-
-[Building a Discord Bot to Improve Inclusive Language](https://baldbeardedbuilder.com/blog/building-a-discord-bot-to-improve-inclusive-language/)
-
-[Updating Notion Cover Images with Pipedream and JavaScript](https://baldbeardedbuilder.com/blog/how-to-update-notion-cover-image-with-javascript/)
-
-[Creating Short URLs with Netlify Functions and FaunaDb](https://baldbeardedbuilder.com/blog/using-netlify-functions-faunadb-for-short-urls/)
 
 ---
 
@@ -49,17 +64,3 @@ Here's a few of my recent ramblings:
 </table>
 
 ---
-
-## 📺 Recent YouTube Videos
-
-<table>
-  <tr>
-    {{#videos}}
-    <td>
-      <a href="{{{link}}}" target="_blank">
-        <img style="align=center" src="{{{thumbnail}}}" alt="{{title}}"/>
-      </a>
-    </td>
-    {{/videos}}
-  </tr>
-</table>
