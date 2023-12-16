@@ -64,13 +64,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
     <td>
