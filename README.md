@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ToughBlatantLobsterOMGScoots" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858713031-preview-480x272.jpg" alt="Azure Portal Feedback - can&#39;t read info on dark mode"/>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
