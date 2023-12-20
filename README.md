@@ -15,13 +15,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Choosing Between Controllers and Minimal API for .NET APIs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;choosing-between-dotnet-controllers-and-minimal-apis&#x2F;)
+
+
 [Alias any Type with C# 12](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;alias-any-type-in-csharp-12&#x2F;)
 
 
 [Using Primary Constructors in C# 12 &amp; .NET 8](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;primary-constructors-in-csharp-12-dotnet&#x2F;)
-
-
-[Integrating a Notion Database with an Astro Site](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;integrating-notion-with-astro-sites&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/ArtisticAverageSnoodPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C819263667-preview-480x272.jpg" alt="tick tick tick tick tick tick... CARRIAGE RETURN!!!"/>
       </a>
     </td>
   </tr>
