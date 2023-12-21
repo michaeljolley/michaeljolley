@@ -158,6 +158,7 @@ async function _generateBlogData() {
   const feed = await parser.parseURL(`https://baldbeardedbuilder.com/rss.xml`);
 
   return feed.items
+    .filter((m) => m.link.includes("/blog/"))
     .sort((a, b) => {
       return new Date(b.pubDate) - new Date(a.pubDate);
     })
