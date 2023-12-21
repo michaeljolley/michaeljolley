@@ -18,10 +18,10 @@ Here's a few of my recent ramblings:
 [Choosing Between Controllers and Minimal API for .NET APIs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;choosing-between-dotnet-controllers-and-minimal-apis&#x2F;)
 
 
-[Alias any Type with C# 12](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;alias-any-type-in-csharp-12&#x2F;)
+[Fake AI, Astro 4.0, and Government Spying](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;brain-dump&#x2F;0019&#x2F;)
 
 
-[Using Primary Constructors in C# 12 &amp; .NET 8](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;primary-constructors-in-csharp-12-dotnet&#x2F;)
+[OKLCH, Vite, and .NET goodies!](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;brain-dump&#x2F;0018&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
-      </a>
-    </td>
-    <td>
       <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
   </tr>
