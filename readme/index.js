@@ -157,14 +157,19 @@ async function _generateBlogData() {
 
   const feed = await parser.parseURL(`https://baldbeardedbuilder.com/rss.xml`);
 
-  return feed.items.slice(0, 3).map((m) => {
-    return {
-      title: m.title,
-      link: m.link,
-      description: m.description,
-      date: m.pubDate ? new Date(m.pubDate) : new Date(),
-    };
-  });
+  return feed.items
+    .sort((a, b) => {
+      return new Date(b.pubDate) - new Date(a.pubDate);
+    })
+    .slice(0, 3)
+    .map((m) => {
+      return {
+        title: m.title,
+        link: m.link,
+        description: m.description,
+        date: m.pubDate ? new Date(m.pubDate) : new Date(),
+      };
+    });
 }
 
 async function getTemplate() {
