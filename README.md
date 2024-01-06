@@ -69,13 +69,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
   </tr>
