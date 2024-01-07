@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
   </tr>
