@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
