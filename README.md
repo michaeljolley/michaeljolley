@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
-      </a>
-    </td>
-    <td>
       <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
