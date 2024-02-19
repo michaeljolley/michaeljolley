@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/ViscousSpikyWoodpeckerFunRun" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852932541-preview-480x272.jpg" alt="Dance Monkey Dance"/>
       </a>
     </td>
   </tr>
