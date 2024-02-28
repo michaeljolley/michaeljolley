@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=xgyclPKGllQ" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/xgyclPKGllQ/mqdefault.jpg" alt="What IS git switch!? #git #github #gitlab #code #developer #programmer"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=NNvuABk_XtY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/NNvuABk_XtY/mqdefault.jpg" alt="How has .NET not had this before!? #csharp #dotnet #developer #code #programming"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/87ZEZpCCyUw/mqdefault.jpg" alt="Better C# Anonymous Functions &amp; Lambdas #csharp #dotnet #developer #code #programming"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=0pA6c2Ua_7E" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/0pA6c2Ua_7E/mqdefault.jpg" alt="Alias Any Type in C# 12"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/550912420" target="_blank">
-  <h3>Theme song</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/37606de398f7d29c9169_baldbeardedbuilder_11312504137_7568630569//thumb/thumb550912420-480x272.jpg" alt="Theme song"/>
+<a href="https://www.twitch.tv/videos/2075239350" target="_blank">
+  <h3>Coworking, recording, and periodic chat</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d849845be3c337937aa6_baldbeardedbuilder_50499146445_1709046975//thumb/thumb2-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      </a>
+    </td>
+    <td>
       <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
   </tr>
