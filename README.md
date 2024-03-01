@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=vUDRO0Eoc-Q" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/vUDRO0Eoc-Q/mqdefault.jpg" alt="Your JavaScript Bundle is HOW Big!? This VS Code extension can help!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=xgyclPKGllQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/xgyclPKGllQ/mqdefault.jpg" alt="What IS git switch!? #git #github #gitlab #code #developer #programmer"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/NNvuABk_XtY/mqdefault.jpg" alt="How has .NET not had this before!? #csharp #dotnet #developer #code #programming"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=87ZEZpCCyUw" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/87ZEZpCCyUw/mqdefault.jpg" alt="Better C# Anonymous Functions &amp; Lambdas #csharp #dotnet #developer #code #programming"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2075239350" target="_blank">
+<a href="https://www.twitch.tv/videos/2077370310" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/d849845be3c337937aa6_baldbeardedbuilder_50499146445_1709046975//thumb/thumb2-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/731cc71907a756b556fa_baldbeardedbuilder_50516447741_1709239893//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
   </tr>
