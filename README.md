@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=JkvYc1u9Fl4" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/JkvYc1u9Fl4/mqdefault.jpg" alt="What is @GitHub Gist? #code #developer #programming #javascript #typescript #github #githubtutorial"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=vUDRO0Eoc-Q" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/vUDRO0Eoc-Q/mqdefault.jpg" alt="Improve App Bundle Size with Import Cost"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=xgyclPKGllQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/xgyclPKGllQ/mqdefault.jpg" alt="What IS git switch!? #git #github #gitlab #code #developer #programmer"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=NNvuABk_XtY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/NNvuABk_XtY/mqdefault.jpg" alt="How has .NET not had this before!? #csharp #dotnet #developer #code #programming"/>
       </a>
     </td>
   </tr>
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
   </tr>
