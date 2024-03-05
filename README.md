@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=9QUQ8_caedw" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/9QUQ8_caedw/mqdefault.jpg" alt="VS Code Extensions are Bad!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=JkvYc1u9Fl4" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/JkvYc1u9Fl4/mqdefault.jpg" alt="What is @GitHub Gist? #code #developer #programming #javascript #typescript #github #githubtutorial"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/JkvYc1u9Fl4/mqdefault.jpg" alt="What is GitHub Gist? #code #developer #programming #javascript #typescript #github #githubtutorial"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=vUDRO0Eoc-Q" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/vUDRO0Eoc-Q/mqdefault.jpg" alt="Improve App Bundle Size with Import Cost"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=xgyclPKGllQ" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/xgyclPKGllQ/mqdefault.jpg" alt="What IS git switch!? #git #github #gitlab #code #developer #programmer"/>
       </a>
     </td>
   </tr>
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
       </a>
     </td>
   </tr>
