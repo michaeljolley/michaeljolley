@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=sEZstSgt-vo" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/sEZstSgt-vo/mqdefault.jpg" alt="Why do Startups hate .NET!?"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=9QUQ8_caedw" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/9QUQ8_caedw/mqdefault.jpg" alt="VS Code Extensions are Bad!"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/JkvYc1u9Fl4/mqdefault.jpg" alt="What is GitHub Gist? #code #developer #programming #javascript #typescript #github #githubtutorial"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=vUDRO0Eoc-Q" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/vUDRO0Eoc-Q/mqdefault.jpg" alt="Improve App Bundle Size with Import Cost"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2078076123" target="_blank">
+<a href="https://www.twitch.tv/videos/2083234099" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/3304c3401c88ecdfb94e_baldbeardedbuilder_50522225069_1709309097//thumb/thumb1-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/18a83449220aba99581f_baldbeardedbuilder_50566046749_1709763421//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
   </tr>
