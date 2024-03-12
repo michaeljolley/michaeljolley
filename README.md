@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=70jllnMbGTY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/70jllnMbGTY/mqdefault.jpg" alt=".NET Controllers, Minimal API, or Fast Endpoints?"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=VYKtLWCv0tY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/VYKtLWCv0tY/mqdefault.jpg" alt="What is git clean 🤯 #git #github #gitlab"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/sEZstSgt-vo/mqdefault.jpg" alt="Why do Startups hate .NET!?"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=9QUQ8_caedw" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/9QUQ8_caedw/mqdefault.jpg" alt="VS Code Extensions are Bad!"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2084784550" target="_blank">
+<a href="https://www.twitch.tv/videos/2087720212" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/cc975e1d897285b30dd9_baldbeardedbuilder_50578731037_1709913634//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/880a50ea342982017682_baldbeardedbuilder_50605255613_1710165968//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
