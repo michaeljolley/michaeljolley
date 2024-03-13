@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=v-nKgRil02A" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/v-nKgRil02A/mqdefault.jpg" alt="Where&#39;s my code!? #vscode #vscodeextensions #code"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=70jllnMbGTY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/70jllnMbGTY/mqdefault.jpg" alt=".NET Controllers, Minimal API, or Fast Endpoints?"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/VYKtLWCv0tY/mqdefault.jpg" alt="What is git clean 🤯 #git #github #gitlab"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=sEZstSgt-vo" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/sEZstSgt-vo/mqdefault.jpg" alt="Why do Startups hate .NET!?"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2087720212" target="_blank">
+<a href="https://www.twitch.tv/videos/2088643827" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/880a50ea342982017682_baldbeardedbuilder_50605255613_1710165968//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/bd4e93e5b16fb69acd00_baldbeardedbuilder_50613139837_1710253785//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
   </tr>
