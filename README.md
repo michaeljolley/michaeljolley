@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=Xsm35nUWZnQ" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/Xsm35nUWZnQ/mqdefault.jpg" alt="Uncut Confessional Vol. 1"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=v-nKgRil02A" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/v-nKgRil02A/mqdefault.jpg" alt="Where&#39;s my code!? #vscode #vscodeextensions #code"/>
       </a>
@@ -38,20 +43,15 @@ Here's a few of my recent ramblings:
         <img style="align=center" src="https://i2.ytimg.com/vi/70jllnMbGTY/mqdefault.jpg" alt=".NET Controllers, Minimal API, or Fast Endpoints?"/>
       </a>
     </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=VYKtLWCv0tY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/VYKtLWCv0tY/mqdefault.jpg" alt="What is git clean 🤯 #git #github #gitlab"/>
-      </a>
-    </td>
   </tr>
 </table>
 
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2088643827" target="_blank">
+<a href="https://www.twitch.tv/videos/2089564220" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/bd4e93e5b16fb69acd00_baldbeardedbuilder_50613139837_1710253785//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6ee2da5b3720703ab93f_baldbeardedbuilder_50620982477_1710338542//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
       </a>
     </td>
   </tr>
