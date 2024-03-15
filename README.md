@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=ku2K9mTMJBU" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ku2K9mTMJBU/mqdefault.jpg" alt="Edit GitHub Gists in VS Code! #vscode #github #githubgist"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=oJxGUKzCVmY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/oJxGUKzCVmY/mqdefault.jpg" alt="Uncut Confessional Vol. 2"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=Xsm35nUWZnQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/Xsm35nUWZnQ/mqdefault.jpg" alt="Uncut Confessional Vol. 1"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=v-nKgRil02A" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/v-nKgRil02A/mqdefault.jpg" alt="Where&#39;s my code!? #vscode #vscodeextensions #code"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=70jllnMbGTY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/70jllnMbGTY/mqdefault.jpg" alt=".NET Controllers, Minimal API, or Fast Endpoints?"/>
       </a>
     </td>
   </tr>
@@ -49,9 +49,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2089564220" target="_blank">
+<a href="https://www.twitch.tv/videos/2090486668" target="_blank">
   <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/6ee2da5b3720703ab93f_baldbeardedbuilder_50620982477_1710338542//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/fc293c0675f1a211f9f8_baldbeardedbuilder_50628805789_1710424627//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
   </tr>
