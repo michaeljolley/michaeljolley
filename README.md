@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=CFKhuEGY8IU" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/CFKhuEGY8IU/mqdefault.jpg" alt="What is Git Stash? #git #gittutorial #code"/>
+      <a href="https://www.youtube.com/watch?v=tP5bhciEyHE" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/tP5bhciEyHE/mqdefault.jpg" alt="Take Me Home VS Code #vscode #code #developer #programmer #javascript #typescript #python #dotnet"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=ku2K9mTMJBU" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/ku2K9mTMJBU/mqdefault.jpg" alt="Edit GitHub Gists in VS Code! #vscode #github #githubgist"/>
+      <a href="https://www.youtube.com/watch?v=_PG3X7JQg5s" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/_PG3X7JQg5s/mqdefault.jpg" alt="Top VS Code Extensions for Web Development"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=v-nKgRil02A" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/v-nKgRil02A/mqdefault.jpg" alt="Where&#39;s my code!? #vscode #vscodeextensions #code"/>
+      <a href="https://www.youtube.com/watch?v=_8FeXuoYcqU" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/_8FeXuoYcqU/mqdefault.jpg" alt="What is Git Cherry-Pick? #git #gittutorial #code"/>
       </a>
     </td>
   </tr>
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
   </tr>
