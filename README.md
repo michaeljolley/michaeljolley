@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Transient, Scoped or Singleton? .NET Dependency Injection Scopes Explained"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=CR2Kigxx2rM" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/CR2Kigxx2rM/mqdefault.jpg" alt=".NET AI Smart Components #dotnet #csharp #blazor"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Build a Custom HttpClient Logger in ASP.NET"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=OBcWUJZuceA" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/OBcWUJZuceA/mqdefault.jpg" alt="Build Unity games in VS Code! #vscode #unity #dotnet"/>
       </a>
     </td>
   </tr>
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      </a>
+    </td>
+    <td>
       <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
   </tr>
