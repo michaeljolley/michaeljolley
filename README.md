@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=tnTzsR1K8Eo" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/tnTzsR1K8Eo/mqdefault.jpg" alt="It&#39;s ALWAYS CORS!!!! #code #programmer #developer #javascript #java #dotnet #python #developerlife"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=MQciYVuS6cM" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/MQciYVuS6cM/mqdefault.jpg" alt="I Tried Voice Coding, It Was A Disaster! #code #developer #java #javascript #typescript #dotnet"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Transient, Scoped or Singleton? .NET Dependency Injection Scopes Explained"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=CR2Kigxx2rM" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/CR2Kigxx2rM/mqdefault.jpg" alt=".NET AI Smart Components #dotnet #csharp #blazor"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Build a Custom HttpClient Logger in ASP.NET"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt=".NET DI Scopes Explained In 4 Minutes"/>
       </a>
     </td>
   </tr>
@@ -49,9 +49,9 @@ Here's a few of my recent ramblings:
 
 ## 🚨 Most Recent Live-stream
 
-<a href="https://www.twitch.tv/videos/2103890064" target="_blank">
-  <h3>Building a HomeAssistant integration | Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/8ec28cd8658430abfee1_baldbeardedbuilder_50744937197_1711635799//thumb/thumb0-480x272.jpg" alt="Building a HomeAssistant integration | Coworking, recording, and periodic chat"/>
+<a href="https://www.twitch.tv/videos/2108680681" target="_blank">
+  <h3>Coworking, recording, and periodic chat</h3>
+  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e44d7b2d6ab9f22544da_baldbeardedbuilder_50786846349_1712068411//thumb/thumb1-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
 </a>
 
 ---
@@ -64,18 +64,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
