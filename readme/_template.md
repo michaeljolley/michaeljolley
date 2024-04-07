@@ -34,19 +34,6 @@ Here's a few of my recent ramblings:
   </tr>
 </table>
 
-{{#streams}}
-
-## 🚨 Most Recent Live-stream
-
-<a href="{{{url}}}" target="_blank">
-  <h3>{{title}}</h3>
-  <img src="{{{thumbnail}}}" alt="{{title}}"/>
-</a>
-
----
-
-{{/streams}}
-
 ---
 
 ## 📽️ Random Twitch Clips
