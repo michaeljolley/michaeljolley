@@ -71,7 +71,8 @@ async function _generateYTData() {
     `https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FoDbv_veJB_UbrF93_jw`
   );
 
-  return feed.items.slice(0, 3).map((m) => {
+  return feed.items.filter(f => !f.title.includes("#"))
+    .slice(0, 3).map((m) => {
     return {
       title: m.title,
       link: m.link,
