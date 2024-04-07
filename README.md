@@ -29,33 +29,22 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=tnTzsR1K8Eo" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/tnTzsR1K8Eo/mqdefault.jpg" alt="It&#39;s ALWAYS CORS!!!! #code #programmer #developer #javascript #java #dotnet #python #developerlife"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=MQciYVuS6cM" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/MQciYVuS6cM/mqdefault.jpg" alt="I Tried Voice Coding, It Was A Disaster! #code #developer #java #javascript #typescript #dotnet"/>
-      </a>
-    </td>
-    <td>
       <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt=".NET DI Scopes Explained In 4 Minutes"/>
       </a>
     </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Create a Custom HttpClient Logger (2024)"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=_PG3X7JQg5s" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/_PG3X7JQg5s/mqdefault.jpg" alt="Best VS Code Extensions For Web Development (2024)"/>
+      </a>
+    </td>
   </tr>
 </table>
-
-
-## 🚨 Most Recent Live-stream
-
-<a href="https://www.twitch.tv/videos/2109590680" target="_blank">
-  <h3>Coworking, recording, and periodic chat</h3>
-  <img src="https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/886e02db6db04ecff92a_baldbeardedbuilder_50794404077_1712154304//thumb/thumb0-480x272.jpg" alt="Coworking, recording, and periodic chat"/>
-</a>
-
----
-
 
 ---
 
@@ -64,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      </a>
+    </td>
+    <td>
       <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
   </tr>
