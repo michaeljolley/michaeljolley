@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=BdnpTrviJko" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BdnpTrviJko/mqdefault.jpg" alt="Don&#39;t Use the await Operator Inside Your .NET Loops"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt=".NET DI Scopes Explained In 4 Minutes"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Singleton, Scoped, and Transient Scopes Explained In 4 Minutes"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Create a Custom HttpClient Logger (2024)"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=_PG3X7JQg5s" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/_PG3X7JQg5s/mqdefault.jpg" alt="Best VS Code Extensions For Web Development (2024)"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
   </tr>
