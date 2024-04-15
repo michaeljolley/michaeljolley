@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=51d4fQqSg9M" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/51d4fQqSg9M/mqdefault.jpg" alt="Release threads more efficiently by dropping the Task.Wait"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=BdnpTrviJko" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BdnpTrviJko/mqdefault.jpg" alt="Don&#39;t Use the await Operator Inside Your .NET Loops"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Singleton, Scoped, and Transient Scopes Explained In 4 Minutes"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Create a Custom HttpClient Logger (2024)"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
   </tr>
