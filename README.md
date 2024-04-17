@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=Bwp7PxsfMCI" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/Bwp7PxsfMCI/mqdefault.jpg" alt="Should LINQ Be Forbidden!?"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=51d4fQqSg9M" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/51d4fQqSg9M/mqdefault.jpg" alt="Release threads more efficiently by dropping the Task.Wait"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=BdnpTrviJko" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BdnpTrviJko/mqdefault.jpg" alt="Don&#39;t Use the await Operator Inside Your .NET Loops"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Singleton, Scoped, and Transient Scopes Explained In 4 Minutes"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
   </tr>
