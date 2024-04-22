@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=jqG5hYArC_Q" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/jqG5hYArC_Q/mqdefault.jpg" alt="Stop Using the var Keyword!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=Bwp7PxsfMCI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/Bwp7PxsfMCI/mqdefault.jpg" alt="Should LINQ Be Banned from .NET!?"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=51d4fQqSg9M" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/51d4fQqSg9M/mqdefault.jpg" alt="Using the Async Keyword to Write Better Asynchronous .NET"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BdnpTrviJko" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BdnpTrviJko/mqdefault.jpg" alt="Don&#39;t Use the await Operator Inside Your .NET Loops"/>
       </a>
     </td>
   </tr>
@@ -53,13 +53,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
     <td>
