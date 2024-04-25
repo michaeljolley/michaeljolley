@@ -34,13 +34,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=Bwp7PxsfMCI" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/Bwp7PxsfMCI/mqdefault.jpg" alt="Should LINQ Be Banned from .NET!?"/>
+      <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Should my Services be Transient, Scoped, or Singleton?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=51d4fQqSg9M" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/51d4fQqSg9M/mqdefault.jpg" alt="Using the Async Keyword to Write Better Asynchronous .NET"/>
+      <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Create a Custom HttpClient Logger (2024)"/>
       </a>
     </td>
   </tr>
@@ -53,13 +53,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
