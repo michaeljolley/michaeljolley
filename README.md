@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
       </a>
     </td>
   </tr>
