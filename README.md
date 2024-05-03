@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
   </tr>
