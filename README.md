@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=4YcSDHCttLg" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/4YcSDHCttLg/mqdefault.jpg" alt="Don&#39;t Make This Dependency Injection Mistake!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=jqG5hYArC_Q" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/jqG5hYArC_Q/mqdefault.jpg" alt="Stop Using the var Keyword!"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=ToFqISWq4is" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/ToFqISWq4is/mqdefault.jpg" alt="Should my Services be Transient, Scoped, or Singleton?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BWSX0cQEh8k" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BWSX0cQEh8k/mqdefault.jpg" alt="How to Create a Custom HttpClient Logger (2024)"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/FineElegantBorkMau5" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
       </a>
     </td>
   </tr>
