@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This folder contains the code (excluding the GitHub Action) to update the\r profile pictures of contacts in my personal Notion database.",
   "main": "index.js",
+  "type": "module",
   "scripts": {},
   "author": "",
   "license": "MIT",
