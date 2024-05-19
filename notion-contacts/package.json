@@ -1,0 +1,15 @@
+{
+  "name": "notion-contacts",
+  "version": "1.0.0",
+  "description": "This folder contains the code (excluding the GitHub Action) to update the\r profile pictures of contacts in my personal Notion database.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.2.1",
+    "dotenv": "^16.0.3",
+    "twitter-api-sdk": "^1.2.1"
+  }
+}

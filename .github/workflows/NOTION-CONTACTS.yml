@@ -1,0 +1,21 @@
+name: Update Notion Contacts
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+env:
+  GH_PAT: ${{secrets.GH_PAT}}
+  NOTION_CONTACT_DATABASE_ID: ${{secrets.NOTION_CONTACT_DATABASE_ID}}
+  NOTION_OAUTH_TOKEN: ${{secrets.NOTION_OAUTH_TOKEN}}
+  TWITTER_BEARER_TOKEN: ${{secrets.TWITTER_BEARER_TOKEN}}
+jobs:
+  update_profile_data:
+    name: Update Notion Contacts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README
+        run: |
+          cd notion-contacts
+          npm install
+          node index.js
