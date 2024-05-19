@@ -14,20 +14,22 @@ async function main() {
     
     const message = await getVOTD();
 
-    // Update Dashboard block for VOTD
-    await notion.blocks.update({
-      "block_id": "87b9e3c68c2c4559bc58336eca84ab82",
-      "type": "paragraph",
-      "paragraph": {
-        "rich_text": [{
-          "type": "text",
-          "text": {
-            "content": message,
-          }
-        }],
-        "color": "brown",
-      }
-    });
+    if (message) {
+      // Update Dashboard block for VOTD
+      await notion.blocks.update({
+        "block_id": "87b9e3c68c2c4559bc58336eca84ab82",
+        "type": "paragraph",
+        "paragraph": {
+          "rich_text": [{
+            "type": "text",
+            "text": {
+              "content": message,
+            }
+          }],
+          "color": "brown",
+        }
+      });
+    }
     
   } catch (err) {
     console.log(err);
@@ -35,18 +37,24 @@ async function main() {
 }
 
 const getVOTD = async () => {
-  const votd = await axios($, {
-    url: 'https://labs.bible.org/api/?passage=votd&type=json&formatting=plain'
-  });
+  const response = await axios.get('https://labs.bible.org/api/?passage=votd&type=json&formatting=plain');
 
-  let reference = `${votd[0].bookname} ${votd[0].chapter}:${votd[0].verse}`;
+  if (response.status === 200) {
 
-  if (votd.length > 0) {
-    reference = `${reference}-${votd[votd.length-1].verse}`;
-  }
+    const { data: votd } = response.data;
 
-  const message = `${votd.map(m => m.text).join('')}
+    let reference = `${votd[0].bookname} ${votd[0].chapter}:${votd[0].verse}`;
+
+    if (votd.length > 0) {
+      reference = `${reference}-${votd[votd.length-1].verse}`;
+    }
+
+    return `${votd.map(m => m.text).join('')}
 ${reference}`;
+
+  } else {
+    return undefined;
+  }
 }
 
 main();

@@ -1,4 +1,3 @@
-import axios from "axios";
 import dotenv from "dotenv";
 import { Client as Twitter } from "twitter-api-sdk";
 import { Client as Notion } from "@notionhq/client";

@@ -9,7 +9,6 @@
   "license": "MIT",
   "dependencies": {
     "@notionhq/client": "^2.2.15",
-    "axios": "^1.2.1",
     "dotenv": "^16.0.3",
     "twitter-api-sdk": "^1.2.1"
   }
