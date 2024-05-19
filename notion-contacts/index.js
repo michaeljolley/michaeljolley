@@ -12,7 +12,9 @@ const NOTION_CONTACT_DATABASE_ID = process.env.NOTION_CONTACT_DATABASE_ID;
 
 const notion = new Notion({
   auth: NOTION_OAUTH_TOKEN,
-})
+});
+
+const twitter = new Twitter(TWITTER_BEARER_TOKEN);
 
 async function main() {
   try {
@@ -126,9 +128,7 @@ const getTwitterProfileImage = async (contact) => {
   if (twitterHandle) {
 
     try {
-     
-      const client = new Twitter(TWITTER_BEARER_TOKEN);
-      const { data } = await client.users.findUserByUsername(twitterHandle, {
+      const { data } = await twitter.users.findUserByUsername(twitterHandle, {
         "user.fields": [
           "profile_image_url"
         ]
