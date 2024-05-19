@@ -1,0 +1,18 @@
+name: Update Notion Dashboard
+on:
+  schedule:
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+env:
+  NOTION_OAUTH_TOKEN: ${{secrets.NOTION_OAUTH_TOKEN}}
+jobs:
+  update_profile_data:
+    name: Update Notion Dashboard
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update Notion Dashboard
+        run: |
+          cd notion-daily
+          npm install
+          node index.js

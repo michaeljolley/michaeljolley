@@ -1,0 +1,15 @@
+{
+  "name": "notion-daily",
+  "version": "1.0.0",
+  "description": "This folder contains the code (excluding the GitHub Action) to update the daily dashboard in my Notion workspace.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "^2.2.15",
+    "axios": "^1.2.1",
+    "dotenv": "^16.0.3"
+  }
+}
