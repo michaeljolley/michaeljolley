@@ -126,7 +126,6 @@ const getTwitterProfileImage = async (contact) => {
   const twitterHandle = contact.properties?.Twitter?.url?.split('/').slice(-1)[0]
 
   if (twitterHandle) {
-
     try {
       const { data } = await twitter.users.findUserByUsername(twitterHandle, {
         "user.fields": [
@@ -137,9 +136,10 @@ const getTwitterProfileImage = async (contact) => {
      if (data) {
        return data.profile_image_url
      }
-   }
-   catch (error) {
-     console.dir(error)}
+    }
+    catch (error) {
+     console.log(`Error: (${error.status}) ${error.statusText}`);
+    }
   }
 
  return undefined
