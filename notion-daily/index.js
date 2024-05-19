@@ -41,7 +41,7 @@ const getVOTD = async () => {
 
   if (response.status === 200) {
 
-    const { data: votd } = response.data;
+    const { data: votd } = response;
 
     let reference = `${votd[0].bookname} ${votd[0].chapter}:${votd[0].verse}`;
 
