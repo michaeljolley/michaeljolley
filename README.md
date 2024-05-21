@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=IZveVNSzrqY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/IZveVNSzrqY/mqdefault.jpg" alt="Don&#39;t Make These Entity Framework Core Mistakes"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=159lzdcz3cU" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/159lzdcz3cU/mqdefault.jpg" alt="Should I Use IEnumerable, IQueryable, ICollection, or IList?"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=4YcSDHCttLg" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/4YcSDHCttLg/mqdefault.jpg" alt="Don&#39;t Make This Dependency Injection Mistake!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=jqG5hYArC_Q" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/jqG5hYArC_Q/mqdefault.jpg" alt="Stop Using the var Keyword!"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
   </tr>
