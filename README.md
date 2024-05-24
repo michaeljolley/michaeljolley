@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=d0Eah9-t9tY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/d0Eah9-t9tY/mqdefault.jpg" alt="Handle ASP.NET Core Exceptions Globally"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=IZveVNSzrqY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/IZveVNSzrqY/mqdefault.jpg" alt="Don&#39;t Make These Entity Framework Core Mistakes"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=159lzdcz3cU" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/159lzdcz3cU/mqdefault.jpg" alt="Should I Use IEnumerable, IQueryable, ICollection, or IList?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=4YcSDHCttLg" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/4YcSDHCttLg/mqdefault.jpg" alt="Don&#39;t Make This Dependency Injection Mistake!"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
   </tr>
