@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=cu4CUJAcJ-4" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Mastering ASP.NET Core Middleware"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=0NUUMMRwUbA" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/0NUUMMRwUbA/mqdefault.jpg" alt="Slow Entity Framework Core queries? Let’s speed them up!"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=d0Eah9-t9tY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/d0Eah9-t9tY/mqdefault.jpg" alt="Handle ASP.NET Core Exceptions Globally"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=IZveVNSzrqY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/IZveVNSzrqY/mqdefault.jpg" alt="Don&#39;t Make These Entity Framework Core Mistakes"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
