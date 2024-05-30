@@ -29,18 +29,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=B9C4iK8IGbQ" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/B9C4iK8IGbQ/mqdefault.jpg" alt="Implementing Soft Deletes with Entity Framework Core"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=cu4CUJAcJ-4" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Mastering ASP.NET Core Middleware"/>
+        <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Building Custom ASP.NET Core Middleware"/>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=0NUUMMRwUbA" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/0NUUMMRwUbA/mqdefault.jpg" alt="Slow Entity Framework Core queries? Let’s speed them up!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=d0Eah9-t9tY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/d0Eah9-t9tY/mqdefault.jpg" alt="Handle ASP.NET Core Exceptions Globally"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
   </tr>
