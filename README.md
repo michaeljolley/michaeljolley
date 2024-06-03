@@ -29,11 +29,6 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=Xw66RmohdeU" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/Xw66RmohdeU/mqdefault.jpg" alt="IExceptionHandler Makes ASP.NET Exceptions Easy"/>
-      </a>
-    </td>
-    <td>
       <a href="https://www.youtube.com/watch?v=B9C4iK8IGbQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/B9C4iK8IGbQ/mqdefault.jpg" alt="Implementing Soft Deletes with Entity Framework Core"/>
       </a>
@@ -41,6 +36,11 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=cu4CUJAcJ-4" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Building Custom ASP.NET Core Middleware"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=d0Eah9-t9tY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/d0Eah9-t9tY/mqdefault.jpg" alt="Handle ASP.NET Core Exceptions Globally"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
