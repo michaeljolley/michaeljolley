@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=6I7v_mHbRYI" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/6I7v_mHbRYI/mqdefault.jpg" alt="EF Core Queries Go BOOM!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=B9C4iK8IGbQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/B9C4iK8IGbQ/mqdefault.jpg" alt="Implementing Soft Deletes with Entity Framework Core"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=cu4CUJAcJ-4" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Building Custom ASP.NET Core Middleware"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=d0Eah9-t9tY" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/d0Eah9-t9tY/mqdefault.jpg" alt="Handle ASP.NET Core Exceptions Globally"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleNaiveEggnogPicoMause" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://clips.twitch.tv/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
       </a>
     </td>
   </tr>
