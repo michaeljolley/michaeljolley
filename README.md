@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=BKeaojX45w0" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BKeaojX45w0/mqdefault.jpg" alt="OpenAI has a new .NET SDK!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=6I7v_mHbRYI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/6I7v_mHbRYI/mqdefault.jpg" alt="EF Core Queries Go BOOM!"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=B9C4iK8IGbQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/B9C4iK8IGbQ/mqdefault.jpg" alt="Implementing Soft Deletes with Entity Framework Core"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=cu4CUJAcJ-4" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/cu4CUJAcJ-4/mqdefault.jpg" alt="Building Custom ASP.NET Core Middleware"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrossGracefulTeaDendiFace-Y9RGGsSZIsl6SAPA" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116385956-preview-480x272.jpg" alt="LUKE IS GONE"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
   </tr>
