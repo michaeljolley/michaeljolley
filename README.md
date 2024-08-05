@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://clips.twitch.tv/ResoluteBrightPepperPhilosoraptor-PIuDW5Ma_WA_PGWQ" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/zxZfOzyLg1uTGv1gPzxlkA/AT-cm%7CzxZfOzyLg1uTGv1gPzxlkA-preview-480x272.jpg" alt="BBB is interested in .NET Aspire after watching VisualStudio stream"/>
-      </a>
-    </td>
-    <td>
       <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
         <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
   </tr>
