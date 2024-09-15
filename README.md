@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
   </tr>
