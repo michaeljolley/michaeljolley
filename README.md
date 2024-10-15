@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SassyLightHamburgerHeyGuys" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
