@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
   </tr>
