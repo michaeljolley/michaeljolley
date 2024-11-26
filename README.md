@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
