@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
+      <a href="https://clips.twitch.tv/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
       </a>
     </td>
   </tr>
