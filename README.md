@@ -58,13 +58,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
   </tr>
