@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://clips.twitch.tv/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://clips.twitch.tv/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/DeterminedColdbloodedBulgogiSoonerLater" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C858734810-preview-480x272.jpg" alt="Ugh.. why didn&#39;t I think of that before"/>
       </a>
     </td>
   </tr>
