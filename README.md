@@ -58,13 +58,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
   </tr>
