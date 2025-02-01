@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://clips.twitch.tv/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://clips.twitch.tv/ResoluteBrightPepperPhilosoraptor-PIuDW5Ma_WA_PGWQ" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/zxZfOzyLg1uTGv1gPzxlkA/AT-cm%7CzxZfOzyLg1uTGv1gPzxlkA-preview-480x272.jpg" alt="BBB is interested in .NET Aspire after watching VisualStudio stream"/>
       </a>
     </td>
   </tr>
