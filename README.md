@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://clips.twitch.tv/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://clips.twitch.tv/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
   </tr>
