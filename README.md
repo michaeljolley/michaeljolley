@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://clips.twitch.tv/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://clips.twitch.tv/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://clips-media-assets2.twitch.tv/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://clips.twitch.tv/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://clips-media-assets2.twitch.tv/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
   </tr>
