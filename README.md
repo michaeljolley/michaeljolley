@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://clips.twitch.tv/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://clips.twitch.tv/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://clips.twitch.tv/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
       </a>
     </td>
   </tr>
