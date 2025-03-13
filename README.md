@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      <a href="https://clips.twitch.tv/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://clips.twitch.tv/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://clips.twitch.tv/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
   </tr>
