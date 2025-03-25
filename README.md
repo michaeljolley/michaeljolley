@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://clips.twitch.tv/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://clips.twitch.tv/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/WealthyStupidBobaGOWSkull" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C919872359-preview-480x272.jpg" alt="He needs a minute folks..."/>
+      <a href="https://clips.twitch.tv/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://clips.twitch.tv/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://clips.twitch.tv/ResoluteBrightPepperPhilosoraptor-PIuDW5Ma_WA_PGWQ" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/zxZfOzyLg1uTGv1gPzxlkA/AT-cm%7CzxZfOzyLg1uTGv1gPzxlkA-preview-480x272.jpg" alt="BBB is interested in .NET Aspire after watching VisualStudio stream"/>
       </a>
     </td>
   </tr>
