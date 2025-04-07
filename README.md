@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SecretiveBrainySheepThisIsSparta" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39617643806-offset-7238-preview-480x272.jpg" alt="Yummy"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
   </tr>
