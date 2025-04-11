@@ -29,6 +29,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=eq3z_ZiLraw" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/eq3z_ZiLraw/mqdefault.jpg" alt="You Won&#39;t Believe The Hidden Dangers Of Lazy Loading"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=BKeaojX45w0" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/BKeaojX45w0/mqdefault.jpg" alt="ChatGPT 4o, Dall-E 3, and Whisper in .NET"/>
       </a>
@@ -36,11 +41,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=6I7v_mHbRYI" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/6I7v_mHbRYI/mqdefault.jpg" alt="EF Core Queries Go BOOM!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=B9C4iK8IGbQ" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/B9C4iK8IGbQ/mqdefault.jpg" alt="Implementing Soft Deletes with Entity Framework Core"/>
       </a>
     </td>
   </tr>
@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmusedWrongCodBigBrother" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
       </a>
     </td>
   </tr>
