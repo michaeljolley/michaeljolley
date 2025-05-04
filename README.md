@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
