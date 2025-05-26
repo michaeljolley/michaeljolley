@@ -53,18 +53,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
   </tr>
