@@ -8,7 +8,9 @@
 
 I've been a developer since... well, we didn't have CSS and you had to decide between JavaScript and VBScript for interactivity.
 
-After years of building and leading developers, I now spend my days creating workshops, live streams, demos and other content to help developers learn new skills and level up their careers.
+Most days you'll find me building [Command Palette](https://learn.microsoft.com/en-us/windows/powertoys/command-palette/overview) for [Microsoft PowerToys](https://github.com/microsoft/PowerToys).
+
+By night I'm creating workshops, live streams, demos and other content to help developers learn new skills and level up their careers.
 
 Here's a few of my recent ramblings:
 
