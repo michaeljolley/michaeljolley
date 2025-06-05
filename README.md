@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
   </tr>
