@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
