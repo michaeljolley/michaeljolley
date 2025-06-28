@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
   </tr>
