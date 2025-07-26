@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
   </tr>
