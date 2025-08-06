@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ/0a25eafe-18ca-4c91-bbac-ed42ad55b4de/preview-480x272.jpg" alt="Vibe Coding"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
   </tr>
