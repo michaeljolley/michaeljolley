@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/4LniCTmbSXCcWGmlJzNlMA/AT-cm%7C4LniCTmbSXCcWGmlJzNlMA-preview-480x272.jpg" alt="xaml is pain"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ResoluteBrightPepperPhilosoraptor-PIuDW5Ma_WA_PGWQ" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/zxZfOzyLg1uTGv1gPzxlkA/AT-cm%7CzxZfOzyLg1uTGv1gPzxlkA-preview-480x272.jpg" alt="BBB is interested in .NET Aspire after watching VisualStudio stream"/>
       </a>
     </td>
   </tr>
