@@ -31,6 +31,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/shorts/6Yt35l-VQt0" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/6Yt35l-VQt0/mqdefault.jpg" alt="ToLower is Killing your App Performance!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/shorts/7fk7jDrtvTs" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/7fk7jDrtvTs/mqdefault.jpg" alt="Make Entity Framework Faster with Parameterized Queries"/>
       </a>
@@ -38,11 +43,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/shorts/eq3z_ZiLraw" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/eq3z_ZiLraw/mqdefault.jpg" alt="You Won&#39;t Believe The Hidden Dangers Of Lazy Loading"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BKeaojX45w0" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BKeaojX45w0/mqdefault.jpg" alt="Building AI with .NET: ChatGPT 4o, Dall-E 3 &amp; Whisper"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
