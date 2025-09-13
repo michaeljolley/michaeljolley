@@ -72,6 +72,7 @@ async function _generateYTData() {
   );
   
  return feed.items.filter(f => !f.title.includes("#"))
+  .slice(0, 3).map((m) => {
     return {
       title: m.title,
       link: m.link,
