@@ -31,18 +31,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/shorts/922cq8unreM" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/922cq8unreM/mqdefault.jpg" alt="Will the Turkish &quot;ı&quot; Break Your App!?"/>
+      <a href="https://www.youtube.com/shorts/7fk7jDrtvTs" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/7fk7jDrtvTs/mqdefault.jpg" alt="Make Entity Framework Faster with Parameterized Queries"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/watch?v=U3u4PEkW33E" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/U3u4PEkW33E/mqdefault.jpg" alt="Stop Using &#x3D;&#x3D; null: The Safer C# Pattern You Need Today!"/>
+      <a href="https://www.youtube.com/shorts/eq3z_ZiLraw" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/eq3z_ZiLraw/mqdefault.jpg" alt="You Won&#39;t Believe The Hidden Dangers Of Lazy Loading"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/shorts/6Yt35l-VQt0" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/6Yt35l-VQt0/mqdefault.jpg" alt="ToLower is Killing your App Performance!"/>
+      <a href="https://www.youtube.com/watch?v=BKeaojX45w0" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/BKeaojX45w0/mqdefault.jpg" alt="Building AI with .NET: ChatGPT 4o, Dall-E 3 &amp; Whisper"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
   </tr>
