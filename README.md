@@ -31,13 +31,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/shorts/7fk7jDrtvTs" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/7fk7jDrtvTs/mqdefault.jpg" alt="Make Entity Framework Faster with Parameterized Queries"/>
+      <a href="https://www.youtube.com/watch?v=U3u4PEkW33E" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/U3u4PEkW33E/mqdefault.jpg" alt="Stop Using &#x3D;&#x3D; null: The Safer C# Pattern You Need Today!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/shorts/eq3z_ZiLraw" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/eq3z_ZiLraw/mqdefault.jpg" alt="You Won&#39;t Believe The Hidden Dangers Of Lazy Loading"/>
+      <a href="https://www.youtube.com/watch?v=DNzAoLwXLzc" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/DNzAoLwXLzc/mqdefault.jpg" alt="Stop Using ToLower() for Comparisons! The Fast, Correct Way in C#"/>
       </a>
     </td>
     <td>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ResoluteBrightPepperPhilosoraptor-PIuDW5Ma_WA_PGWQ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/zxZfOzyLg1uTGv1gPzxlkA/AT-cm%7CzxZfOzyLg1uTGv1gPzxlkA-preview-480x272.jpg" alt="BBB is interested in .NET Aspire after watching VisualStudio stream"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
   </tr>
