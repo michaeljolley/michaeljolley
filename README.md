@@ -36,13 +36,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/shorts/6Yt35l-VQt0" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/6Yt35l-VQt0/mqdefault.jpg" alt="ToLower is Killing your App Performance!"/>
+      <a href="https://www.youtube.com/watch?v=U3u4PEkW33E" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/U3u4PEkW33E/mqdefault.jpg" alt="Stop Using &#x3D;&#x3D; null: The Safer C# Pattern You Need Today!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/shorts/7fk7jDrtvTs" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/7fk7jDrtvTs/mqdefault.jpg" alt="Make Entity Framework Faster with Parameterized Queries"/>
+      <a href="https://www.youtube.com/shorts/6Yt35l-VQt0" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/6Yt35l-VQt0/mqdefault.jpg" alt="ToLower is Killing your App Performance!"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
   </tr>
