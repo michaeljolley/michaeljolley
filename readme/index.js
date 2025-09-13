@@ -70,9 +70,8 @@ async function _generateYTData() {
   const feed = await parser.parseURL(
     `https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FoDbv_veJB_UbrF93_jw`
   );
-
-  return feed.items
-    .slice(0, 3).map((m) => {
+  
+ return feed.items.filter(f => !f.title.includes("#"))
     return {
       title: m.title,
       link: m.link,
