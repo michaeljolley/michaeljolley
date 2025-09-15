@@ -31,6 +31,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=NZ-4z3J2xy0" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/NZ-4z3J2xy0/mqdefault.jpg" alt="5 Dependency Injection Mistakes You Need to Avoid!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=U3u4PEkW33E" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/U3u4PEkW33E/mqdefault.jpg" alt="Stop Using &#x3D;&#x3D; null: The Safer C# Pattern You Need Today!"/>
       </a>
@@ -38,11 +43,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=DNzAoLwXLzc" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/DNzAoLwXLzc/mqdefault.jpg" alt="Stop Using ToLower() for Comparisons! The Fast, Correct Way in C#"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=BKeaojX45w0" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/BKeaojX45w0/mqdefault.jpg" alt="Building AI with .NET: ChatGPT 4o, Dall-E 3 &amp; Whisper"/>
       </a>
     </td>
   </tr>
@@ -60,13 +60,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
   </tr>
