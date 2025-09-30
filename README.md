@@ -31,6 +31,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=m50iQuELqeQ" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/m50iQuELqeQ/mqdefault.jpg" alt="Why Your OnModelCreating Is a Hot Mess (And How to Fix It)"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=71qFZUyKCy0" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/71qFZUyKCy0/mqdefault.jpg" alt="Easy LINQ Tips Every Developer Should Know!"/>
       </a>
@@ -38,11 +43,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=NZ-4z3J2xy0" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/NZ-4z3J2xy0/mqdefault.jpg" alt="Dependency Injection Mistakes You Need to Avoid!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=U3u4PEkW33E" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/U3u4PEkW33E/mqdefault.jpg" alt="Stop Using &#x3D;&#x3D; null: The Safer C# Pattern You Need Today!"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CooperativeFairSharkKreygasm" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l/10956924-f91f-477f-a7a6-a9caf73aba55/preview-480x272.jpg" alt="New PowerToys contributor!"/>
       </a>
     </td>
   </tr>
