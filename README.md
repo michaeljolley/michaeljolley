@@ -31,6 +31,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/shorts/Mccqa_Z8-DY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/Mccqa_Z8-DY/mqdefault.jpg" alt="Fix Ambiguous Constructors in ASP.NET Dependency Injection!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=m50iQuELqeQ" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/m50iQuELqeQ/mqdefault.jpg" alt="Why Your OnModelCreating Is a Hot Mess (And How to Fix It)"/>
       </a>
@@ -38,11 +43,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/watch?v=71qFZUyKCy0" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/71qFZUyKCy0/mqdefault.jpg" alt="Easy LINQ Tips Every Developer Should Know!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=NZ-4z3J2xy0" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/NZ-4z3J2xy0/mqdefault.jpg" alt="Dependency Injection Mistakes You Need to Avoid!"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
   </tr>
