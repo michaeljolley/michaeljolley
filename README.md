@@ -1,6 +1,6 @@
 ## Find Me Everywhere!
 
-[![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) (https://twitch.tv/baldbeardedbuilder)[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)] [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
+[![GitHub followers](https://img.shields.io/github/followers/michaeljolley?style=social)](https://github.com/michaeljolley) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCn2FoDbv_veJB_UbrF93_jw?style=social)](https://youtube.com/baldbeardedbuilder) [![Twitch Status](https://img.shields.io/twitch/status/baldbeardedbuilder?style=social)](https://twitch.tv/baldbeardedbuilder) [![Discord](https://img.shields.io/discord/565665509350178827)](https://discord.gg/XSG7HJm)
 
 # 👋 Hi! I'm Michael.
 
@@ -60,13 +60,13 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/mX2bchQJgw7DeYxp3_plXw/AT-cm%7CmX2bchQJgw7DeYxp3_plXw-preview-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C886780696-preview-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
   </tr>
