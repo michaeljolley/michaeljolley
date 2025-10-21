@@ -31,6 +31,11 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.youtube.com/watch?v=CLByGM0iATY" target="_blank">
+        <img style="align=center" src="https://i2.ytimg.com/vi/CLByGM0iATY/mqdefault.jpg" alt="The Secret to Mastering Queue, Stack and Dictionary in C#!"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.youtube.com/watch?v=4WsST_9MX_4" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/4WsST_9MX_4/mqdefault.jpg" alt="Async Void in C#: The Trap Card You Keep Playing"/>
       </a>
@@ -38,11 +43,6 @@ Here's a few of my recent ramblings:
     <td>
       <a href="https://www.youtube.com/shorts/Mccqa_Z8-DY" target="_blank">
         <img style="align=center" src="https://i2.ytimg.com/vi/Mccqa_Z8-DY/mqdefault.jpg" alt="Fix Ambiguous Constructors in ASP.NET Dependency Injection!"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=m50iQuELqeQ" target="_blank">
-        <img style="align=center" src="https://i2.ytimg.com/vi/m50iQuELqeQ/mqdefault.jpg" alt="Why Your OnModelCreating Is a Hot Mess (And How to Fix It)"/>
       </a>
     </td>
   </tr>
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ/0a25eafe-18ca-4c91-bbac-ed42ad55b4de/preview-480x272.jpg" alt="Vibe Coding"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
   </tr>
