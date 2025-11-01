@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l/10956924-f91f-477f-a7a6-a9caf73aba55/preview-480x272.jpg" alt="New PowerToys contributor!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
