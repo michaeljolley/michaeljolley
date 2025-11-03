@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C868013704-preview-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmusedWrongCodBigBrother" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876169385-preview-480x272.jpg" alt="At least it got the smiley face correct!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l/10956924-f91f-477f-a7a6-a9caf73aba55/preview-480x272.jpg" alt="New PowerToys contributor!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
   </tr>
