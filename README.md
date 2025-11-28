@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
