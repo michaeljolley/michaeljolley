@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902884640-preview-480x272.jpg" alt="You mad bro?!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
   </tr>
