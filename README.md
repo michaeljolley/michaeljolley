@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/OW61xaQ7M4otUzgM2NPcuA/AT-cm%7COW61xaQ7M4otUzgM2NPcuA-preview-480x272.jpg" alt="Got him!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
