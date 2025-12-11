@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
