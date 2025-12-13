@@ -55,8 +55,8 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C771493687-preview-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
@@ -65,8 +65,8 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ/0a25eafe-18ca-4c91-bbac-ed42ad55b4de/preview-480x272.jpg" alt="Vibe Coding"/>
       </a>
     </td>
   </tr>
