@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
       </a>
     </td>
   </tr>
