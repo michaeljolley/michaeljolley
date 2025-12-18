@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844863633-preview-480x272.jpg" alt="BBB voice programming "/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DaintyBlightedRavenVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829269967-preview-480x272.jpg" alt="Salma needs an intervention"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
