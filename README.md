@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l/10956924-f91f-477f-a7a6-a9caf73aba55/preview-480x272.jpg" alt="New PowerToys contributor!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
   </tr>
