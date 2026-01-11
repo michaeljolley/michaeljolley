@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829114395-preview-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/YSZyq3hONCDeD7mtcq8dXg/AT-cm%7CYSZyq3hONCDeD7mtcq8dXg-preview-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
       </a>
     </td>
   </tr>
