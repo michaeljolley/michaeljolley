@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Cleaner Joins in EF Core 10 with LeftJoin and RightJoin](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;cleaner-joins-in-ef-core-10-with-leftjoin-and-rightjoin&#x2F;)
+
+
 [Choosing Between Controllers and Minimal API for .NET APIs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;choosing-between-dotnet-controllers-and-minimal-apis&#x2F;)
 
 
 [Alias any Type with C# 12](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;alias-any-type-in-csharp-12&#x2F;)
-
-
-[Using Primary Constructors in C# 12 &amp; .NET 8](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;primary-constructors-in-csharp-12-dotnet&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/tLIsombi1GKzuSoGx8YVFg/AT-cm%7CtLIsombi1GKzuSoGx8YVFg-preview-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TrustworthySmoggyPelicanPRChase" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C853938915-preview-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
       </a>
     </td>
   </tr>
