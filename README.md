@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C776983357-preview-480x272.jpg" alt="Hey"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
       </a>
     </td>
   </tr>
