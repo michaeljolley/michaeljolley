@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ/0a25eafe-18ca-4c91-bbac-ed42ad55b4de/preview-480x272.jpg" alt="Vibe Coding"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884458295-preview-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
   </tr>
