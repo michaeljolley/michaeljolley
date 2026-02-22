@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C838564081-preview-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C950993546-preview-480x272.jpg" alt="Putting that on my LinkedIn"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11768-preview-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844837780-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
   </tr>
