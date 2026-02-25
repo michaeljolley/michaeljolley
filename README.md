@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C829272165-preview-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1073008153-preview-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39423294558-offset-3690-preview-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips-thumbnails-prod/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ/0a25eafe-18ca-4c91-bbac-ed42ad55b4de/preview-480x272.jpg" alt="Vibe Coding"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1123363888-preview-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
