@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C927077644-preview-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876178754-preview-480x272.jpg" alt="say docker three times"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
   </tr>
