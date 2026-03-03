@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Stop Guessing Types in C#: typeof, GetType and IsAssignableFrom Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-guessing-types-in-c-typeof-gettype-and-isassignablefrom-explained&#x2F;)
+
+
 [Repository Pattern vs DbContext in Entity Framework Core](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;repository-pattern-vs-dbcontext-in-entity-framework-core&#x2F;)
 
 
 [C# 14&#39;s Unbound Generics in nameof Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;c-14s-unbound-generics-in-nameof-explained&#x2F;)
-
-
-[Cleaner Joins in EF Core 10 with LeftJoin and RightJoin](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;cleaner-joins-in-ef-core-10-with-leftjoin-and-rightjoin&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CvNff-inPgURkT5pGGSZ-Fw-preview-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1036569417-preview-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/40167271886-offset-1914-preview-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
   </tr>
