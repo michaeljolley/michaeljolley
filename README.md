@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[The Traps of Nullable&lt;T&gt; in C#: a Practical Guide with Tiny Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;the-traps-of-nullable-in-c-sharp&#x2F;)
+
+
 [Stop Guessing Types in C#: typeof, GetType and IsAssignableFrom Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-guessing-types-in-c-typeof-gettype-and-isassignablefrom-explained&#x2F;)
 
 
 [Repository Pattern vs DbContext in Entity Framework Core](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;repository-pattern-vs-dbcontext-in-entity-framework-core&#x2F;)
-
-
-[C# 14&#39;s Unbound Generics in nameof Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;c-14s-unbound-generics-in-nameof-explained&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/A3bq_BNwjwa7sDhYXAhZlg/AT-cm%7CA3bq_BNwjwa7sDhYXAhZlg-preview-480x272.jpg" alt="one minute your focused, then...."/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-clips/40098093853-offset-4274-preview-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C901618259-preview-480x272.jpg" alt="DeliWorld"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1116710064-preview-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C876571504-preview-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
   </tr>
