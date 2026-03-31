@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[How .NET 10 speeds up API validation without code changes](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;how-net-10-speeds-up-api-validation-without-code-changes&#x2F;)
+
+
 [The Traps of Nullable&lt;T&gt; in C#: a Practical Guide with Tiny Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;the-traps-of-nullable-in-c-sharp&#x2F;)
 
 
 [Stop Guessing Types in C#: typeof, GetType and IsAssignableFrom Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-guessing-types-in-c-typeof-gettype-and-isassignablefrom-explained&#x2F;)
-
-
-[Repository Pattern vs DbContext in Entity Framework Core](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;repository-pattern-vs-dbcontext-in-entity-framework-core&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C891883597-preview-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C884337564-preview-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C1072636746-preview-480x272.jpg" alt="Asparagus - The Musical"/>
       </a>
     </td>
   </tr>
