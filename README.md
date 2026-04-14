@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[EF Core Audit Logging with Interceptors that do not Clutter Your DbContext](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;ef-core-audit-logging-with-interceptors-that-do-not-clutter-your-dbcontext&#x2F;)
+
+
 [How .NET 10 speeds up API validation without code changes](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;how-net-10-speeds-up-api-validation-without-code-changes&#x2F;)
 
 
 [The Traps of Nullable&lt;T&gt; in C#: a Practical Guide with Tiny Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;the-traps-of-nullable-in-c-sharp&#x2F;)
-
-
-[Stop Guessing Types in C#: typeof, GetType and IsAssignableFrom Explained](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-guessing-types-in-c-typeof-gettype-and-isassignablefrom-explained&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C793187709-preview-480x272.jpg" alt="Fart Candle best candle"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C858708684-preview-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852997998-preview-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-clips/_Bnvlgrtq5qmgbnnhMF_rg/AT-cm%7C_Bnvlgrtq5qmgbnnhMF_rg-preview-480x272.jpg" alt="Are you OK there streamer?!"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/39055908992-offset-11820-preview-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
   </tr>
