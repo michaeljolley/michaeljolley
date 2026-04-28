@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Stop Parallelizing Everything: A Practical Guide to Parallel.ForEach](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-parallelizing-everything-a-practical-guide-to-parallelforeach&#x2F;)
+
+
 [EF Core Audit Logging with Interceptors that do not Clutter Your DbContext](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;ef-core-audit-logging-with-interceptors-that-do-not-clutter-your-dbcontext&#x2F;)
 
 
 [How .NET 10 speeds up API validation without code changes](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;how-net-10-speeds-up-api-validation-without-code-changes&#x2F;)
-
-
-[The Traps of Nullable&lt;T&gt; in C#: a Practical Guide with Tiny Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;the-traps-of-nullable-in-c-sharp&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7CjP0DGs1nHF4CcnBSd-XZxw-preview-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HilariousExcitedStarlingSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C844828340-preview-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #1"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C852979190-preview-480x272.jpg" alt="and.... he gone"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ee3ef645-6fc7-45bc-af78-097ab4a95ccc/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-clips/AT-cm%7C902893108-preview-480x272.jpg" alt="Delete word"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d75700c9-ccf7-44e5-a95f-6e5117fb8a0f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Are you OK there streamer?!"/>
       </a>
     </td>
   </tr>
