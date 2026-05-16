@@ -55,8 +55,8 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/621aaa20-3a2f-4356-9b73-a2935b5ecad3/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
@@ -65,8 +65,8 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2651397f-8e56-4df8-8682-5d9baaef8097/landscape/thumb/thumb-0000000000-480x272.jpg" alt="New PowerToys contributor!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49954bb5-8fd8-41e9-ab2c-d3ae07f1982a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
