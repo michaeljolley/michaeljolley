@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6e4c788e-f754-4f04-8bb9-59a7ba462c24/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e58c62de-fa29-43b6-9b31-9f61cd0b080a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c71a092c-4bff-43ba-8ea4-4b5771bce02d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamyCorrectSoybeanAMPEnergyCherry" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c8d7d103-da78-4132-8919-1021f45ea5aa/landscape/thumb/thumb-0000000000-480x272.jpg" alt="It&#39;s like we don&#39;t even talk anymore"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8897c569-6778-4452-891d-aa11363ae30f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/98dd0368-a1f0-41dc-a1d0-dc4ff721543d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
