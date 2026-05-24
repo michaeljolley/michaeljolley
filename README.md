@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/be6746a1-9b32-4e49-a704-44fad693631f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Delete word"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/800852fb-9e81-483d-a957-8fc17a88dc1c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f89a67c-1d1e-4da0-85af-24e637fb9ad7/landscape/thumb/thumb-0000000000-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DeadSavoryWombatDansGame" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e8f1da1b-006a-4a0c-81c9-f7dc7a04777d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Peace out homies."/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a22fc1bb-ff74-49ea-81e5-c63f7876de4c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey... I hear you like themes..."/>
       </a>
     </td>
   </tr>
