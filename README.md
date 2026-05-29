@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Stop Breaking Clocks in ASP.NET Core with UTC and TimeZoneInfo](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-breaking-clocks-in-aspnet-core-with-utc-and-timezoneinfo&#x2F;)
+
+
 [From Layers to Slices: How I Ship Faster ASP.NET Core APIs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;from-layers-to-slices-how-i-ship-faster-aspnet-core-apis&#x2F;)
 
 
 [Stop Parallelizing Everything: A Practical Guide to Parallel.ForEach](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-parallelizing-everything-a-practical-guide-to-parallelforeach&#x2F;)
-
-
-[EF Core Audit Logging with Interceptors that do not Clutter Your DbContext](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;ef-core-audit-logging-with-interceptors-that-do-not-clutter-your-dbcontext&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6e4c788e-f754-4f04-8bb9-59a7ba462c24/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey Michael"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/328b23b7-3644-4cc0-a030-082c7f30b7f1/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Blazor Trailer :)"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f4ce36be-b6b3-4ca5-996a-619ba59b4915/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a22fc1bb-ff74-49ea-81e5-c63f7876de4c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey... I hear you like themes..."/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a9431dd-6526-43c5-9bce-348848675d0b/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
   </tr>
