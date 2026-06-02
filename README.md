@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CooperativeFairSharkKreygasm" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/b7da230e-55bb-45b3-8d1a-8fc02fafcffb/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Fart Candle best candle"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f89a67c-1d1e-4da0-85af-24e637fb9ad7/landscape/thumb/thumb-0000000000-480x272.jpg" alt="and.... he gone"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/328b23b7-3644-4cc0-a030-082c7f30b7f1/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Blazor Trailer :)"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c91a8830-bac1-4545-9642-d02dd5dc6e2a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c71a092c-4bff-43ba-8ea4-4b5771bce02d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
   </tr>
