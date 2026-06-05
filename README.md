@@ -55,8 +55,8 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/DeadSavoryWombatDansGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e8f1da1b-006a-4a0c-81c9-f7dc7a04777d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Peace out homies."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c71a092c-4bff-43ba-8ea4-4b5771bce02d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Every developers dream.... Ever"/>
       </a>
     </td>
     <td>
@@ -65,8 +65,8 @@ Here's a few of my recent ramblings:
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SteamySpookyOwlKappaPride" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/74671add-b15c-42c2-911d-ee7988647e8d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BBB voice programming "/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a9431dd-6526-43c5-9bce-348848675d0b/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
   </tr>
