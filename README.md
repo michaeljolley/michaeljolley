@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/98dd0368-a1f0-41dc-a1d0-dc4ff721543d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SpunkyClearGuanacoKevinTurtle-Kc-BRGRPmkYZJn4X" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/f4ce36be-b6b3-4ca5-996a-619ba59b4915/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Walk? Walk downstairs like an animal?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2651397f-8e56-4df8-8682-5d9baaef8097/landscape/thumb/thumb-0000000000-480x272.jpg" alt="New PowerToys contributor!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c5bc1fce-a8f9-4b62-bdd2-4bb4acc34bbc/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Junior !&#x3D; Senior"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/LaconicGeniusCroquetteOpieOP" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a8f21369-a4d4-4051-a892-bc39a5e4bfd4/landscape/thumb/thumb-0000000000-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/11641540-eda4-42db-995a-f7e10baef592/landscape/thumb/thumb-0000000000-480x272.jpg" alt="delete word"/>
       </a>
     </td>
   </tr>
