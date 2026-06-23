@@ -17,13 +17,13 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
+[Sealed by Default in .NET: when it Shines and when it Bites](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;sealed-by-default-in-net-when-it-shines-and-when-it-bites&#x2F;)
+
+
 [Smarter Error Handling in C#: Try, Result and Fewer Tears](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;smarter-error-handling-in-c-try-result-and-fewer-tears&#x2F;)
 
 
 [Stop Breaking Clocks in ASP.NET Core with UTC and TimeZoneInfo](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;stop-breaking-clocks-in-aspnet-core-with-utc-and-timezoneinfo&#x2F;)
-
-
-[From Layers to Slices: How I Ship Faster ASP.NET Core APIs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;from-layers-to-slices-how-i-ship-faster-aspnet-core-apis&#x2F;)
 
 
 ## 📺 Recent YouTube Videos
@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d692be4-45b8-4e94-bca8-51b1886352c4/landscape/thumb/thumb-0000000000-480x272.jpg" alt="xaml is pain"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c3816a1e-b5c8-4d6f-87d1-7d88f742d26a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/066e0a92-3674-4bfd-8851-9f743bc52707/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Vibe Coding"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BumblingSilkyYogurtShazBotstix-434-H7wF46tQD3yx" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/e58c62de-fa29-43b6-9b31-9f61cd0b080a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="That feeling when something works, and you don&#39;t know why!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49954bb5-8fd8-41e9-ab2c-d3ae07f1982a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Intro"/>
       </a>
     </td>
   </tr>
