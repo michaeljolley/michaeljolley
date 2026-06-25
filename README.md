@@ -55,13 +55,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FineElegantBorkMau5" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6e4c788e-f754-4f04-8bb9-59a7ba462c24/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey Michael"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HardEnticingDinosaurPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49a2662a-22e8-463c-85da-e7d670e160c1/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BBB Business Advice"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9adfcc77-fd8e-4b62-b327-5f4584ec4d34/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Just the right theme!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/83c12101-feae-41f0-b2df-4a008259ceae/landscape/thumb/thumb-0000000000-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
