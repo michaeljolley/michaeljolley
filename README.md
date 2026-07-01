@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/UninterestedFreezingLarkKappaClaus-f-h1J3sR_hmHhxBJ" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/066e0a92-3674-4bfd-8851-9f743bc52707/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Vibe Coding"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8897c569-6778-4452-891d-aa11363ae30f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/800852fb-9e81-483d-a957-8fc17a88dc1c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d692be4-45b8-4e94-bca8-51b1886352c4/landscape/thumb/thumb-0000000000-480x272.jpg" alt="xaml is pain"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/896b0ad8-44c3-41c7-88b1-e427379fefd2/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpUnusualToothRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/fa387cf0-47b9-4a6c-b8b0-d3388ffc2813/landscape/thumb/thumb-0000000000-480x272.jpg" alt="say docker three times"/>
       </a>
     </td>
   </tr>
