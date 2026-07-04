@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7d4d986f-1cf7-4e83-b3bd-779238c6acf8/landscape/thumb/thumb-0000000000-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2651397f-8e56-4df8-8682-5d9baaef8097/landscape/thumb/thumb-0000000000-480x272.jpg" alt="New PowerToys contributor!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/792d72ca-7829-4146-b072-18238d2f4139/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/59326b4b-cd6a-4d03-889b-786930cae15f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BoldRacyTubersTakeNRG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/bdf0fa2a-ba4e-4c10-a340-e8b6bdfb52b9/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Putting that on my LinkedIn"/>
       </a>
     </td>
   </tr>
