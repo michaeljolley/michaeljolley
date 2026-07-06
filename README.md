@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/EnthusiasticTriangularSandwichBIRB-GdGjiYrII4PyZ8Za" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/49954bb5-8fd8-41e9-ab2c-d3ae07f1982a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Intro"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6a1f0ca9-5d17-4ecf-a733-b563d861332c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/IronicMoralSwordPanicVis" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c5bc1fce-a8f9-4b62-bdd2-4bb4acc34bbc/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Junior !&#x3D; Senior"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AgreeableCredulousTildeJebaited" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/83c12101-feae-41f0-b2df-4a008259ceae/landscape/thumb/thumb-0000000000-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TardyAffluentCheeseAMPEnergy-7LSKu--125lSfUIN" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/621aaa20-3a2f-4356-9b73-a2935b5ecad3/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus - The Musical"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SuspiciousAmazingGaurAllenHuhu-OZtJcJxYaaUnM2Uw" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9d692be4-45b8-4e94-bca8-51b1886352c4/landscape/thumb/thumb-0000000000-480x272.jpg" alt="xaml is pain"/>
       </a>
     </td>
   </tr>
