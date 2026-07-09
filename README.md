@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/792d72ca-7829-4146-b072-18238d2f4139/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a83b9fb0-cffd-46b8-b8d5-2f0294c15c1f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AmazonianRoughWaterCopyThis-Cu2rmqaBueeEwX-u" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d75700c9-ccf7-44e5-a95f-6e5117fb8a0f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Are you OK there streamer?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/11641540-eda4-42db-995a-f7e10baef592/landscape/thumb/thumb-0000000000-480x272.jpg" alt="delete word"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TrustworthySmoggyPelicanPRChase" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/896b0ad8-44c3-41c7-88b1-e427379fefd2/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BOUNCE BOUNCE BOUNCE"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleKathishFriesRuleFive" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/98dd0368-a1f0-41dc-a1d0-dc4ff721543d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Updating our VS Code extension to use ComfyJS  |  !help !theme !giving"/>
       </a>
     </td>
   </tr>
