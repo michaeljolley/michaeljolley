@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/AgreeableCredulousTildeJebaited" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/83c12101-feae-41f0-b2df-4a008259ceae/landscape/thumb/thumb-0000000000-480x272.jpg" alt="🎵 Our bug, in the middle of the docs, our bug, in the middle of the docs 🎶"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TriumphantColdbloodedFungusVoteYea-lEhuFfnyVWWcEIKe" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/9adfcc77-fd8e-4b62-b327-5f4584ec4d34/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Just the right theme!"/>
-      </a>
-    </td>
-    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a22fc1bb-ff74-49ea-81e5-c63f7876de4c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0b0c131e-2175-4b2e-befa-9a01190d1b01/landscape/thumb/thumb-0000000000-480x272.jpg" alt="You mad bro?!"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/800852fb-9e81-483d-a957-8fc17a88dc1c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
       </a>
     </td>
   </tr>
