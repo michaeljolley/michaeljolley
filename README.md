@@ -55,18 +55,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/PlumpGrossNarwhalStinkyCheese" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/be6746a1-9b32-4e49-a704-44fad693631f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Delete word"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearFrozenSowKappaWealth-ZuLUYrO5KgbHxhUW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ee3ef645-6fc7-45bc-af78-097ab4a95ccc/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Slow Jam to Code"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a83b9fb0-cffd-46b8-b8d5-2f0294c15c1f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="blazor week wins poll"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/GrotesqueFunWombatFailFish-pDszii1TOAzY09y4" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/6a1f0ca9-5d17-4ecf-a733-b563d861332c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Got him!"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SplendidSuaveFoxMcaT-Jtgey6awk0ERFl2l" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/2651397f-8e56-4df8-8682-5d9baaef8097/landscape/thumb/thumb-0000000000-480x272.jpg" alt="New PowerToys contributor!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MotionlessSolidKaleTwitchRPG" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c3816a1e-b5c8-4d6f-87d1-7d88f742d26a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="DeliWorld"/>
       </a>
     </td>
   </tr>
