@@ -17,15 +17,6 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 
-[Virtual vs Override vs Partial in C# Explained with Small Runnable Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;virtual-vs-override-vs-partial-in-c-explained-with-small-runnable-examples&#x2F;)
-
-
-[EF Core Query Performance Tips for Everyone](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;ef-core-query-performance-tips-for-everyone&#x2F;)
-
-
-[Sealed by Default in .NET: when it Shines and when it Bites](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;blog&#x2F;sealed-by-default-in-net-when-it-shines-and-when-it-bites&#x2F;)
-
-
 ## 📺 Recent YouTube Videos
 
 <table>
@@ -55,18 +46,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ClearCharmingGuanacoMVGame" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c71a092c-4bff-43ba-8ea4-4b5771bce02d/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Every developers dream.... Ever"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/LaconicGeniusCroquetteOpieOP" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a8f21369-a4d4-4051-a892-bc39a5e4bfd4/landscape/thumb/thumb-0000000000-480x272.jpg" alt="THAT&#39;S A LOT OF THEMES"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/InspiringObservantAardvarkHassaanChop-FAmDDsN5jGnf-mVf" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/ae9b4f76-f949-47a9-a6e9-b509a22ee7f8/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Link to follow soon..."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TiredComfortableMeatloafSuperVinlin" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/3a9431dd-6526-43c5-9bce-348848675d0b/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Attention: don&#39;t trust mods when testing SFX levels"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousMotionlessMageVoHiYo" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7daa2235-c35d-4e69-bac8-fbec5b964e27/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Sneaky RamblingGeek (bottom right)"/>
       </a>
     </td>
   </tr>
