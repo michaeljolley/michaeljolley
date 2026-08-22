@@ -16,6 +16,11 @@ Here's a few of my recent ramblings:
 
 ## 📝 Recent Blog Posts
 
+[Measure Twice Allocate Once: Faster Lists in .NET](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;measure-twice-allocate-once-faster-lists-in-net&#x2F;)
+
+[Tame Configuration in ASP.NET Core with IValidateOptions](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;aspnetcore&#x2F;tame-configuration-in-aspnet-core-with-ivalidateoptions&#x2F;)
+
+[Virtual vs Override vs Partial in C# Explained with Small Runnable Examples](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;virtual-vs-override-vs-partial-in-c-explained-with-small-runnable-examples&#x2F;)
 
 ## 📺 Recent YouTube Videos
 
@@ -46,13 +51,13 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/CredulousAdventurousLyrebirdSeemsGood" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d59b9841-6697-4f61-8d83-ce79371d9927/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Salma is heartless"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/BovineCallousPandaWutFace-E3CPBruwOFhcCFmW" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/79fd4d34-f027-4064-95b5-efb4ee4bff2b/landscape/thumb/thumb-0000000000-480x272.jpg" alt="one minute your focused, then...."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/RudeSmallZucchiniBIRB" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/59326b4b-cd6a-4d03-889b-786930cae15f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HomelyDirtyKuduBIRB" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/792d72ca-7829-4146-b072-18238d2f4139/landscape/thumb/thumb-0000000000-480x272.jpg" alt="BBB complimenting WhiteP4nth3r #2"/>
       </a>
     </td>
     <td>

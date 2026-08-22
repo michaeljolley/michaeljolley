@@ -17,11 +17,9 @@ Here's a few of my recent ramblings:
 ## 📝 Recent Blog Posts
 
 {{#posts}}
-
 [{{title}}]({{link}})
 
 {{/posts}}
-
 ## 📺 Recent YouTube Videos
 
 <table>
