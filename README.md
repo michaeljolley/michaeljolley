@@ -51,18 +51,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/HeartlessCourteousPartridgeBuddhaBar-zWccXgJycFJ35dnH" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7d4d986f-1cf7-4e83-b3bd-779238c6acf8/landscape/thumb/thumb-0000000000-480x272.jpg" alt="What happened?"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8897c569-6778-4452-891d-aa11363ae30f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus Song"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/JollyAverageOxStoneLightning" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a22fc1bb-ff74-49ea-81e5-c63f7876de4c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Hey... I hear you like themes..."/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SlipperyInterestingDeerAMPTropPunch" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/0b0c131e-2175-4b2e-befa-9a01190d1b01/landscape/thumb/thumb-0000000000-480x272.jpg" alt="You mad bro?!"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a83b9fb0-cffd-46b8-b8d5-2f0294c15c1f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
   </tr>
