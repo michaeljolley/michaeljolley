@@ -16,11 +16,11 @@ Here's a few of my recent ramblings:
 
 ## 📝 Recent Blog Posts
 
+[Unit of Work with Entity Framework Core Done Right](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;data&#x2F;unit-of-work-with-entity-framework-core-done-right&#x2F;)
+
+[From sln to slnx in Minutes: Cleaner Diffs, Faster Merges](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;windows&#x2F;from-sln-to-slnx-in-minutes-cleaner-diffs-faster-merges&#x2F;)
+
 [Five DI Anti-Patterns Haunting .NET Apps and how to fix Them](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;aspnetcore&#x2F;five-di-anti-patterns-haunting-net-apps-and-how-to-fix-them&#x2F;)
-
-[Measure Twice Allocate Once: Faster Lists in .NET](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;measure-twice-allocate-once-faster-lists-in-net&#x2F;)
-
-[Tame Configuration in ASP.NET Core with IValidateOptions](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;aspnetcore&#x2F;tame-configuration-in-aspnet-core-with-ivalidateoptions&#x2F;)
 
 ## 📺 Recent YouTube Videos
 
@@ -51,18 +51,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c91a8830-bac1-4545-9642-d02dd5dc6e2a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f89a67c-1d1e-4da0-85af-24e637fb9ad7/landscape/thumb/thumb-0000000000-480x272.jpg" alt="and.... he gone"/>
+      </a>
+    </td>
+    <td>
       <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
         <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8897c569-6778-4452-891d-aa11363ae30f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus Song"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ElatedSavageMomOSfrog" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/d7b85401-f3c9-4ec6-bbfd-1c8c8d22f193/landscape/thumb/thumb-0000000000-480x272.jpg" alt="My mother called... then she sassed me."/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ZealousEncouragingLouseEleGiggle" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/a83b9fb0-cffd-46b8-b8d5-2f0294c15c1f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="blazor week wins poll"/>
       </a>
     </td>
   </tr>
