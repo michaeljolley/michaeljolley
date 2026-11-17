@@ -16,11 +16,11 @@ Here's a few of my recent ramblings:
 
 ## 📝 Recent Blog Posts
 
-[Unit of Work with Entity Framework Core Done Right](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;data&#x2F;unit-of-work-with-entity-framework-core-done-right&#x2F;)
+[Less Prose, More Signal: a C# Guide to Honest Logs](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;less-prose-more-signal-a-c-guide-to-honest-logs&#x2F;)
 
-[From sln to slnx in Minutes: Cleaner Diffs, Faster Merges](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;windows&#x2F;from-sln-to-slnx-in-minutes-cleaner-diffs-faster-merges&#x2F;)
+[Stop sprinkling async on everything in ASP.NET Core](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;stop-sprinkling-async-on-everything-in-aspnet-core&#x2F;)
 
-[Five DI Anti-Patterns Haunting .NET Apps and how to fix Them](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;aspnetcore&#x2F;five-di-anti-patterns-haunting-net-apps-and-how-to-fix-them&#x2F;)
+[Yield return vs return in C#: when to stream and when to deliver](https:&#x2F;&#x2F;baldbeardedbuilder.com&#x2F;csharp&#x2F;yield-return-vs-return-in-c-when-to-stream-and-when-to-deliver&#x2F;)
 
 ## 📺 Recent YouTube Videos
 
@@ -51,18 +51,18 @@ Here's a few of my recent ramblings:
 <table>
   <tr>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/VibrantMoldySalsifyVoteNay" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/c91a8830-bac1-4545-9642-d02dd5dc6e2a/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Let&#39;s play with VueJS 3 today |  !help !theme !giving"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/ManlyConcernedSnoodSoonerLater-eE40IN4Pua1yrx1e" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/800852fb-9e81-483d-a957-8fc17a88dc1c/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Have you ever been lost in the gaze of BBB?"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/TangibleNaiveEggnogPicoMause" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/7f89a67c-1d1e-4da0-85af-24e637fb9ad7/landscape/thumb/thumb-0000000000-480x272.jpg" alt="and.... he gone"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/MushyUnusualWebDansGame" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/328b23b7-3644-4cc0-a030-082c7f30b7f1/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Blazor Trailer :)"/>
       </a>
     </td>
     <td>
-      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/FantasticMagnificentWatermelonPanicBasket" target="_blank">
-        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/8897c569-6778-4452-891d-aa11363ae30f/landscape/thumb/thumb-0000000000-480x272.jpg" alt="Asparagus Song"/>
+      <a href="https://www.twitch.tv/baldbeardedbuilder/clip/SassyLightHamburgerHeyGuys" target="_blank">
+        <img src="https://static-cdn.jtvnw.net/twitch-video-assets/twitch-vap-video-assets-prod-us-west-2/11641540-eda4-42db-995a-f7e10baef592/landscape/thumb/thumb-0000000000-480x272.jpg" alt="delete word"/>
       </a>
     </td>
   </tr>
